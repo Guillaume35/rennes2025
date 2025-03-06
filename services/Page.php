@@ -12,7 +12,7 @@ class Page {
 
     public ?array $variables = [];
 
-    public function __construct(array $configOptions = null)
+    public function __construct(?array $configOptions = null)
     {
         if ($configOptions) {
             $props = ["title", "content", "structure", "variables"];
@@ -45,6 +45,8 @@ class Page {
         }
 
         $page = $this;
+
+        $content = preg_replace('/<!--(.*?)-->/s', '', $content);
 
         $page->content = $content;
         
