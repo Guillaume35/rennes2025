@@ -655,7 +655,7 @@ h1 {
 
 .card-shadow-link:hover {
     /*box-shadow: 12px 12px #9c0286;*/
-    box-shadow: 8px 8px #bc1742;
+    box-shadow: 12px 12px #bc1742;
 }
 
 .card-shadow-primary {
