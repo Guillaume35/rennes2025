@@ -8,7 +8,7 @@
             </a>
     
             <a href="/" class="navbar-logo">
-                <img src="/assets/logo-sombre.png" alt="Étape zone Nord Roller Artistique" class="logo-image img-fluid">
+                <img src="/assets/logo-degrade.png" alt="Étape zone Nord Roller Artistique" class="logo-image img-fluid">
             </a>
         </div>
 
