@@ -243,6 +243,7 @@ h1 {
 .btn-primary:hover {
     /*background-color: #730163;*/
     background-color: #2c4c9b;
+    border: 1px solid #2c4c9b;
 }
 
 .btn-outline-primary {
@@ -260,7 +261,7 @@ h1 {
 .btn-outline-primary:hover,
 .card-shadow-link:hover .btn-outline-primary {
     /*border-color: #730163;*/
-    border-color: #2c4c9b;
+    border-color: #bc1742;
     /*background-color: #9c0286;*/
     background-color: #bc1742;
     color:white;
