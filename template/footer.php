@@ -37,7 +37,7 @@
                 <img src="/assets/partners/logo-vdr.svg" alt="Ville de Rennes" class="partner-image">
             </li>
             <li class="partner-item">
-                <img src="/assets/partners/bretagne.png" alt="Région Bretagne" class="partner-image">
+                <img src="/assets/partners/RB_monochrome_noir.svg" alt="Région Bretagne" class="partner-image">
             </li>
         </ul>
     </div>
