@@ -28,13 +28,13 @@
         <h2 class="text-center">Ils nous accompagnent</h2>
         <ul class="partners mb-4">
             <li class="partner-item">
-                <img src="/assets/partners/ffrs.png" alt="Fédération Française de Roller & Skateboard" class="partner-image">
+                <img src="/assets/partners/logo-ffrs.svg" alt="Fédération Française de Roller & Skateboard" class="partner-image">
             </li>
             <li class="partner-item">
-                <img src="/assets/partners/raiv.png" alt="Roller Artistique Ille-et-Vilaine" class="partner-image">
+                <img src="/assets/partners/logo-raiv.svg" alt="Roller Artistique Ille-et-Vilaine" class="partner-image">
             </li>
             <li class="partner-item">
-                <img src="/assets/partners/vdr-bk.png" alt="Ville de Rennes" class="partner-image">
+                <img src="/assets/partners/logo-vdr.svg" alt="Ville de Rennes" class="partner-image">
             </li>
             <li class="partner-item">
                 <img src="/assets/partners/bretagne.png" alt="Région Bretagne" class="partner-image">
