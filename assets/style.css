@@ -342,12 +342,16 @@ h1 {
 }
 
 .text-secondary {
-    color: #2c4c9b;
+    color: rgb(100,100,100);
 }
 
 .text-primary {
     /*color:#9c0286;*/
     color: #bc1742;
+}
+
+.text-primary-blue {
+    color: #2c4c9b;
 }
 
 .text-danger {
