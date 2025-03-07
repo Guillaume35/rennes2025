@@ -8,7 +8,7 @@
             </a>
     
             <a href="/" class="navbar-logo">
-                <img src="/assets/logo.png" alt="Étape zone Nord Roller Artistique" class="logo-image img-fluid">
+                <img src="/assets/logo-sombre.png" alt="Étape zone Nord Roller Artistique" class="logo-image img-fluid">
             </a>
         </div>
 
@@ -31,7 +31,7 @@
                             <a href="/competition/co" class="menu-link">Comité d'organisation</a>
                         </li>
                         <li class="menu-item">
-                            <a href="https://drive.google.com/drive/folders/12Bk3ObWou8ZsiLSJ5RnHOe99dzpIKnTz" target="_blank" class="menu-link">Google drive</a>
+                            <a href="https://drive.google.com/drive/folders/1ykPGWzFGnyFUv6Dzb2GvbjnJw6QvhhJN" target="_blank" class="menu-link">Google drive</a>
                         </li>
                     </ul>
                 </li>
