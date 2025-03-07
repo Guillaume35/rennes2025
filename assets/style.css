@@ -192,11 +192,13 @@ h1 {
 
 .menu-link.active {
     color:white;
-    background-color: #9c0286;
+    /*background-color: #9c0286;*/
+    background-color: #bc1742;
 }
 
 .menu-link:hover {
-    color: #9c0286;
+    /*color: #9c0286;*/
+    color: #bc1742;
     background-color: rgb(240,240,240);
 }
 
@@ -224,24 +226,32 @@ h1 {
 }
 
 .btn-primary {
-    background-color: #9c0286;
-    border: 1px solid #730163;
+    /*background-color: #9c0286;*/
+    background-color: #bc1742;
+    /*border: 1px solid #730163;*/
+    /*border: 1px solid #8A1031;*/
+    border: 1px solid #2c4c9b;
     color:white;
 }
 
 .btn-primary:hover {
-    background-color: #730163;
+    /*background-color: #730163;*/
+    background-color: #2c4c9b;
 }
 
 .btn-outline-primary {
-    border: 2px solid #9c0286;
-    color:#9c0286;
+    /*border: 2px solid #9c0286;*/
+    border: 2px solid #bc1742;
+    /*color:#9c0286;*/
+    color: #bc1742;
 }
 
 .btn-outline-primary:hover,
 .card-shadow-link:hover .btn-outline-primary {
-    border-color: #730163;
-    background-color: #9c0286;
+    /*border-color: #730163;*/
+    border-color: #2c4c9b;
+    /*background-color: #9c0286;*/
+    background-color: #bc1742;
     color:white;
 }
 
@@ -254,7 +264,8 @@ h1 {
 .card-shadow-link:hover .btn-outline-white {
     border-color: white;
     background-color: white;
-    color:#9c0286;
+    /*color:#9c0286;*/
+    color: #bc1742;
 }
 
 .btn-outline-star {
@@ -335,7 +346,8 @@ h1 {
 }
 
 .text-primary {
-    color:#9c0286;
+    /*color:#9c0286;*/
+    color: #bc1742;
 }
 
 .text-danger {
@@ -360,7 +372,8 @@ h1 {
 
 .highlight-light {
     background-color: white;
-    color:#9c0286;
+    /*color:#9c0286;*/
+    color: #bc1742;
     padding: 6px;
 }
 
@@ -426,15 +439,18 @@ h1 {
 .card-image {
     border-radius: 6px;
     width: 100%;
-    box-shadow: 8px 8px #9c0286;
+    /*box-shadow: 8px 8px #9c0286;*/
+    box-shadow: 8px 8px #bc1742;
 }
 
 .card-title {
-    color: #9c0286;
+    /*color: #9c0286;*/
+    color: #bc1742;
 }
 
 .section-primary {
-    background-color: #9c0286;
+    /*background-color: #9c0286;*/
+    background-color: #bc1742;
     color:white;
 }
 
@@ -443,7 +459,8 @@ h1 {
     content: "";
     height: 28px;
     background: rgb(255,255,255);
-    background: linear-gradient(0.5deg, rgba(255,255,255,1) 50%, #9c0286 51%);
+    /*background: linear-gradient(0.5deg, rgba(255,255,255,1) 50%, #9c0286 51%);*/
+    background: linear-gradient(0.5deg, rgba(255,255,255,1) 50%, #bc1742 51%);
 }
 
 .section-primary::before {
@@ -451,7 +468,8 @@ h1 {
     content: "";
     height: 28px;
     background: rgb(255,255,255);
-    background: linear-gradient(180.5deg, rgba(255,255,255,1) 50%, #9c0286 51%);
+    /*background: linear-gradient(180.5deg, rgba(255,255,255,1) 50%, #9c0286 51%);*/
+    background: linear-gradient(180.5deg, rgba(255,255,255,1) 50%, #bc1742 51%);
 }
 
 .section-dark {
@@ -604,13 +622,15 @@ h1 {
 
 .card-shadow-light {
     background-color: rgb(235, 235, 235);
-    box-shadow: 8px 8px #9c0286;
+    /*box-shadow: 8px 8px #9c0286;*/
+    box-shadow: 8px 8px #bc1742;
 }
 
 .card-shadow-dark {
     background-color: rgb(50, 50, 50);
     color:white;
-    box-shadow: 8px 8px #9c0286;
+    /*box-shadow: 8px 8px #9c0286;*/
+    box-shadow: 8px 8px #bc1742;
 }
 
 .card-shadow-link {
@@ -620,11 +640,13 @@ h1 {
 }
 
 .card-shadow-link:hover {
-    box-shadow: 12px 12px #9c0286;
+    /*box-shadow: 12px 12px #9c0286;*/
+    box-shadow: 8px 8px #bc1742;
 }
 
 .card-shadow-primary {
-    background-color: #9c0286;
+    /*background-color: #9c0286;*/
+    background-color: #bc1742;
     box-shadow: 8px 8px rgb(235, 235, 235);
     color:white;
 }
