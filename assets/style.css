@@ -397,21 +397,16 @@ h1 {
     font-size: 130% !important;
 }
 
-.highlight-light, .highlight-red, .highlight-blue {
+.highlight-light {
     background-color: white;
     /*color:#9c0286;*/
     color: #bc1742;
     padding: 6px;
 }
 
-.highlight-red {
-    background-color: #bc1742;
-    color: white;
-}
-
-.highlight-blue {
-    background-color: #2c4c9b;
-    color: white;
+.highlight {
+    padding-right: 5px;
+    font-weight: bold;
 }
 
 .schedule-table-container {
@@ -794,4 +789,6 @@ h1 {
 .logo-banniere {
     max-width: 400px;
     margin-bottom: 40px;
+    padding-right: 5px;
+    padding-left: 5px;
 }

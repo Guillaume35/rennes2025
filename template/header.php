@@ -8,7 +8,7 @@
             </a>
     
             <a href="/" class="navbar-logo">
-                <img src="/assets/logo-degrade.svg" alt="Étape zone Nord Roller Artistique" class="logo-image img-fluid">
+                <img src="/assets/logo-degrade.svg" alt="championnat de france Demi final N1 Roller artistique" class="logo-image img-fluid">
             </a>
         </div>
 
