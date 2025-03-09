@@ -12,19 +12,19 @@
 
                 <li class="partner-item">
                     <a href="https://mybodycreations.com/" target="_blank">
-                        <img src="/assets/partners/my-body-creation.svg" alt="My Body Creation" class="partner-image">
+                        <img src="/assets/partners/my-body-creation.svg" alt="My Body Creations" class="partner-image">
                     </a>
                 </li>
 
                 <li class="partner-item">
-                    <a href="https://valuenacreations.wixsite.com/websitegit" target="_blank">
+                    <a href="https://valuenacreations.wixsite.com/website" target="_blank">
                         <img src="/assets/partners/valuena-creations.svg" alt="Valuena" class="partner-image">
                     </a>
                 </li>
 
                 <li class="partner-item">
                     <a href="https://www.terredemarins.fr/" target="_blank">
-                        <img src="/assets/partners/terre-de-marins-blanc.svg" alt="Terre de marin" class="partner-image">
+                        <img src="/assets/partners/terre-de-marins-blanc.svg" alt="Terre de marins" class="partner-image">
                     </a>
                 </li>
 
