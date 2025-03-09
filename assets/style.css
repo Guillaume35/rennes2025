@@ -640,6 +640,24 @@ h1 {
     }
 }
 
+.partner-image {
+    width: 100%;
+    display:block;
+}
+
+.social-image {
+    max-width: 28px !important;
+}
+
+a.social-link .social-image {
+    opacity: 0.6;
+    transition: opacity .3s;
+}
+
+a.social-link:hover .social-image {
+    opacity: 0.8;
+}
+
 .card-shadow {
     border-radius: 6px;
     display: block;

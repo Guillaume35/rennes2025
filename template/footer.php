@@ -40,7 +40,15 @@
     <div class="container my-4">
         <ul class="partners mb-4">
             <li class="partner-item">
-                <img src="/assets/social/instagram_black.svg" alt="instagram" class="partner-image">
+                <a href="https://www.instagram.com/rollerartistique_rennes2025/" class="social-link" target="_blank">
+                    <img src="/assets/social/instagram_black.svg" alt="instagram" class="partner-image social-image">
+                </a>
+            </li>
+
+            <li class="partner-item">
+                <a href="https://www.facebook.com/profile.php?id=61573831208101" class="social-link" target="_blank">
+                    <img src="/assets/social/facebook_black.svg" alt="facebook" class="partner-image social-image">
+                </a>
             </li>
         </ul>
     </div>
