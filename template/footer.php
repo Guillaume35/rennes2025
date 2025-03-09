@@ -6,19 +6,11 @@
     
             <ul class="partners mb-4">
                 <li class="partner-item">
-                    <img src="/assets/partners/soloop.png" alt="Soloop" class="partner-image">
+                    <img src="/assets/partners/LOGO-MBC.svg" alt="My Body Creation" class="partner-image">
                 </li>
+
                 <li class="partner-item">
-                    <img src="/assets/partners/mbc.png" alt="My Body Creation" class="partner-image">
-                </li>
-                <li class="partner-item">
-                    <img src="/assets/partners/valuena.png" alt="Valuena" class="partner-image">
-                </li>
-                <li class="partner-item">
-                    <img src="/assets/partners/appartcity.png" alt="Appart City" class="partner-image">
-                </li>
-                <li class="partner-item">
-                    <img src="/assets/partners/terre-de-marin.png" alt="Terre de Marin" class="partner-image">
+                    <img src="/assets/partners/Logo-Valuena-modif.svg" alt="Valuena" class="partner-image">
                 </li>
             </ul>
         </div>
