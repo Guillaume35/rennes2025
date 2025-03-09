@@ -94,7 +94,7 @@ h1 {
 }
 
 .logo-image {
-    max-height: 54px;
+    max-height: 56px;
     max-width: 150px;
     width: 100%;
     display: block;
@@ -156,7 +156,7 @@ h1 {
 .menu-content {
     display:none;
     position:fixed;
-    top: 56px;
+    top: 72px;
     bottom: 0px;
     left: 0px;
     right: 0px;
@@ -726,11 +726,8 @@ h1 {
 
 .department {
     background-color: #fff;
-    border: 1px solid #ddd;
     border-radius: 5px;
     margin-bottom: 20px;
-    padding: 20px;
-    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
 }
 
 .department-title {
