@@ -722,3 +722,53 @@ h1 {
 .article {
     max-width: 768px;
 }
+
+
+.department {
+    background-color: #fff;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    margin-bottom: 20px;
+    padding: 20px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.department-title {
+    background-color: #bc1742;
+    color: #fff;
+    padding: 10px;
+    border-radius: 5px;
+    text-align: center;
+    font-size: 18px;
+    margin-bottom: 20px;
+}
+
+.responsables {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+
+.responsable {
+    text-align: center;
+    margin: 10px;
+}
+
+.responsable-avatar {
+    border-radius: 50%;
+    width: 80px;
+    height: 80px;
+    object-fit: cover;
+    margin-bottom: 10px;
+}
+
+.responsable-name {
+    font-size: 16px;
+    font-weight: bold;
+    color: #333;
+}
+
+.responsable-role {
+    font-size: 14px;
+    color: #777;
+}
