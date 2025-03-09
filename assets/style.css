@@ -96,6 +96,7 @@ h1 {
 .logo-image {
     max-height: 54px;
     max-width: 150px;
+    width: 100%;
     display: block;
 }
 
