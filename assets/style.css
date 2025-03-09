@@ -69,10 +69,6 @@ h1 {
     object-position: 50% 0%;
 }
 
-.opacity-50 {
-    opacity: 0.5;
-}
-
 .navbar {
     position: sticky;
     z-index: 100;
