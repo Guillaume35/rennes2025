@@ -12,8 +12,14 @@
                 </li>
 
                 <li class="partner-item">
-                    <a href=" https://valuenacreations.wixsite.com/websitegit" target="_blank">
+                    <a href="https://valuenacreations.wixsite.com/websitegit" target="_blank">
                         <img src="/assets/partners/valuena-creations.svg" alt="Valuena" class="partner-image">
+                    </a>
+                </li>
+
+                <li class="partner-item">
+                    <a href="https://www.terredemarins.fr/" target="_blank">
+                        <img src="/assets/partners/terre-de-marrins-blanc.svg" alt="Terre de marin" class="partner-image">
                     </a>
                 </li>
             </ul>
