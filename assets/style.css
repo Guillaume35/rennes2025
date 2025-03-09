@@ -227,7 +227,6 @@ h1 {
 .btn-primary {
     background: rgb(188, 23, 66);
     background: linear-gradient(124deg, rgba(188, 23, 66, 1) 12%, rgba(44, 76, 155, 1) 99%);
-    /*background-color: #bc1742;*/
     border: 2px solid #bc1742;
     color:white;
 }
@@ -255,9 +254,7 @@ h1 {
 
 .btn-outline-primary:hover,
 .card-shadow-link:hover .btn-outline-primary {
-    /*border-color: #730163;*/
     border-color: #bc1742;
-    /*background-color: #9c0286;*/
     background-color: #bc1742;
     color:white;
 }
@@ -363,7 +360,6 @@ h1 {
 }
 
 .text-primary {
-    /*color:#9c0286;*/
     color: #bc1742;
 }
 
@@ -399,7 +395,6 @@ h1 {
 
 .highlight-light {
     background-color: white;
-    /*color:#9c0286;*/
     color: #bc1742;
     padding: 6px;
 }
@@ -471,17 +466,14 @@ h1 {
 .card-image {
     border-radius: 6px;
     width: 100%;
-    /*box-shadow: 8px 8px #9c0286;*/
     box-shadow: 8px 8px #bc1742;
 }
 
 .card-title {
-    /*color: #9c0286;*/
     color: #bc1742;
 }
 
 .section-primary {
-    /*background-color: #9c0286;*/
     background-color: #bc1742;
     color:white;
 }
@@ -491,7 +483,6 @@ h1 {
     content: "";
     height: 28px;
     background: rgb(255,255,255);
-    /*background: linear-gradient(0.5deg, rgba(255,255,255,1) 50%, #9c0286 51%);*/
     background: linear-gradient(0.5deg, rgba(255,255,255,1) 50%, #bc1742 51%);
 }
 
@@ -500,7 +491,6 @@ h1 {
     content: "";
     height: 28px;
     background: rgb(255,255,255);
-    /*background: linear-gradient(180.5deg, rgba(255,255,255,1) 50%, #9c0286 51%);*/
     background: linear-gradient(180.5deg, rgba(255,255,255,1) 50%, #bc1742 51%);
 }
 
@@ -679,7 +669,6 @@ a.social-link:hover .social-image {
 .card-shadow-dark {
     background-color: rgb(50, 50, 50);
     color:white;
-    /*box-shadow: 8px 8px #9c0286;*/
     box-shadow: 8px 8px #bc1742;
 }
 
@@ -690,7 +679,6 @@ a.social-link:hover .social-image {
 }
 
 .card-shadow-link:hover {
-    /*box-shadow: 12px 12px #9c0286;*/
     box-shadow: 12px 12px #bc1742;
 }
 
