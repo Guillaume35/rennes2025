@@ -37,8 +37,12 @@
         </div>
     </div>
 
-    <div class="container">
-
+    <div class="container my-4">
+        <ul class="partners mb-4">
+            <li class="partner-item">
+                <img src="/assets/social/instagram_black.svg" alt="instagram" class="partner-image">
+            </li>
+        </ul>
     </div>
 
     <div class="container my-4">
