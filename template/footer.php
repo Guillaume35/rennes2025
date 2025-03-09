@@ -1,5 +1,4 @@
 <footer class="site-footer">
-
     <div class="footer-partners my-4 section-dark text-center">
         <div class="container">
             <h2>Partenaires</h2>
@@ -36,6 +35,10 @@
                 </li>
             </ul>
         </div>
+    </div>
+
+    <div class="container">
+
     </div>
 
     <div class="container my-4">
