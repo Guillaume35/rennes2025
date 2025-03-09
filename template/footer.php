@@ -6,11 +6,15 @@
     
             <ul class="partners mb-4">
                 <li class="partner-item">
-                    <img src="/assets/partners/my-body-creation.svg" alt="My Body Creation" class="partner-image">
+                    <a href="https://mybodycreations.com/" target="_blank">
+                        <img src="/assets/partners/my-body-creation.svg" alt="My Body Creation" class="partner-image">
+                    </a>
                 </li>
 
                 <li class="partner-item">
-                    <img src="/assets/partners/valuena-creations.svg" alt="Valuena" class="partner-image">
+                    <a href=" https://valuenacreations.wixsite.com/websitegit" target="_blank">
+                        <img src="/assets/partners/valuena-creations.svg" alt="Valuena" class="partner-image">
+                    </a>
                 </li>
             </ul>
         </div>
