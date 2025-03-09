@@ -6,11 +6,11 @@
     
             <ul class="partners mb-4">
                 <li class="partner-item">
-                    <img src="/assets/partners/LOGO-MBC.svg" alt="My Body Creation" class="partner-image">
+                    <img src="/assets/partners/my-body-creation.svg" alt="My Body Creation" class="partner-image">
                 </li>
 
                 <li class="partner-item">
-                    <img src="/assets/partners/Logo-Valuena-modif.svg" alt="Valuena" class="partner-image">
+                    <img src="/assets/partners/valuena-creations.svg" alt="Valuena" class="partner-image">
                 </li>
             </ul>
         </div>
