@@ -6,6 +6,12 @@
     
             <ul class="partners mb-4">
                 <li class="partner-item">
+                    <a href="https://www.soloop.fr/" target="_blank">
+                        <img src="/assets/partners/soloop.png" alt="Soloop" class="partner-image">
+                    </a>
+                </li>
+
+                <li class="partner-item">
                     <a href="https://mybodycreations.com/" target="_blank">
                         <img src="/assets/partners/my-body-creation.svg" alt="My Body Creation" class="partner-image">
                     </a>
@@ -19,7 +25,13 @@
 
                 <li class="partner-item">
                     <a href="https://www.terredemarins.fr/" target="_blank">
-                        <img src="/assets/partners/terre-de-marrins-blanc.svg" alt="Terre de marin" class="partner-image">
+                        <img src="/assets/partners/terre-de-marins-blanc.svg" alt="Terre de marin" class="partner-image">
+                    </a>
+                </li>
+
+                <li class="partner-item">
+                    <a href="https://www.appartcity.com/en/destinations/bretagne/rennes/rennes-beauregard.html" target="_blank">
+                        <img src="/assets/partners/appart-city.png" alt="Appart city" class="partner-image">
                     </a>
                 </li>
             </ul>
