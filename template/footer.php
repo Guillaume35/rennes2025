@@ -1,9 +1,9 @@
 <footer class="site-footer">
     <div class="footer-partners my-4 section-dark text-center">
         <div class="container">
-            <h2>Partenaires</h2>
-    
-            <ul class="partners mb-4">
+            <h2 class="partner-title"><span class="partner-title-content">Partenaires PREMIUM</span></h2>
+
+            <ul class="partners partners-premium mb-4">
                 <li class="partner-item">
                     <a href="https://www.soloop.fr/" target="_blank">
                         <img src="/assets/partners/soloop.svg" alt="Soloop" class="partner-image partner-soloop-im">
@@ -11,20 +11,34 @@
                 </li>
 
                 <li class="partner-item">
-                    <a href="https://mybodycreations.com/" target="_blank">
-                        <img src="/assets/partners/my-body-creations.svg" alt="My Body Creations" class="partner-image partner-mbc-im">
+                    <a href="https://roll-line.it/" target="_blank">
+                        <img src="/assets/partners/roll-line.svg" alt="Roll Line" class="partner-image partner-rollline-im">
                     </a>
                 </li>
+            </ul>
 
+            <h2 class="partner-title"><span class="partner-title-content">Partenaires GOLD</span></h2>
+    
+            <ul class="partners partners-gold mb-4">
                 <li class="partner-item">
-                    <a href="https://www.terredemarins.fr/" target="_blank">
-                        <img src="/assets/partners/terre-de-marins-blanc.svg" alt="Terre de marins" class="partner-image partner-tdm-im">
+                    <a href="https://mybodycreations.com/" target="_blank">
+                        <img src="/assets/partners/my-body-creations-3.svg" alt="My Body Creations" class="partner-image partner-mbc-im">
                     </a>
                 </li>
 
                 <li class="partner-item">
                     <a href="https://valuenacreations.wixsite.com/website" target="_blank">
                         <img src="/assets/partners/valuena-creations.svg" alt="Valuena" class="partner-image partner-valuena-im">
+                    </a>
+                </li>
+            </ul>
+
+            <h2 class="partner-title partner-supporters-title"><span class="partner-title-content">Supporters</span></h2>
+
+            <ul class="partners partners-supporters mb-4">
+                <li class="partner-item">
+                    <a href="https://www.terredemarins.fr/" target="_blank">
+                        <img src="/assets/partners/terre-de-marins-blanc.svg" alt="Terre de marins" class="partner-image partner-tdm-im">
                     </a>
                 </li>
 
@@ -73,8 +87,9 @@
 
     <div class="footer-legals">
         <div class="container">
-            Championnat de France Roller Artistique - Demi-finale N1 Freeskating - Rennes 2025 - Site proposé par Roller Artistique Ille-et-Vilaine<br>
-            Photos : Sébastien Héligon
+            <p>Championnat de France Roller Artistique - Demi-finale N1 Freeskating - Rennes 2025 - Site proposé par Roller Artistique Ille-et-Vilaine</p>
+            <p>Ce site ne consomme pas de cookies et ne vous traque pas.</p>
+            <p>Photos : Sébastien Héligon</p>
         </div>
     </div>
 
