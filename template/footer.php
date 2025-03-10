@@ -17,14 +17,14 @@
                 </li>
 
                 <li class="partner-item">
-                    <a href="https://valuenacreations.wixsite.com/website" target="_blank">
-                        <img src="/assets/partners/valuena-creations.svg" alt="Valuena" class="partner-image partner-valuena-im">
+                    <a href="https://www.terredemarins.fr/" target="_blank">
+                        <img src="/assets/partners/terre-de-marins-blanc.svg" alt="Terre de marins" class="partner-image partner-tdm-im">
                     </a>
                 </li>
 
                 <li class="partner-item">
-                    <a href="https://www.terredemarins.fr/" target="_blank">
-                        <img src="/assets/partners/terre-de-marins-blanc.svg" alt="Terre de marins" class="partner-image partner-tdm-im">
+                    <a href="https://valuenacreations.wixsite.com/website" target="_blank">
+                        <img src="/assets/partners/valuena-creations.svg" alt="Valuena" class="partner-image partner-valuena-im">
                     </a>
                 </li>
 
