@@ -1,0 +1,34 @@
+.schedule-table-container {
+    border: 1px solid rgb(220, 220, 220);
+    border-radius: 6px;
+    overflow: hidden;
+}
+
+.schedule-table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.schedule-table td,
+.schedule-table th {
+    border-bottom: 1px solid rgb(220, 220, 220);
+    padding: 8px;
+}
+
+.schedule-header {
+    text-align: left;
+    text-transform: uppercase;
+}
+
+.schedule-header th {
+    font-weight: 800;
+}
+
+.schedule-final {
+    display: inline-block;
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+    background: rgb(255,185,33);
+    background: linear-gradient(45deg, rgba(255,185,33,1) 0%, rgba(255,218,0,1) 100%);
+}

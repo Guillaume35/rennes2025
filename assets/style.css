@@ -1,3 +1,8 @@
+@import url(buttons.css);
+@import url(partners.css);
+@import url(cards.css);
+@import url(schedule.css);
+
 * {
     box-sizing: border-box;
 }
@@ -202,98 +207,6 @@ h1 {
     padding: 8px 12px;
 }
 
-.btn {
-    border-radius: 6px;
-    text-decoration: none;
-    display: inline-block;
-    padding: 6px 12px;
-    color: rgb(50,50,50);
-    transition: background-color .3s, all .3s;
-}
-
-.btn-light {
-    background-color: rgb(240,240,240);
-    border: 1px solid rgb(220, 220, 220);
-}
-
-.btn-light:hover {
-    background-color: rgb(220,220,220);
-}
-
-.btn-primary {
-    background: rgb(188, 23, 66);
-    background: linear-gradient(124deg, rgba(188, 23, 66, 1) 12%, rgba(44, 76, 155, 1) 99%);
-    border: 2px solid #bc1742;
-    color:white;
-}
-
-.btn-secondary {
-    background-color: #2c4c9b;
-    border: 2px solid #2c4c9b;
-    color:white;
-}
-
-.btn-primary:hover {
-    background: rgb(188, 23, 66);
-    background: linear-gradient(124deg, rgba(188, 23, 66, 1) 12%, rgba(188, 23, 66, 1) 99%);
-}
-
-.btn-outline-primary {
-    border: 2px solid #bc1742;
-    color: #bc1742;
-}
-
-.btn-outline-secondary {
-    border: 2px solid #2c4c9b;
-    color: #2c4c9b;
-}
-
-.btn-outline-primary:hover,
-.card-shadow-link:hover .btn-outline-primary {
-    border-color: #bc1742;
-    background-color: #bc1742;
-    color:white;
-}
-
-.btn-outline-secondary:hover {
-    border-color: #2c4c9b;
-    background-color: #2c4c9b;
-    color: white;
-}
-
-.btn-outline-white {
-    border: 2px solid white;
-    color:white;
-}
-
-.btn-outline-white:hover,
-.card-shadow-link:hover .btn-outline-white {
-    border-color: white;
-    background-color: white;
-    /*color:#9c0286;*/
-    color: #bc1742;
-}
-
-.btn-outline-star {
-    border: 2px solid #173166;
-    color:#173166;
-}
-
-.btn-outline-star:hover {
-    background-color: #173166;
-    color:#63fd9a;
-}
-
-.btn-lg {
-    font-size: 20px;
-    padding: 8px 16px;
-}
-
-.btn-xl {
-    font-size: 26px;
-    padding: 8px 16px;
-}
-
 .dropdown {
     border-radius: 6px;
     transition: background-color .5s;
@@ -400,41 +313,6 @@ h1 {
     font-weight: bold;
 }
 
-.schedule-table-container {
-    border: 1px solid rgb(220, 220, 220);
-    border-radius: 6px;
-    overflow: hidden;
-}
-
-.schedule-table {
-    width: 100%;
-    border-collapse: collapse;
-}
-
-.schedule-table td,
-.schedule-table th {
-    border-bottom: 1px solid rgb(220, 220, 220);
-    padding: 8px;
-}
-
-.schedule-header {
-    text-align: left;
-    text-transform: uppercase;
-}
-
-.schedule-header th {
-    font-weight: 800;
-}
-
-.schedule-final {
-    display: inline-block;
-    width: 20px;
-    height: 20px;
-    border-radius: 50%;
-    background: rgb(255,185,33);
-    background: linear-gradient(45deg, rgba(255,185,33,1) 0%, rgba(255,218,0,1) 100%);
-}
-
 .alert-danger {
     background-color: rgb(217, 69, 69);
     padding: 0px 12px;
@@ -457,16 +335,6 @@ h1 {
     background: rgb(255,255,255);
     background: linear-gradient(180.5deg, rgba(255,255,255,1) 50%, rgba(217,69,69,1) 51%);
     margin: 0px -12px;
-}
-
-.card-image {
-    border-radius: 6px;
-    width: 100%;
-    box-shadow: 8px 8px #bc1742;
-}
-
-.card-title {
-    color: #bc1742;
 }
 
 .section-primary {
@@ -532,19 +400,6 @@ h1 {
 }
 
 @media (min-width:768px) {
-    .card {
-        display: flex;
-        align-items: start;
-    }
-
-    .card-aside {
-        padding-right: 22px;
-    }
-
-    .card-image {
-        width: 480px;
-    }
-
     .navbar {
         display: flex;
         align-items: center;
@@ -598,39 +453,6 @@ h1 {
     }
 }
 
-.partners {
-    text-align: center;
-    padding: 0;
-    margin: 0;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    flex-wrap: wrap;
-}
-
-.partner-item {
-    margin:12px 22px;
-    list-style-type: none;
-    display:inline-block;
-}
-
-.partner-image, .partner-item {
-    max-width:120px;
-    max-height: 44px;
-}
-
-@media (min-width:1024px) { 
-    .partner-item, .partner-image {
-        max-width: 160px;
-        max-height: 60px;
-    }
-}
-
-.partner-image {
-    width: 100%;
-    display:block;
-}
-
 .social-image {
     max-width: 28px !important;
 }
@@ -642,81 +464,6 @@ a.social-link .social-image {
 
 a.social-link:hover .social-image {
     opacity: 0.8;
-}
-
-.card-shadow {
-    border-radius: 6px;
-    display: block;
-    overflow: hidden;
-}
-
-.card-shadow .card-body {
-    padding: 16px;
-    z-index: 1;
-    position: relative;
-}
-
-.card-shadow-light {
-    background-color: rgb(235, 235, 235);
-    /*box-shadow: 8px 8px #9c0286;*/
-    box-shadow: 8px 8px #bc1742;
-}
-
-.card-shadow-dark {
-    background-color: rgb(50, 50, 50);
-    color:white;
-    box-shadow: 8px 8px #bc1742;
-}
-
-.card-shadow-link {
-    text-decoration: none;
-    color:rgb(50,50,50);
-    transition: box-shadow .3s;
-}
-
-.card-shadow-link:hover {
-    box-shadow: 12px 12px #bc1742;
-}
-
-.card-shadow-primary {
-    box-shadow: 8px 8px rgb(235, 235, 235);
-    color:white;
-    background: rgb(188, 23, 66);
-    background: linear-gradient(124deg, rgba(188, 23, 66, 1) 12%, rgba(44, 76, 155, 1) 99%);
-}
-
-.card-shadow-link.card-shadow-primary:hover {
-    box-shadow: 12px 12px rgb(235, 235, 235);
-}
-
-.card-shadow-dark.card-shadow-link,
-.card-shadow-primary.card-shadow-link,
-.card-shadow-raiv.card-shadow-link {
-    color:white;
-}
-
-.card-shadow-raiv {
-    background-color: #ba1414;
-    box-shadow: 8px 8px rgb(235, 235, 235);
-    color:white;
-}
-
-.card-shadow-link.card-shadow-raiv:hover {
-    box-shadow: 12px 12px rgb(235, 235, 235);
-}
-
-.card-shadow-star {
-    background-color: #63fd9a;
-    color: #173166;
-    box-shadow: 8px 8px #173166;
-}
-
-.card-shadow-star.card-shadow-link {
-    color:#173166;
-}
-
-.card-shadow-link.card-shadow-star:hover {
-    box-shadow: 12px 12px #173166;
 }
 
 .img-thumb {

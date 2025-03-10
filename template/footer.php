@@ -6,31 +6,31 @@
             <ul class="partners mb-4">
                 <li class="partner-item">
                     <a href="https://www.soloop.fr/" target="_blank">
-                        <img src="/assets/partners/soloop.png" alt="Soloop" class="partner-image">
+                        <img src="/assets/partners/soloop.svg" alt="Soloop" class="partner-image partner-soloop-im">
                     </a>
                 </li>
 
                 <li class="partner-item">
                     <a href="https://mybodycreations.com/" target="_blank">
-                        <img src="/assets/partners/my-body-creation.svg" alt="My Body Creations" class="partner-image">
+                        <img src="/assets/partners/my-body-creations.svg" alt="My Body Creations" class="partner-image partner-mbc-im">
                     </a>
                 </li>
 
                 <li class="partner-item">
                     <a href="https://valuenacreations.wixsite.com/website" target="_blank">
-                        <img src="/assets/partners/valuena-creations.svg" alt="Valuena" class="partner-image">
+                        <img src="/assets/partners/valuena-creations.svg" alt="Valuena" class="partner-image partner-valuena-im">
                     </a>
                 </li>
 
                 <li class="partner-item">
                     <a href="https://www.terredemarins.fr/" target="_blank">
-                        <img src="/assets/partners/terre-de-marins-blanc.svg" alt="Terre de marins" class="partner-image">
+                        <img src="/assets/partners/terre-de-marins-blanc.svg" alt="Terre de marins" class="partner-image partner-tdm-im">
                     </a>
                 </li>
 
                 <li class="partner-item">
                     <a href="https://www.appartcity.com/en/destinations/bretagne/rennes/rennes-beauregard.html" target="_blank">
-                        <img src="/assets/partners/appart-city.png" alt="Appart city" class="partner-image">
+                        <img src="/assets/partners/appart-city.png" alt="Appart city" class="partner-image partner-appart-im">
                     </a>
                 </li>
             </ul>
