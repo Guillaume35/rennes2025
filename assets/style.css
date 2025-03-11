@@ -70,6 +70,10 @@ h1 {
     z-index: 0;
 }
 
+.hebergement-image {
+    width: 100%;
+}
+
 .cover-image-top {
     object-position: 50% 0%;
 }

@@ -88,6 +88,12 @@
         align-items: start;
     }
 
+    .card-right {
+        display: flex;
+        align-content: end;
+        justify-content: space-around;
+    }
+
     .card-aside {
         padding-right: 22px;
     }

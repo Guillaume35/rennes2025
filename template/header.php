@@ -43,6 +43,9 @@
                             <a href="/informations/acces" class="menu-link">Accès</a>
                         </li>
                         <li class="menu-item">
+                            <a href="/informations/hebergement" class="menu-link">Hébergement</a>
+                        </li>
+                        <li class="menu-item">
                             <a href="/informations/restauration" class="menu-link">Restauration</a>
                         </li>
                         <li class="menu-item">
