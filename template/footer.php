@@ -15,6 +15,12 @@
                         <img src="/assets/partners/roll-line.svg" alt="Roll Line" class="partner-image partner-rollline-im">
                     </a>
                 </li>
+
+                <li class="partner-item">
+                    <a href="https://edeaskates.com" target="_blank">
+                        <img src="/assets/partners/edea-light.svg" alt="EDEA Skates" class="partner-image partner-edea-im">
+                    </a>
+                </li>
             </ul>
 
             <h2 class="partner-title"><span class="partner-title-content">Partenaires GOLD</span></h2>
