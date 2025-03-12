@@ -91,7 +91,7 @@
     .card-right {
         display: flex;
         align-content: end;
-        justify-content: space-around;
+        justify-content: space-between;
     }
 
     .card-aside {
