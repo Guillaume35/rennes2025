@@ -94,8 +94,16 @@ h1 {
     padding:8px 12px;
 }
 
+.img-lg {
+    max-width: 512px;
+}
+
+.img-md {
+    max-width: 256px;
+}
+
 .img-fluid {
-    max-width: 100%;
+    width: 100%;
 }
 
 .logo-image {
@@ -280,6 +288,14 @@ h1 {
     color: rgb(236, 82, 107);
 }
 
+.hightlight-appartcity {
+    background-color: rgb(236, 82, 107);
+    border-radius: 4px;
+    padding: 4px 10px;
+    color: white;
+    display: inline-block;
+}
+
 .text-primary-blue {
     color: #2c4c9b;
 }
@@ -405,6 +421,27 @@ h1 {
     height: 28px;
     background: rgb(255,255,255);
     background: linear-gradient(180.5deg, rgba(255,255,255,1) 50%, rgb(235, 235, 235) 51%);
+}
+
+.section-appartcity {
+    background-color: rgb(236, 82, 107);
+    color:white;
+}
+
+.section-appartcity::after {
+    display: block;
+    content: "";
+    height: 28px;
+    background: rgb(255,255,255);
+    background: linear-gradient(0.5deg, rgba(255,255,255,1) 50%, rgb(236, 82, 107) 51%);
+}
+
+.section-appartcity::before {
+    display: block;
+    content: "";
+    height: 28px;
+    background: rgb(255,255,255);
+    background: linear-gradient(180.5deg, rgba(255,255,255,1) 50%, rgb(236, 82, 107) 51%);
 }
 
 @media (min-width:768px) {
