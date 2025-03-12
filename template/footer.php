@@ -50,7 +50,7 @@
 
                 <li class="partner-item">
                     <a href="https://www.appartcity.com/en/destinations/bretagne/rennes/rennes-beauregard.html" target="_blank">
-                        <img src="/assets/partners/appart-city.png" alt="Appart city" class="partner-image partner-appart-im">
+                        <img src="/assets/partners/appart-city-monochrome-blanc.svg" alt="Appart city" class="partner-image partner-appart-im">
                     </a>
                 </li>
             </ul>
