@@ -12,7 +12,7 @@ html, body {
     margin: 0;
     font-family: 'Open Sans', sans-serif;
     font-size: 16px;
-    color:rgb(50,50,50);
+    color: rgb(50, 50, 50);
 }
 
 h1, h2 {
@@ -25,7 +25,7 @@ h1 {
 }
 
 .header-cover {
-    height:480px;
+    height: 480px;
     width: 100%;
     overflow: hidden;
     position: relative;
@@ -36,28 +36,28 @@ h1 {
 .header-cover::after {
     display: block;
     position: absolute;
-    bottom:0px;
-    left:0px;
-    right:0px;
+    bottom: 0px;
+    left: 0px;
+    right: 0px;
     content: "";
     height: 28px;
-    background: rgb(255,255,255);
-    background: linear-gradient(0.5deg, rgba(255,255,255,1) 50%, rgba(255,255,255,0) 51%);
+    background: rgb(255, 255, 255);
+    background: linear-gradient(0.5deg, rgba(255, 255, 255, 1) 50%, rgba(255, 255, 255, 0) 51%);
     margin: 0px -12px;
 }
 
 .header-cover-content {
     position: absolute;
     z-index: 2;
-    padding:0px 12px;
+    padding: 0px 12px;
     width: 100%;
 }
 
 .footer-legals {
     text-align: center;
     font-size: 12px;
-    margin:18px 0px;
-    color:rgb(160,160,160);
+    margin: 18px 0px;
+    color: rgb(160, 160, 160);
 }
 
 .cover-image {
@@ -81,17 +81,17 @@ h1 {
 .navbar {
     position: sticky;
     z-index: 100;
-    top:0px;
+    top: 0px;
     width: 100%;
-    background-color:white;
-    border-bottom: 1px solid rgb(200,200,200);
+    background-color: white;
+    border-bottom: 1px solid rgb(200, 200, 200);
 }
 
 .navbar-controls {
-    display:flex;
+    display: flex;
     align-items: center;
     justify-content: space-between;
-    padding:8px 12px;
+    padding: 8px 12px;
 }
 
 .img-lg {
@@ -126,7 +126,7 @@ h1 {
     height: 1px;
     width: 30px;
     top: 19px;
-    background-color: rgb(100,100,100);
+    background-color: rgb(100, 100, 100);
     border-radius: 3px;
     left: 5px;
 }
@@ -136,18 +136,18 @@ h1 {
     position: absolute;
     width: 30px;
     height: 1px;
-    background-color: rgb(100,100,100);
+    background-color: rgb(100, 100, 100);
     content: "";
     top: -10px;
     border-radius: 3px;
 }
 
-.burger-menu-icon:after{
+.burger-menu-icon:after {
     transition-duration: 0.5s;
     position: absolute;
     width: 30px;
     height: 1px;
-    background-color: rgb(100,100,100);
+    background-color: rgb(100, 100, 100);
     content: "";
     top: 10px;
     border-radius: 3px;
@@ -167,8 +167,8 @@ h1 {
 }
 
 .menu-content {
-    display:none;
-    position:fixed;
+    display: none;
+    position: fixed;
     top: 72px;
     bottom: 0px;
     left: 0px;
@@ -199,19 +199,19 @@ h1 {
     padding: 12px 12px;
     display: inline-block;
     font-weight: bold;
-    color: rgb(50,50,50);
+    color: rgb(50, 50, 50);
     text-decoration: none;
     border-radius: 6px;
 }
 
 .menu-link.active {
-    color:white;
+    color: white;
     background-color: #bc1742;
 }
 
 .menu-link:hover {
     color: #bc1742;
-    background-color: rgb(240,240,240);
+    background-color: rgb(240, 240, 240);
 }
 
 .dropdown-menu .menu-link {
@@ -245,7 +245,7 @@ h1 {
 }
 
 .dropdown.active {
-    background-color: rgb(240,240,240);
+    background-color: rgb(240, 240, 240);
 }
 
 .text-center {
@@ -265,7 +265,7 @@ h1 {
 }
 
 .bg-dark {
-    background-color: rgb(50,50,50);
+    background-color: rgb(50, 50, 50);
 }
 
 .bg-gradient {
@@ -273,11 +273,11 @@ h1 {
 }
 
 .text-light {
-    color:white;
+    color: white;
 }
 
 .text-secondary {
-    color: rgb(100,100,100);
+    color: rgb(100, 100, 100);
 }
 
 .text-primary {
@@ -301,11 +301,11 @@ h1 {
 }
 
 .text-danger {
-    color:rgb(217, 69, 69);
+    color: rgb(217, 69, 69);
 }
 
 .text-gold {
-    color:rgb(255,185,33);
+    color: rgb(255, 185, 33);
 }
 
 .text-gradient {
@@ -340,15 +340,15 @@ h1 {
 .alert-danger {
     background-color: rgb(217, 69, 69);
     padding: 0px 12px;
-    color:white;
+    color: white;
 }
 
 .alert-danger::after {
     display: block;
     content: "";
     height: 28px;
-    background: rgb(255,255,255);
-    background: linear-gradient(0.5deg, rgba(255,255,255,1) 50%, rgba(217,69,69,1) 51%);
+    background: rgb(255, 255, 255);
+    background: linear-gradient(0.5deg, rgba(255, 255, 255, 1) 50%, rgba(217, 69, 69, 1) 51%);
     margin: 0px -12px;
 }
 
@@ -356,51 +356,51 @@ h1 {
     display: block;
     content: "";
     height: 28px;
-    background: rgb(255,255,255);
-    background: linear-gradient(180.5deg, rgba(255,255,255,1) 50%, rgba(217,69,69,1) 51%);
+    background: rgb(255, 255, 255);
+    background: linear-gradient(180.5deg, rgba(255, 255, 255, 1) 50%, rgba(217, 69, 69, 1) 51%);
     margin: 0px -12px;
 }
 
 .section-primary {
     background-color: #bc1742;
-    color:white;
+    color: white;
 }
 
 .section-primary::after {
     display: block;
     content: "";
     height: 28px;
-    background: rgb(255,255,255);
-    background: linear-gradient(0.5deg, rgba(255,255,255,1) 50%, #bc1742 51%);
+    background: rgb(255, 255, 255);
+    background: linear-gradient(0.5deg, rgba(255, 255, 255, 1) 50%, #bc1742 51%);
 }
 
 .section-primary::before {
     display: block;
     content: "";
     height: 28px;
-    background: rgb(255,255,255);
-    background: linear-gradient(180.5deg, rgba(255,255,255,1) 50%, #bc1742 51%);
+    background: rgb(255, 255, 255);
+    background: linear-gradient(180.5deg, rgba(255, 255, 255, 1) 50%, #bc1742 51%);
 }
 
 .section-dark {
-    background-color: rgb(80,80,80);
-    color:white;
+    background-color: rgb(80, 80, 80);
+    color: white;
 }
 
 .section-dark::after {
     display: block;
     content: "";
     height: 28px;
-    background: rgb(255,255,255);
-    background: linear-gradient(0.5deg, rgba(255,255,255,1) 50%, rgb(80,80,80) 51%);
+    background: rgb(255, 255, 255);
+    background: linear-gradient(0.5deg, rgba(255, 255, 255, 1) 50%, rgb(80, 80, 80) 51%);
 }
 
 .section-dark::before {
     display: block;
     content: "";
     height: 28px;
-    background: rgb(255,255,255);
-    background: linear-gradient(180.5deg, rgba(255,255,255,1) 50%, rgb(80,80,80) 51%);
+    background: rgb(255, 255, 255);
+    background: linear-gradient(180.5deg, rgba(255, 255, 255, 1) 50%, rgb(80, 80, 80) 51%);
 }
 
 .section-light {
@@ -411,40 +411,40 @@ h1 {
     display: block;
     content: "";
     height: 28px;
-    background: rgb(255,255,255);
-    background: linear-gradient(0.5deg, rgba(255,255,255,1) 50%, rgb(235, 235, 235) 51%);
+    background: rgb(255, 255, 255);
+    background: linear-gradient(0.5deg, rgba(255, 255, 255, 1) 50%, rgb(235, 235, 235) 51%);
 }
 
 .section-light::before {
     display: block;
     content: "";
     height: 28px;
-    background: rgb(255,255,255);
-    background: linear-gradient(180.5deg, rgba(255,255,255,1) 50%, rgb(235, 235, 235) 51%);
+    background: rgb(255, 255, 255);
+    background: linear-gradient(180.5deg, rgba(255, 255, 255, 1) 50%, rgb(235, 235, 235) 51%);
 }
 
 .section-appartcity {
     background-color: rgb(236, 82, 107);
-    color:white;
+    color: white;
 }
 
 .section-appartcity::after {
     display: block;
     content: "";
     height: 28px;
-    background: rgb(255,255,255);
-    background: linear-gradient(0.5deg, rgba(255,255,255,1) 50%, rgb(236, 82, 107) 51%);
+    background: rgb(255, 255, 255);
+    background: linear-gradient(0.5deg, rgba(255, 255, 255, 1) 50%, rgb(236, 82, 107) 51%);
 }
 
 .section-appartcity::before {
     display: block;
     content: "";
     height: 28px;
-    background: rgb(255,255,255);
-    background: linear-gradient(180.5deg, rgba(255,255,255,1) 50%, rgb(236, 82, 107) 51%);
+    background: rgb(255, 255, 255);
+    background: linear-gradient(180.5deg, rgba(255, 255, 255, 1) 50%, rgb(236, 82, 107) 51%);
 }
 
-@media (min-width:768px) {
+@media (min-width: 768px) {
     .navbar {
         display: flex;
         align-items: center;
@@ -458,9 +458,9 @@ h1 {
     .menu-content {
         display: block;
         position: unset;
-        top:unset;
-        left:unset;
-        right:unset;
+        top: unset;
+        left: unset;
+        right: unset;
         bottom: unset;
     }
 
@@ -470,7 +470,7 @@ h1 {
     }
 
     .navbar-content {
-        padding:0px 12px;
+        padding: 0px 12px;
     }
 
     .navbar .dropdown {
@@ -479,7 +479,7 @@ h1 {
 
     .navbar .dropdown-menu {
         position: absolute;
-        background-color: rgb(240,240,240);
+        background-color: rgb(240, 240, 240);
         border-radius: 6px;
     }
 
@@ -492,7 +492,7 @@ h1 {
     }
 }
 
-@media (min-width:1024px) { 
+@media (min-width: 1024px) {
     .navbar-menu {
         font-size: 24px;
     }
@@ -512,7 +512,7 @@ a.social-link:hover .social-image {
 }
 
 .img-thumb {
-    max-width:120px;
+    max-width: 120px;
 }
 
 .rounded {
@@ -520,14 +520,14 @@ a.social-link:hover .social-image {
 }
 
 .article-image {
-    max-width:768px;
-    width:100%;
+    max-width: 768px;
+    width: 100%;
     display: block;
     margin: auto;
 }
 
 .border-bottom {
-    border-bottom: 1px solid rgb(200,200,200);
+    border-bottom: 1px solid rgb(200, 200, 200);
 }
 
 .article {
@@ -589,4 +589,22 @@ a.social-link:hover .social-image {
 
 .opacity-50 {
     opacity: 0.5;
+}
+
+
+.gallery {
+    display: flex;
+    flex-wrap: wrap;
+    max-width: 1400px;
+    justify-content: center;
+    align-items: center;
+    margin: 10px auto;
+    gap: 15px;
+}
+
+.gallery img {
+    width: 100%;
+    max-width: 200px;
+    height: 200px;
+    object-fit: cover;
 }
