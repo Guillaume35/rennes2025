@@ -594,17 +594,29 @@ a.social-link:hover .social-image {
 
 .gallery {
     display: flex;
-    flex-wrap: wrap;
-    max-width: 1400px;
-    justify-content: center;
+    overflow-x: auto;
+    justify-content: flex-start;
     align-items: center;
     margin: 10px auto;
     gap: 15px;
 }
 
 .gallery img {
-    width: 100%;
-    max-width: 200px;
-    height: 200px;
+    max-width: 250px;
+    height: 250px;
     object-fit: cover;
+}
+
+@media (min-width: 768px) {
+    .gallery {
+        overflow-x: hidden;
+        flex-wrap: wrap;
+        max-width: 1400px;
+        justify-content: center;
+    }
+
+    .gallery img {
+        max-width: 200px;
+        height: 200px;
+    }
 }
