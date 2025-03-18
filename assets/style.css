@@ -605,6 +605,7 @@ a.social-link:hover .social-image {
     max-width: 250px;
     height: 250px;
     object-fit: cover;
+    border-radius: 6px;
 }
 
 @media (min-width: 768px) {
