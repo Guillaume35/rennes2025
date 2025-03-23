@@ -6,7 +6,7 @@
             <ul class="partners partners-premium mb-4">
                 <li class="partner-item">
                     <a href="https://www.soloop.fr/" target="_blank">
-                        <img src="/assets/partners/soloop.svg" alt="Soloop" class="partner-image partner-soloop-im">
+                        <img src="/assets/partners/soloop-bold.svg" alt="Soloop" class="partner-image partner-soloop-im">
                     </a>
                 </li>
 
@@ -53,6 +53,12 @@
                         <img src="/assets/partners/appart-city-monochrome-blanc.svg" alt="Appart city" class="partner-image partner-appart-im">
                     </a>
                 </li>
+
+                <li class="partner-item">
+                    <a href="https://www.martiniault-sieges.fr/" target="_blank">
+                        <img src="/assets/partners/martiniault-blanc.svg" alt="Martiniault" class="partner-image partner-martiniault-im">
+                    </a>
+                </li>
             </ul>
         </div>
     </div>
@@ -77,16 +83,16 @@
         <h2 class="text-center">Ils nous accompagnent</h2>
         <ul class="partners mb-4">
             <li class="partner-item">
-                <img src="/assets/partners/logo-ffrs.svg" alt="Fédération Française de Roller & Skateboard" class="partner-image">
+                <img src="/assets/partners/logo-vdr.svg" alt="Ville de Rennes" class="partner-image">
             </li>
             <li class="partner-item">
                 <img src="/assets/partners/logo-raiv.svg" alt="Roller Artistique Ille-et-Vilaine" class="partner-image">
             </li>
             <li class="partner-item">
-                <img src="/assets/partners/logo-vdr.svg" alt="Ville de Rennes" class="partner-image">
+                <img src="/assets/partners/beaumanoir-dinan.svg" alt="La Beaumanoir Dinan" class="partner-image">
             </li>
             <li class="partner-item">
-                <img src="/assets/partners/RB_monochrome_noir.svg" alt="Région Bretagne" class="partner-image">
+                <img src="/assets/partners/logo-ffrs.svg" alt="Fédération Française de Roller & Skateboard" class="partner-image">
             </li>
         </ul>
     </div>
