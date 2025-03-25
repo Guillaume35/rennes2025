@@ -38,6 +38,12 @@
     background: linear-gradient(124deg, rgba(188, 23, 66, 1) 12%, rgba(44, 76, 155, 1) 99%);
 }
 
+.card-shadow-secondary {
+    box-shadow: 8px 8px rgba(188, 23, 66, 1);
+    color:white;
+    background: rgba(44, 76, 155, 1);
+}
+
 .card-shadow-link.card-shadow-primary:hover {
     box-shadow: 12px 12px rgb(235, 235, 235);
 }

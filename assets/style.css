@@ -621,3 +621,59 @@ a.social-link:hover .social-image {
         height: 200px;
     }
 }
+
+.carousel {
+    position: relative;
+    width: 100%;
+    max-width: 600px;
+    margin: auto;
+    overflow: hidden;
+}
+
+.carousel-inner {
+    display: flex;
+    transition: transform 0.5s ease-in-out;
+}
+
+.carousel-item {
+    min-width: 100%;
+    box-sizing: border-box;
+}
+
+.img-fluid {
+    width: 100%;
+    height: auto;
+}
+
+input[name="carousel-radio"] {
+    display: none;
+}
+
+#slide1:checked ~ .carousel-inner {
+    transform: translateX(0%);
+}
+
+#slide2:checked ~ .carousel-inner {
+    transform: translateX(-100%);
+}
+
+.carousel-controls {
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+}
+
+.carousel-control {
+    background-color: rgba(0, 0, 0, 0.5);
+    color: white;
+    border: none;
+    padding: 10px;
+    cursor: pointer;
+}
+
+.carousel-control:hover {
+    background-color: rgba(0, 0, 0, 0.7);
+}
