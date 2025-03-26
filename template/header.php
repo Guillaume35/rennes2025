@@ -65,6 +65,9 @@
                         </li>
                     </ul>
                 </li>
+                <li class="menu-item">
+                    <a href="/boutique" class="menu-link">Boutique</a>
+                </li>
             </ul>
     
             <div class="text-center mt-4 mt-md-0 p-0 ps-md-4">
