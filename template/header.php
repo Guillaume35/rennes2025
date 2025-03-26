@@ -31,9 +31,6 @@
                             <a href="/competition/co" class="menu-link">Comité d'organisation</a>
                         </li>
                         <li class="menu-item">
-                            <a href="/competition/boutique" class="menu-link">Boutique</a>
-                        </li>
-                        <li class="menu-item">
                             <a href="https://drive.google.com/drive/folders/1ykPGWzFGnyFUv6Dzb2GvbjnJw6QvhhJN" target="_blank" class="menu-link">Google drive</a>
                         </li>
                     </ul>
@@ -67,6 +64,9 @@
                             <a href="/clubs/extra-training" class="menu-link">Extra-training</a>
                         </li>
                     </ul>
+                </li>
+                <li class="menu-item">
+                    <a href="/boutique" class="menu-link">Boutique</a>
                 </li>
             </ul>
     
