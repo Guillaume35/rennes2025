@@ -1,0 +1,183 @@
+[
+    {
+        "day": "Vendredi 11 Avril",
+        "events": [
+            {
+                "time": "7:30",
+                "type": "open"
+            },
+            {
+                "time": "8:30",
+                "type": "training",
+                "label": "FS Poussin, FS Mini, IL Mini, IL Espoir, FS Espoir, FS Cadet, IL Cadet, FS Jeunesse"
+            },
+            {
+                "time": "13:50",
+                "type": "competition",
+                "label": "Free - programme libre Poussin",
+                "final": true
+            },
+            {
+                "time": "14:25",
+                "type": "competition",
+                "label": "Free - programme libre Mini",
+                "final": true
+            },
+            {
+                "time": "15:35",
+                "type": "competition",
+                "label": "In line - programme libre Mini",
+                "final": true
+            },
+            {
+                "time": "16:30",
+                "type": "competition",
+                "label": "In line - programme libre Espoir",
+                "final": true
+            },
+            {
+                "type": "competition",
+                "label": "Free - programme court Espoir"
+            },
+            {
+                "time": "18:15",
+                "type": "competition",
+                "label": "Free - programme court Cadet"
+            },
+            {
+                "time": "19:40",
+                "type": "competition",
+                "label": "In line - programme court Cadet"
+            },
+            {
+                "time": "20:15",
+                "type": "award"
+            },
+            {
+                "time": "20:45",
+                "type": "training",
+                "label": "Couple artistique Junior"
+            },
+            {
+                "time": "21:10",
+                "type": "end"
+            }
+        ]
+    },
+    {
+        "day": "Samedi 12 Avril",
+        "events": [
+            {
+                "time": "7:30",
+                "type": "open"
+            },
+            {
+                "time": "8:30",
+                "type": "training",
+                "label": "IL Junior, IL Senior, FS Senior"
+            },
+            {
+                "time": "10:20",
+                "type": "competition",
+                "label": "Free - programme long Espoir",
+                "final": true
+            },
+            {
+                "time": "12:10",
+                "type": "competition",
+                "label": "Free - programme court Jeunesse"
+            },
+            {
+                "time": "13:05",
+                "type": "training",
+                "label": "FS Junior"
+            },
+            {
+                "time": "14:30",
+                "type": "competition",
+                "label": "In line - programme long Cadet",
+                "final": true
+            },
+            {
+                "type": "competition",
+                "label": "Free - programme long Cadet",
+                "final": true
+            },
+            {
+                "time": "17:15",
+                "type": "competition",
+                "label": "Couple artistique - programme court Junior"
+            },
+            {
+                "time": "17:30",
+                "type": "award"
+            },
+            {
+                "time": "18:10",
+                "type": "competition",
+                "label": "Free - programme court Senior"
+            },
+            {
+                "time": "19:45",
+                "type": "competition",
+                "label": "In line - programme court Junior et Senior"
+            },
+            {
+                "time": "20:15",
+                "type": "competition",
+                "label": "Free - programme court Junior"
+            },
+            {
+                "time": "21:45",
+                "type": "end"
+            }
+        ]
+    },
+    {
+        "day": "Dimanche 13 Avril",
+        "events": [
+            {
+                "time": "7:30",
+                "type": "open"
+            },
+            {
+                "time": "8:30",
+                "type": "competition",
+                "label": "Free - programme long Jeunesse",
+                "final": true
+            },
+            {
+                "time": "09:50",
+                "type": "competition",
+                "label": "Free - programme long Junior",
+                "final": true
+            },
+            {
+                "time": "11:55",
+                "type": "competition",
+                "label": "In line - programme long Junior et Senior",
+                "final": true
+            },
+            {
+                "time": "13:15",
+                "type": "competition",
+                "label": "Free - programme long Senior",
+                "final": true
+            },
+            {
+                "time": "15:30",
+                "type": "competition",
+                "label": "Couple artistique - programme long Junior",
+                "final": true
+            },
+            {
+                "time": "15:50",
+                "type": "award"
+            },
+            {
+                "time": "16:30",
+                "type": "end"
+            }
+        ]
+    }
+]
