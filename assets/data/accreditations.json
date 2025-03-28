@@ -1,0 +1,54 @@
+[
+    {
+        "name": "Guillaume Modard",
+        "uid": "GUILLAUMEMODARD",
+        "sports_informations": {
+            "category": "Espoir",
+            "disciplines": ["Free skating"]
+        },
+        "affiliations": ["Roller Artistique Ille-et-Vilaine", "FFRS"],
+        "roles": ["trainer", "delegate", "athlete", "official", "media", "federation", "exhibitor", "oc"]
+    },
+    {
+        "name": "Pauline Eozenou",
+        "uid": "PAULINEEOZENOU",
+        "affiliations": ["Roller Artistique Ille-et-Vilaine", "Patiner à Plouguin"],
+        "roles": ["trainer", "oc"]
+    },
+    {
+        "name": "Lucie James",
+        "uid": "LUCIEJAMES",
+        "affiliations": ["Roller Artistique Ille-et-Vilaine"],
+        "roles": ["athlete"],
+        "sports_informations": {
+            "category": "Espoir",
+            "disciplines": ["Free skating"]
+        }
+    },
+    {
+        "name": "Sophie Urvoas",
+        "uid": "SOPHIEURVOAS",
+        "affiliations": ["Roller Artistique Ille-et-Vilaine"],
+        "roles": ["delegate", "oc"]
+    },
+    {
+        "name": "Gabrèle Sanchez",
+        "uid": "GABRIELESANCHEZ",
+        "affiliations": ["Roller Artistique Ille-et-Vilaine"],
+        "roles": ["athlete"],
+        "sports_informations": {
+            "category": "Junior",
+            "disciplines": ["Free skating", "Pairs"]
+        }
+    },
+    {
+        "name": "Alexandre LE GUEN",
+        "uid": "Alexandre LE GUEN",
+        "affiliations": ["Roller Artistique Ille-et-Vilaine", "Patiner à Plouguin"],
+        "roles": ["athlete"],
+        "sports_informations": {
+            "category": "Junior",
+            "disciplines": ["Free skating", "Pairs"]
+        }
+    }
+]

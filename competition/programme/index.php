@@ -4,7 +4,7 @@ require_once("../../autoload.php");
 
 use App\Page;
 
-$schedule_content = file_get_contents("../../assets/schedule.json");
+$schedule_content = file_get_contents("../../assets/data/schedule.json");
 $schedule = json_decode($schedule_content);
 
 $html = [];
