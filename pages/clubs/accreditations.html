@@ -9,55 +9,7 @@
 
     <p>
         Les responsables de clubs sont invités à retirer les accréditations de leurs athlètes et de leur staff
-        au point accueil.
-    </p>
-
-    <section>
-
-        <h2>Planning du service des accréditations et des engagements</h2>
-
-        <p>
-            L'espace en ligne des accréditations sera disponible prochainement. Voici un planning indicatif.
-        </p>
-
-        <div class="schedule-table-container">
-            <table class="schedule-table">
-                <thead class="schedule-header">
-                    <tr>
-                        <th></th>
-                        <th style="width:100%;">Événement</th>
-                    </tr>
-                </thead>
-    
-                <tbody>
-                    <tr class="text-secondary">
-                        <td>29&nbsp;MARS</td>
-                        <td>
-                            <strong>Clôture des engagements sur Rollskanet</strong>
-                        </td>
-                    </tr>
-
-                    <tr class="text-primary">
-                        <td>1&nbsp;AVRIL</td>
-                        <td>
-                            <strong>Ouverture de l'espace accréditations</strong><br>
-                            L'espace en ligne des accréditations vous permettra de contrôler les listes 
-                            d'athlètes et membres de staff avant votre venue.
-                        </td>
-                    </tr>
-                    <tr class="text-secondary">
-                        <td>10&nbsp;AVRIL</td>
-                        <td>
-                            <strong>Ouverture du desk accréditations à l'accueil de la compétition</strong>
-                        </td>
-                    </tr>
-                </tbody>
-            </table>
-        </div>
-    </section>
-
-    <p>
-        Ce planning est prévisionnel et pourra être actualisé en fonction des impératifs d'organisation.
+        au point accueil. <strong>Utilisez l'outil de recherche pour vérifier vos accréditations en amont.</strong>
     </p>
 
     <div class="row">
@@ -74,7 +26,7 @@
             </form>
         
             <div id="byaffiliation-results" class="modal-wrapper">
-                <div class="container">
+                <div class="container" style="max-width:960px">
                     <h2 class="text-center mt-5 text-gradient" id="byaffiliation-name"></h2>
                     <div class="row">
                         <div class="col-12 col-md-6">
@@ -116,6 +68,59 @@
             </div>
         </div>
     </div>
+
+    <div class="alert alert-danger my-4">
+        <p>
+            Les accréditations sont obligatoires pour accéder à l'ensemble des espaces sportifs.
+            Elles garantissent la sécurité de leurs titulaires et des effets personnels en limitant 
+            les risques d'intrusions extérieures.
+        </p>
+        <p>
+            <strong>En amont,</strong> contrôlez vos listes d'accréditations.<br>
+            <strong>Lors de l'événement,</strong> affichez visiblement votre accréditation sur 
+            vous pour faciliter les contrôles et les passages.
+        </p>
+    </div>
+
+    <div class="card-shadow card-shadow-light my-3">
+        <div class="card-body">
+            <h2 class="text-primary">Horaires accès prioritaire</h2>
+        
+            <p>
+                Un accès prioritaire est réservé aux délégués de clubs pour le retrait des accréditations.
+                En dehors de ces horaires, les délégués de clubs devront emprunter la file spectateurs du 
+                point accueil.
+            </p>
+        
+            <div class="schedule-table-container">
+                <table class="schedule-table">
+                    <thead class="scedule-header text-start">
+                        <tr>
+                            <th>Jour</th>
+                            <th>Horaire d'ouverture</th>
+                        </tr>
+                    </thead>
+        
+                    <tbody>
+                        <tr>
+                            <td>Jeudi 10 Avril</td>
+                            <td>16h30-19h30</td>
+                        </tr>
+        
+                        <tr>
+                            <td>Vendredi 11 Avril</td>
+                            <td>7h30-13h</td>
+                        </tr>
+        
+                        <tr>
+                            <td>Samedi 12 Avril</td>
+                            <td>7h30-13h</td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </div>
 </div>
 
 <script>
@@ -154,6 +159,13 @@ fetch("/api/affiliations.php?type=club").then(response => {
     }
 
     response.json().then(json => {
+
+        json.sort(function(a, b){
+            if(a.name < b.name) { return -1; }
+            if(a.name > b.name) { return 1; }
+            return 0;
+        })
+
         json.forEach(affiliation => {
             const option = document.createElement("option")
             option.setAttribute("value", affiliation.name)
@@ -203,6 +215,12 @@ affiliationForm.addEventListener("submit", (event) => {
             if (!json.length) {
                 throw new Error(`Aucun résultat, sélectionnez un club.`)
             }
+
+            json.sort(function(a, b){
+                if(a.name < b.name) { return -1; }
+                if(a.name > b.name) { return 1; }
+                return 0;
+            })
 
             modal("byaffiliation-results", "show");
 
