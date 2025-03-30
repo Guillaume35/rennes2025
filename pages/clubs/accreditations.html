@@ -61,6 +61,7 @@
                     <h2 id="byname-name" class="my-3 mt-5 text-gradient"></h2>
                     <div class="fs-5 my-3"><em id="byname-affiliations"></em></div>
                     <div class="fs-5 my-3" id="byname-roles"></div>
+                    <div class="fs-5 my3 accreditation-zones">Zones <span id="byname-zones"></span></div>
                     <div class="my-4 text-center">
                         <button class="btn btn-xl btn-primary hide-modal" data-modal="byname-result">Ok !</button>
                     </div>
@@ -282,10 +283,12 @@ nameForm.addEventListener("submit", (event) => {
     const nameEl = document.getElementById("byname-name");
     const rolesEl = document.getElementById("byname-roles");
     const affiliationsEl = document.getElementById("byname-affiliations");
+    const zonesEl = document.getElementById("byname-zones");
 
     nameEl.innerHTML = "";
     affiliationsEl.innerHTML = "";
     empty(rolesEl);
+    empty(zonesEl);
 
     const name = nameInput.value.trim().replace(/[\s\-]*/g, "");
 
@@ -309,23 +312,39 @@ nameForm.addEventListener("submit", (event) => {
             const textAffiliations = document.createTextNode(person.affiliations.join(", "));
 
             const roles = {
-                "trainer": "Entraîneur", 
-                "delegate": "Délégué", 
-                "athlete": "Athlète", 
-                "official": "Officiel", 
-                "media": "Média", 
-                "federation": "Fédération", 
-                "exhibitor": "Exposant", 
-                "oc": "CO"
+                "trainer": {label: "Entraîneur", zones: [1,2]}, 
+                "delegate": {label: "Délégué", zones: [1,4]}, 
+                "athlete": {label: "Athlète", zones: [1,2]}, 
+                "official": {label: "Officiel", zones: [1,3,4]}, 
+                "media": {label: "Média", zones: [1,2,3]}, 
+                "federation": {label: "Fédération", zones: [1,2,3,4]}, 
+                "exhibitor": {label: "Exposant", zones: [1]}, 
+                "oc": {label: "CO", zones: [1,2,3,4]}
             };
+
+            let zones = [];
 
             person.roles.forEach((role) => {
                 const el = document.createElement("span");
                 el.classList.add("accreditation-role");
                 el.classList.add("accreditation-role-"+role);
-                const text = document.createTextNode(roles[role]);
+                const text = document.createTextNode(roles[role].label);
                 el.appendChild(text);
                 rolesEl.appendChild(el);
+
+                roles[role].zones.forEach((zone) => {
+                    if (!zones.includes(zone)) {
+                        zones.push(zone);
+                    } 
+                })
+            })
+
+            zones.forEach((zone) => {
+                const elZone = document.createElement("span");
+                elZone.classList.add("mx-3");
+                const textZone = document.createTextNode(zone);
+                elZone.appendChild(textZone);
+                zonesEl.appendChild(elZone);
             })
 
             nameEl.appendChild(textName);

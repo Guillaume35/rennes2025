@@ -38,3 +38,11 @@
     background-color: rgb(229, 126, 126);
     border-color: rgb(188, 80, 80);
 }
+
+.accreditation-zones {
+    display:inline-block;
+    padding: 6px 12px;
+    border: 1px solid rgb(50,50,50);
+    border-radius: 22px;
+    color: rgb(50,50,50);
+}

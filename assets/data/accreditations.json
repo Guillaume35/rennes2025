@@ -43,12 +43,24 @@
     },
     {
         "name": "Alexandre LE GUEN",
-        "uid": "Alexandre LE GUEN",
+        "uid": "ALEXANDRELEGUEN",
         "affiliations": ["Roller Artistique Ille-et-Vilaine", "Patiner à Plouguin"],
         "roles": ["athlete"],
         "sports_informations": {
             "category": "Junior",
             "disciplines": ["Free skating", "Pairs"]
         }
+    },
+    {
+        "name": "Sébastien HELIGON",
+        "uid": "SEBASTIENHELIGON",
+        "affiliations": ["Roller Artistique Ille-et-Vilaine"],
+        "roles": ["media", "oc"]
+    },
+    {
+        "name": "Joël PIGEON",
+        "uid": "JOELPIGEON",
+        "affiliations": ["FFRS"],
+        "roles": ["federation"]
     }
 ]
