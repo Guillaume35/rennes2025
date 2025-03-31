@@ -1,14 +1,134 @@
 [
-    {
-        "name": "FFRS",
-        "type": "federation"
-    },
-    {
-        "name": "Roller Artistique Ille-et-Vilaine",
-        "type": "club"
-    },
-    {
-        "name": "Patiner à Plouguin",
-        "type": "club"
-    }
+	{
+		"name": "Roller Artistique Ille-et-vilaine",
+		"type": "club"
+	},
+	{
+		"name": "Ffrs",
+		"type": "federation"
+	},
+	{
+		"name": "Patiner A Plouguin",
+		"type": "club"
+	},
+	{
+		"name": "Roller Club Dolois",
+		"type": "club"
+	},
+	{
+		"name": "Sa Gazinet-cestas",
+		"type": "club"
+	},
+	{
+		"name": "Rollers Dancing Arts",
+		"type": "club"
+	},
+	{
+		"name": "Roller Club Artistique Montalbanais",
+		"type": "club"
+	},
+	{
+		"name": "Unora School",
+		"type": "club"
+	},
+	{
+		"name": "Adrs Draguignan",
+		"type": "club"
+	},
+	{
+		"name": "Artistic Skating Ballainvilliers Montlhery",
+		"type": "club"
+	},
+	{
+		"name": "Athletic Nantes Roller",
+		"type": "club"
+	},
+	{
+		"name": "Boussy Roller Club",
+		"type": "club"
+	},
+	{
+		"name": "Club De Patinage Artistique Tourcoing",
+		"type": "club"
+	},
+	{
+		"name": "Club Des Patineurs De L'ain",
+		"type": "club"
+	},
+	{
+		"name": "Club Patinage Artistique St Sulpicien",
+		"type": "club"
+	},
+	{
+		"name": "Club Sportif Noisy Le Grand Roller Skating",
+		"type": "club"
+	},
+	{
+		"name": "Cpb Belleville",
+		"type": "club"
+	},
+	{
+		"name": "Foyer Rural Maurin",
+		"type": "club"
+	},
+	{
+		"name": "In Line Roller Ice Skating",
+		"type": "club"
+	},
+	{
+		"name": "Les Patineurs De Tournefeuille",
+		"type": "club"
+	},
+	{
+		"name": "Millenium Patinage",
+		"type": "club"
+	},
+	{
+		"name": "Patin Club Lesnevien",
+		"type": "club"
+	},
+	{
+		"name": "Roller Artistique Hautes-pyrenees",
+		"type": "club"
+	},
+	{
+		"name": "Roller Skating Club D'antibes",
+		"type": "club"
+	},
+	{
+		"name": "Roller Skatng Nemours St Pierre",
+		"type": "club"
+	},
+	{
+		"name": "Roller Skating Saint Orens",
+		"type": "club"
+	},
+	{
+		"name": "Roller Dancing Arts",
+		"type": "club"
+	},
+	{
+		"name": "Spuc Pessac",
+		"type": "club"
+	},
+	{
+		"name": "Tarbes Club Patinage Artistique",
+		"type": "club"
+	},
+	{
+		"name": "Union Sportive Fontenaysienne",
+		"type": "club"
+	},
+	{
+		"name": "Union Athlethique Gujan Mestras",
+		"type": "club"
+	},
+	{
+		"name": "US Mazeres",
+		"type": "club"
+	},
+	{
+		"name": "Valence Olympique Patinage",
+		"type": "club"
+	}
 ]
