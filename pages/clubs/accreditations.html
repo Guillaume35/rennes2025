@@ -262,11 +262,11 @@ affiliationForm.addEventListener("submit", (event) => {
             }
             if (!trainer) {
                 const clone = li.cloneNode(true)
-                affiliationDelegateEl.appendChild(clone)
+                affiliationTrainersEl.appendChild(clone)
             }
             if (!athlete) {
                 const clone = li.cloneNode(true)
-                affiliationDelegateEl.appendChild(clone)
+                affiliationAthletesEl.appendChild(clone)
             }
         }).catch(error => alert(error.message))
     }).catch(error => {
