@@ -50,7 +50,7 @@
     },
     {
         "name": "Hanaé Devos",
-        "uid": "HANAÉDEVOS",
+        "uid": "HANAEDEVOS",
         "sports_informations": {
             "category": "",
             "disciplines": []
@@ -64,16 +64,18 @@
     },
     {
         "name": "François Cattoire",
-        "uid": "FRANÇOISCATTOIRE",
+        "uid": "FRANCOISCATTOIRE",
         "sports_informations": {
             "category": "",
             "disciplines": []
         },
         "affiliations": [
-            "Fédération Française de Roller & Skateboard"
+            "Fédération Française de Roller & Skateboard",
+            "Unora School"
         ],
         "roles": [
-            "federation"
+            "federation",
+            "trainer"
         ]
     },
     {
@@ -94,7 +96,7 @@
     },
     {
         "name": "Léa Burban",
-        "uid": "LÉABURBAN",
+        "uid": "LEABURBAN",
         "sports_informations": {
             "category": "",
             "disciplines": []
@@ -108,7 +110,7 @@
     },
     {
         "name": "Sébastien Heligon",
-        "uid": "SÉBASTIENHELIGON",
+        "uid": "SEBASTIENHELIGON",
         "sports_informations": {
             "category": "",
             "disciplines": []
@@ -1020,20 +1022,6 @@
         ],
         "roles": [
             "delegate"
-        ]
-    },
-    {
-        "name": "Francois Cattoire",
-        "uid": "FRANCOISCATTOIRE",
-        "sports_informations": {
-            "category": "",
-            "disciplines": []
-        },
-        "affiliations": [
-            "Unora School"
-        ],
-        "roles": [
-            "trainer"
         ]
     },
     {
