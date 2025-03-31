@@ -1,11 +1,11 @@
 [
     {
-        "name": "Roller Artistique Ille-et-Vilaine",
-        "type": "club"
-    },
-    {
         "name": "FFRS",
         "type": "federation"
+    },
+    {
+        "name": "Roller Artistique Ille-et-Vilaine",
+        "type": "club"
     },
     {
         "name": "Patiner à Plouguin",
