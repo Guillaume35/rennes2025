@@ -76,8 +76,19 @@
 .card-shadow-link:hover .btn-outline-white {
     border-color: white;
     background-color: white;
-    /*color:#9c0286;*/
     color: #bc1742;
+}
+
+.btn-noborder-white {
+    color: white;
+    border-color: transparent;
+}
+
+.btn-noborder-white:hover {
+    border-color: transparent;
+    background-color: transparent;
+    color: white;
+    text-decoration: underline;
 }
 
 .btn-outline-star {
