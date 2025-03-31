@@ -1,14 +1,14 @@
 [
 	{
-		"name": "Roller Artistique Ille-et-vilaine",
+		"name": "Roller Artistique Ille et Vilaine",
 		"type": "club"
 	},
 	{
-		"name": "Ffrs",
+		"name": "Fédération Française De Roller & Skateboard",
 		"type": "federation"
 	},
 	{
-		"name": "Patiner A Plouguin",
+		"name": "Patiner à Plouguin",
 		"type": "club"
 	},
 	{
@@ -16,7 +16,7 @@
 		"type": "club"
 	},
 	{
-		"name": "Sa Gazinet-cestas",
+		"name": "SA Gazinet-Cestas",
 		"type": "club"
 	},
 	{
@@ -32,7 +32,7 @@
 		"type": "club"
 	},
 	{
-		"name": "Adrs Draguignan",
+		"name": "ADRS Draguignan",
 		"type": "club"
 	},
 	{
@@ -48,11 +48,11 @@
 		"type": "club"
 	},
 	{
-		"name": "Club De Patinage Artistique Tourcoing",
+		"name": "Club de Patinage Artistique Tourcoing",
 		"type": "club"
 	},
 	{
-		"name": "Club Des Patineurs De L'ain",
+		"name": "Club des Patineurs de l'Ain",
 		"type": "club"
 	},
 	{
@@ -60,11 +60,11 @@
 		"type": "club"
 	},
 	{
-		"name": "Club Sportif Noisy Le Grand Roller Skating",
+		"name": "Club Sportif Noisy le Grand Roller Skating",
 		"type": "club"
 	},
 	{
-		"name": "Cpb Belleville",
+		"name": "CPB Belleville",
 		"type": "club"
 	},
 	{
@@ -76,7 +76,7 @@
 		"type": "club"
 	},
 	{
-		"name": "Les Patineurs De Tournefeuille",
+		"name": "Les Patineurs de Tournefeuille",
 		"type": "club"
 	},
 	{
@@ -88,15 +88,15 @@
 		"type": "club"
 	},
 	{
-		"name": "Roller Artistique Hautes-pyrenees",
+		"name": "Roller Artistique Hautes-Pyrenees",
 		"type": "club"
 	},
 	{
-		"name": "Roller Skating Club D'antibes",
+		"name": "Roller Skating Club d'Antibes",
 		"type": "club"
 	},
 	{
-		"name": "Roller Skatng Nemours St Pierre",
+		"name": "Roller Skating Nemours St Pierre",
 		"type": "club"
 	},
 	{
@@ -104,11 +104,11 @@
 		"type": "club"
 	},
 	{
-		"name": "Roller Dancing Arts",
+		"name": "Rollers Dancing Arts",
 		"type": "club"
 	},
 	{
-		"name": "Spuc Pessac",
+		"name": "SPUC Pessac",
 		"type": "club"
 	},
 	{
@@ -120,7 +120,7 @@
 		"type": "club"
 	},
 	{
-		"name": "Union Athlethique Gujan Mestras",
+		"name": "Union Athletique Gujan Mestras",
 		"type": "club"
 	},
 	{
@@ -129,6 +129,14 @@
 	},
 	{
 		"name": "Valence Olympique Patinage",
+		"type": "club"
+	},
+	{
+		"name": "La Beaumanoir",
+		"type": "club"
+	},
+	{
+		"name": "Ales CP",
 		"type": "club"
 	}
 ]

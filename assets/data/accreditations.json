@@ -1,2255 +1,2768 @@
 [
-	{
-		"name": "Ludivine Malle",
-		"uid": "LUDIVINEMALLE",
-		"sports_informations": {
-			"category": "",
-			"disciplines": []
-		},
-		"affiliations": [
-			"Soloop"
-		],
-		"roles": [
-			"exhibitor"
-		]
-	},
-	{
-		"name": "Guillaume Modard",
-		"uid": "GUILLAUMEMODARD",
-		"sports_informations": {
-			"category": "",
-			"disciplines": []
-		},
-		"affiliations": [
-			"Ffrs"
-		],
-		"roles": [
-			"federation"
-		]
-	},
-	{
-		"name": "Thomas Picard",
-		"uid": "THOMASPICARD",
-		"sports_informations": {
-			"category": "",
-			"disciplines": []
-		},
-		"affiliations": [
-			"Ffrs"
-		],
-		"roles": [
-			"federation"
-		]
-	},
-	{
-		"name": "Hanaé Devos",
-		"uid": "HANAÉDEVOS",
-		"sports_informations": {
-			"category": "",
-			"disciplines": []
-		},
-		"affiliations": [
-			"Ffrs"
-		],
-		"roles": [
-			"federation"
-		]
-	},
-	{
-		"name": "François Cattoire",
-		"uid": "FRANÇOISCATTOIRE",
-		"sports_informations": {
-			"category": "",
-			"disciplines": []
-		},
-		"affiliations": [
-			"Ffrs"
-		],
-		"roles": [
-			"federation"
-		]
-	},
-	{
-		"name": "Isabelle Garnier",
-		"uid": "ISABELLEGARNIER",
-		"sports_informations": {
-			"category": "",
-			"disciplines": []
-		},
-		"affiliations": [
-			"Ffrs"
-		],
-		"roles": [
-			"federation"
-		]
-	},
-	{
-		"name": "Léa Burban",
-		"uid": "LÉABURBAN",
-		"sports_informations": {
-			"category": "",
-			"disciplines": []
-		},
-		"affiliations": [
-			"Ffrs"
-		],
-		"roles": [
-			"federation"
-		]
-	},
-	{
-		"name": "Sébastien Heligon",
-		"uid": "SÉBASTIENHELIGON",
-		"sports_informations": {
-			"category": "",
-			"disciplines": []
-		},
-		"affiliations": [
-			"Raiv"
-		],
-		"roles": [
-			"oc"
-		]
-	},
-	{
-		"name": "Marie-claire Le Rallec",
-		"uid": "MARIE-CLAIRELERALLEC",
-		"sports_informations": {
-			"category": "",
-			"disciplines": []
-		},
-		"affiliations": [
-			"Ffrs"
-		],
-		"roles": [
-			"federation"
-		]
-	},
-	{
-		"name": "Najete Kada",
-		"uid": "NAJETEKADA",
-		"sports_informations": {
-			"category": "",
-			"disciplines": []
-		},
-		"affiliations": [
-			"Ffrs"
-		],
-		"roles": [
-			"federation"
-		]
-	},
-	{
-		"name": "Micol Zangoli",
-		"uid": "MICOLZANGOLI",
-		"sports_informations": {
-			"category": "",
-			"disciplines": []
-		},
-		"affiliations": [
-			"My Body Creations"
-		],
-		"roles": [
-			"exhibitor"
-		]
-	},
-	{
-		"name": "Graziella Carnoli",
-		"uid": "GRAZIELLACARNOLI",
-		"sports_informations": {
-			"category": "",
-			"disciplines": []
-		},
-		"affiliations": [
-			"My Body Creations"
-		],
-		"roles": [
-			"exhibitor"
-		]
-	},
-	{
-		"name": "Carole Vidal",
-		"uid": "CAROLEVIDAL",
-		"sports_informations": {
-			"category": "",
-			"disciplines": []
-		},
-		"affiliations": [
-			"Patineurs St Amantais"
-		],
-		"roles": [
-			"delegate"
-		]
-	},
-	{
-		"name": "Vanessa Algans",
-		"uid": "VANESSAALGANS",
-		"sports_informations": {
-			"category": "",
-			"disciplines": []
-		},
-		"affiliations": [
-			"Patineurs St Amantais"
-		],
-		"roles": [
-			"trainer"
-		]
-	},
-	{
-		"name": "Loetitia Velazquez",
-		"uid": "LOETITIAVELAZQUEZ",
-		"sports_informations": {
-			"category": "",
-			"disciplines": []
-		},
-		"affiliations": [
-			"Patineurs St Amantais",
-			"Roller Skating Saint Orens"
-		],
-		"roles": [
-			"trainer"
-		]
-	},
-	{
-		"name": "Carine Fabre",
-		"uid": "CARINEFABRE",
-		"sports_informations": {
-			"category": "",
-			"disciplines": []
-		},
-		"affiliations": [
-			"Roller Skating Saint Orens"
-		],
-		"roles": [
-			"delegate"
-		]
-	},
-	{
-		"name": "Fabienne Durand",
-		"uid": "FABIENNEDURAND",
-		"sports_informations": {
-			"category": "",
-			"disciplines": []
-		},
-		"affiliations": [
-			"Ass Triaise De Roller Artistique Et Acrobatique"
-		],
-		"roles": [
-			"delegate"
-		]
-	},
-	{
-		"name": "Amelie Cazabat",
-		"uid": "AMELIECAZABAT",
-		"sports_informations": {
-			"category": "",
-			"disciplines": []
-		},
-		"affiliations": [
-			"Ass Triaise De Roller Artistique Et Acrobatique"
-		],
-		"roles": [
-			"trainer"
-		]
-	},
-	{
-		"name": "Alexia Mailhes",
-		"uid": "ALEXIAMAILHES",
-		"sports_informations": {
-			"category": "",
-			"disciplines": []
-		},
-		"affiliations": [
-			"Ass Triaise De Roller Artistique Et Acrobatique"
-		],
-		"roles": [
-			"trainer"
-		]
-	},
-	{
-		"name": "Juliette Salas",
-		"uid": "JULIETTESALAS",
-		"sports_informations": {
-			"category": "",
-			"disciplines": []
-		},
-		"affiliations": [
-			"Patineurs De La Vallee Du Thore"
-		],
-		"roles": [
-			"delegate",
-			"trainer"
-		]
-	},
-	{
-		"name": "Emilie Moula-clement",
-		"uid": "EMILIEMOULA-CLEMENT",
-		"sports_informations": {
-			"category": "",
-			"disciplines": []
-		},
-		"affiliations": [
-			"Patineurs De La Vallee Du Thore"
-		],
-		"roles": [
-			"trainer"
-		]
-	},
-	{
-		"name": "Marie-claude Hennebelle",
-		"uid": "MARIE-CLAUDEHENNEBELLE",
-		"sports_informations": {
-			"category": "",
-			"disciplines": []
-		},
-		"affiliations": [
-			"Gruissan Patinage Artistique"
-		],
-		"roles": [
-			"delegate"
-		]
-	},
-	{
-		"name": "Delphine Arbousset",
-		"uid": "DELPHINEARBOUSSET",
-		"sports_informations": {
-			"category": "",
-			"disciplines": []
-		},
-		"affiliations": [
-			"Ales Cp"
-		],
-		"roles": [
-			"trainer",
-			"delegate"
-		]
-	},
-	{
-		"name": "Manon Arbousset",
-		"uid": "MANONARBOUSSET",
-		"sports_informations": {
-			"category": "",
-			"disciplines": []
-		},
-		"affiliations": [
-			"Ales Cp"
-		],
-		"roles": [
-			"trainer"
-		]
-	},
-	{
-		"name": "Noemie Guerin",
-		"uid": "NOEMIEGUERIN",
-		"sports_informations": {
-			"category": "",
-			"disciplines": []
-		},
-		"affiliations": [
-			"Ales Cp"
-		],
-		"roles": [
-			"trainer"
-		]
-	},
-	{
-		"name": "Justine Fernandes",
-		"uid": "JUSTINEFERNANDES",
-		"sports_informations": {
-			"category": "",
-			"disciplines": []
-		},
-		"affiliations": [
-			"Valence Olympique Patinage",
-			"Roller S Club Sebazac"
-		],
-		"roles": [
-			"delegate",
-			"trainer"
-		]
-	},
-	{
-		"name": "Carole Savy",
-		"uid": "CAROLESAVY",
-		"sports_informations": {
-			"category": "",
-			"disciplines": []
-		},
-		"affiliations": [
-			"Valence Olympique Patinage"
-		],
-		"roles": [
-			"trainer"
-		]
-	},
-	{
-		"name": "Viviane Sicard",
-		"uid": "VIVIANESICARD",
-		"sports_informations": {
-			"category": "",
-			"disciplines": []
-		},
-		"affiliations": [
-			"Roller Club Artistique Montalbanais"
-		],
-		"roles": [
-			"delegate",
-			"trainer"
-		]
-	},
-	{
-		"name": "Gaelle Delperie",
-		"uid": "GAELLEDELPERIE",
-		"sports_informations": {
-			"category": "",
-			"disciplines": []
-		},
-		"affiliations": [
-			"Roller S Club Sebazac"
-		],
-		"roles": [
-			"delegate"
-		]
-	},
-	{
-		"name": "Louna Delperie",
-		"uid": "LOUNADELPERIE",
-		"sports_informations": {
-			"category": "",
-			"disciplines": []
-		},
-		"affiliations": [
-			"Roller S Club Sebazac"
-		],
-		"roles": [
-			"trainer"
-		]
-	},
-	{
-		"name": "Nathalie Gauthie",
-		"uid": "NATHALIEGAUTHIE",
-		"sports_informations": {
-			"category": "",
-			"disciplines": []
-		},
-		"affiliations": [
-			"Les Patineurs De Tournefeuille"
-		],
-		"roles": [
-			"delegate"
-		]
-	},
-	{
-		"name": "Sebastien Charron",
-		"uid": "SEBASTIENCHARRON",
-		"sports_informations": {
-			"category": "",
-			"disciplines": []
-		},
-		"affiliations": [
-			"Les Patineurs De Tournefeuille"
-		],
-		"roles": [
-			"trainer"
-		]
-	},
-	{
-		"name": "Amandine Portet",
-		"uid": "AMANDINEPORTET",
-		"sports_informations": {
-			"category": "",
-			"disciplines": []
-		},
-		"affiliations": [
-			"Les Patineurs De Tournefeuille"
-		],
-		"roles": [
-			"trainer"
-		]
-	},
-	{
-		"name": "Sylvie Nicolas",
-		"uid": "SYLVIENICOLAS",
-		"sports_informations": {
-			"category": "",
-			"disciplines": []
-		},
-		"affiliations": [
-			"Roller Skating Artistique"
-		],
-		"roles": [
-			"delegate",
-			"trainer"
-		]
-	},
-	{
-		"name": "Annabelle Castillon",
-		"uid": "ANNABELLECASTILLON",
-		"sports_informations": {
-			"category": "",
-			"disciplines": []
-		},
-		"affiliations": [
-			"Club Patinage Artistique St Sulpicien"
-		],
-		"roles": [
-			"delegate"
-		]
-	},
-	{
-		"name": "Alexis Tejedor",
-		"uid": "ALEXISTEJEDOR",
-		"sports_informations": {
-			"category": "",
-			"disciplines": []
-		},
-		"affiliations": [
-			"Club Patinage Artistique St Sulpicien"
-		],
-		"roles": [
-			"trainer"
-		]
-	},
-	{
-		"name": "Eloise Castillon",
-		"uid": "ELOISECASTILLON",
-		"sports_informations": {
-			"category": "",
-			"disciplines": [
-				"Free Skating Elite/n1"
-			]
-		},
-		"affiliations": [
-			"Club Patinage Artistique St Sulpicien"
-		],
-		"roles": [
-			"trainer",
-			"athlete"
-		]
-	},
-	{
-		"name": "Albert Champion",
-		"uid": "ALBERTCHAMPION",
-		"sports_informations": {
-			"category": "",
-			"disciplines": []
-		},
-		"affiliations": [
-			"Roller Artistique Hautes-pyrenees"
-		],
-		"roles": [
-			"delegate"
-		]
-	},
-	{
-		"name": "Julie Champion",
-		"uid": "JULIECHAMPION",
-		"sports_informations": {
-			"category": "",
-			"disciplines": []
-		},
-		"affiliations": [
-			"Roller Artistique Hautes-pyrenees"
-		],
-		"roles": [
-			"trainer"
-		]
-	},
-	{
-		"name": "Emmanuelle Bouchair",
-		"uid": "EMMANUELLEBOUCHAIR",
-		"sports_informations": {
-			"category": "",
-			"disciplines": []
-		},
-		"affiliations": [
-			"Roller Artistique Hautes-pyrenees"
-		],
-		"roles": [
-			"trainer"
-		]
-	},
-	{
-		"name": "Stefanie Salamone",
-		"uid": "STEFANIESALAMONE",
-		"sports_informations": {
-			"category": "",
-			"disciplines": []
-		},
-		"affiliations": [
-			"Foyer Rural Maurin"
-		],
-		"roles": [
-			"delegate",
-			"trainer"
-		]
-	},
-	{
-		"name": "Laurie Vidal",
-		"uid": "LAURIEVIDAL",
-		"sports_informations": {
-			"category": "",
-			"disciplines": []
-		},
-		"affiliations": [
-			"Foyer Rural Maurin"
-		],
-		"roles": [
-			"trainer"
-		]
-	},
-	{
-		"name": "Marine Ravaille",
-		"uid": "MARINERAVAILLE",
-		"sports_informations": {
-			"category": "",
-			"disciplines": []
-		},
-		"affiliations": [
-			"Les Roulettes Albigeoises"
-		],
-		"roles": [
-			"trainer",
-			"delegate"
-		]
-	},
-	{
-		"name": "Monique Mazain",
-		"uid": "MONIQUEMAZAIN",
-		"sports_informations": {
-			"category": "",
-			"disciplines": []
-		},
-		"affiliations": [
-			"Tarbes Club Patinage Artistique"
-		],
-		"roles": [
-			"delegate"
-		]
-	},
-	{
-		"name": "Nicolas Batac",
-		"uid": "NICOLASBATAC",
-		"sports_informations": {
-			"category": "",
-			"disciplines": []
-		},
-		"affiliations": [
-			"Tarbes Club Patinage Artistique"
-		],
-		"roles": [
-			"trainer"
-		]
-	},
-	{
-		"name": "Pascal Eberlin",
-		"uid": "PASCALEBERLIN",
-		"sports_informations": {
-			"category": "",
-			"disciplines": []
-		},
-		"affiliations": [
-			"Tarbes Club Patinage Artistique"
-		],
-		"roles": [
-			"trainer"
-		]
-	},
-	{
-		"name": "Geraldine Sartre",
-		"uid": "GERALDINESARTRE",
-		"sports_informations": {
-			"category": "",
-			"disciplines": []
-		},
-		"affiliations": [
-			"Roller Skating De Valderies"
-		],
-		"roles": [
-			"delegate",
-			"trainer"
-		]
-	},
-	{
-		"name": "Muriel Leblanc",
-		"uid": "MURIELLEBLANC",
-		"sports_informations": {
-			"category": "",
-			"disciplines": []
-		},
-		"affiliations": [
-			"Roller Skating Alesien"
-		],
-		"roles": [
-			"delegate"
-		]
-	},
-	{
-		"name": "Christelle Decons",
-		"uid": "CHRISTELLEDECONS",
-		"sports_informations": {
-			"category": "",
-			"disciplines": []
-		},
-		"affiliations": [
-			"Roller Skating Alesien"
-		],
-		"roles": [
-			"trainer"
-		]
-	},
-	{
-		"name": "Melanie Mautaint",
-		"uid": "MELANIEMAUTAINT",
-		"sports_informations": {
-			"category": "",
-			"disciplines": []
-		},
-		"affiliations": [
-			"Roller Skating Alesien"
-		],
-		"roles": [
-			"trainer"
-		]
-	},
-	{
-		"name": "Oksana Legoupil",
-		"uid": "OKSANALEGOUPIL",
-		"sports_informations": {
-			"category": "",
-			"disciplines": []
-		},
-		"affiliations": [
-			"Rsc Vaunage"
-		],
-		"roles": [
-			"delegate"
-		]
-	},
-	{
-		"name": "Caroline Alverny",
-		"uid": "CAROLINEALVERNY",
-		"sports_informations": {
-			"category": "",
-			"disciplines": []
-		},
-		"affiliations": [
-			"Lunel Roller Et Patinage Artistique"
-		],
-		"roles": [
-			"delegate"
-		]
-	},
-	{
-		"name": "Sandrine Poujol",
-		"uid": "SANDRINEPOUJOL",
-		"sports_informations": {
-			"category": "",
-			"disciplines": []
-		},
-		"affiliations": [
-			"Lunel Roller Et Patinage Artistique"
-		],
-		"roles": [
-			"trainer"
-		]
-	},
-	{
-		"name": "Marine Leblanc",
-		"uid": "MARINELEBLANC",
-		"sports_informations": {
-			"category": "",
-			"disciplines": []
-		},
-		"affiliations": [
-			"Lunel Roller Et Patinage Artistique"
-		],
-		"roles": [
-			"trainer"
-		]
-	},
-	{
-		"name": "Flavie Marbouty",
-		"uid": "FLAVIEMARBOUTY",
-		"sports_informations": {
-			"category": "",
-			"disciplines": []
-		},
-		"affiliations": [
-			"Lunel Roller Et Patinage Artistique"
-		],
-		"roles": [
-			"trainer"
-		]
-	},
-	{
-		"name": "Leane Laporte",
-		"uid": "LEANELAPORTE",
-		"sports_informations": {
-			"category": "",
-			"disciplines": []
-		},
-		"affiliations": [
-			"Lunel Roller Et Patinage Artistique"
-		],
-		"roles": [
-			"trainer"
-		]
-	},
-	{
-		"name": "Roger Villeneuve",
-		"uid": "ROGERVILLENEUVE",
-		"sports_informations": {
-			"category": "",
-			"disciplines": []
-		},
-		"affiliations": [
-			"Focs Pepieux"
-		],
-		"roles": [
-			"delegate"
-		]
-	},
-	{
-		"name": "Elana Peltier",
-		"uid": "ELANAPELTIER",
-		"sports_informations": {
-			"category": "Senior",
-			"disciplines": [
-				"Inline N1"
-			]
-		},
-		"affiliations": [
-			"Adrs Draguignan"
-		],
-		"roles": [
-			"athlete"
-		]
-	},
-	{
-		"name": "Sheryne Smail",
-		"uid": "SHERYNESMAIL",
-		"sports_informations": {
-			"category": "Cadet",
-			"disciplines": [
-				"Free Skating Elite/n1"
-			]
-		},
-		"affiliations": [
-			"Artistic Skating Ballainvilliers Montlhery"
-		],
-		"roles": [
-			"athlete"
-		]
-	},
-	{
-		"name": "Agatha Guillon",
-		"uid": "AGATHAGUILLON",
-		"sports_informations": {
-			"category": "Espoir",
-			"disciplines": [
-				"Free Skating Elite/n1"
-			]
-		},
-		"affiliations": [
-			"Artistic Skating Ballainvilliers Montlhery"
-		],
-		"roles": [
-			"athlete"
-		]
-	},
-	{
-		"name": "Jude Guillon",
-		"uid": "JUDEGUILLON",
-		"sports_informations": {
-			"category": "Poussin",
-			"disciplines": [
-				"Free Skating Elite/n1"
-			]
-		},
-		"affiliations": [
-			"Artistic Skating Ballainvilliers Montlhery"
-		],
-		"roles": [
-			"athlete"
-		]
-	},
-	{
-		"name": "Neela Rousset",
-		"uid": "NEELAROUSSET",
-		"sports_informations": {
-			"category": "Senior",
-			"disciplines": [
-				"Free Skating Elite/n1"
-			]
-		},
-		"affiliations": [
-			"Athletic Nantes Roller"
-		],
-		"roles": [
-			"athlete"
-		]
-	},
-	{
-		"name": "Cali Guillomet Surget",
-		"uid": "CALIGUILLOMETSURGET",
-		"sports_informations": {
-			"category": "Junior",
-			"disciplines": [
-				"Free Skating Elite/n1"
-			]
-		},
-		"affiliations": [
-			"Athletic Nantes Roller"
-		],
-		"roles": [
-			"athlete"
-		]
-	},
-	{
-		"name": "Violette Lalaude",
-		"uid": "VIOLETTELALAUDE",
-		"sports_informations": {
-			"category": "Junior",
-			"disciplines": [
-				"Free Skating Elite/n1"
-			]
-		},
-		"affiliations": [
-			"Athletic Nantes Roller"
-		],
-		"roles": [
-			"athlete"
-		]
-	},
-	{
-		"name": "Ines Goulay",
-		"uid": "INESGOULAY",
-		"sports_informations": {
-			"category": "Espoir",
-			"disciplines": [
-				"Free Skating Elite/n1"
-			]
-		},
-		"affiliations": [
-			"Athletic Nantes Roller"
-		],
-		"roles": [
-			"athlete"
-		]
-	},
-	{
-		"name": "Abigael Patre",
-		"uid": "ABIGAELPATRE",
-		"sports_informations": {
-			"category": "Senior",
-			"disciplines": [
-				"Free Skating Elite/n1"
-			]
-		},
-		"affiliations": [
-			"Boussy Roller Club"
-		],
-		"roles": [
-			"athlete"
-		]
-	},
-	{
-		"name": "Mallaury Gain",
-		"uid": "MALLAURYGAIN",
-		"sports_informations": {
-			"category": "Senior",
-			"disciplines": [
-				"Free Skating Elite/n1"
-			]
-		},
-		"affiliations": [
-			"Boussy Roller Club"
-		],
-		"roles": [
-			"athlete"
-		]
-	},
-	{
-		"name": "Lorena Castaing",
-		"uid": "LORENACASTAING",
-		"sports_informations": {
-			"category": "Senior",
-			"disciplines": [
-				"Free Skating Elite/n1"
-			]
-		},
-		"affiliations": [
-			"Boussy Roller Club"
-		],
-		"roles": [
-			"athlete"
-		]
-	},
-	{
-		"name": "Inaya Kaidi",
-		"uid": "INAYAKAIDI",
-		"sports_informations": {
-			"category": "Jeunesse",
-			"disciplines": [
-				"Free Skating Elite/n1"
-			]
-		},
-		"affiliations": [
-			"Club De Patinage Artistique Tourcoing"
-		],
-		"roles": [
-			"athlete"
-		]
-	},
-	{
-		"name": "Clemence Cossement",
-		"uid": "CLEMENCECOSSEMENT",
-		"sports_informations": {
-			"category": "Espoir",
-			"disciplines": [
-				"Free Skating Elite/n1"
-			]
-		},
-		"affiliations": [
-			"Club De Patinage Artistique Tourcoing"
-		],
-		"roles": [
-			"athlete"
-		]
-	},
-	{
-		"name": "Lola Schwenter",
-		"uid": "LOLASCHWENTER",
-		"sports_informations": {
-			"category": "Cadet",
-			"disciplines": [
-				"Free Skating Elite/n1"
-			]
-		},
-		"affiliations": [
-			"Club Des Patineurs De L'ain"
-		],
-		"roles": [
-			"athlete"
-		]
-	},
-	{
-		"name": "Sophie Salamon",
-		"uid": "SOPHIESALAMON",
-		"sports_informations": {
-			"category": "Cadet",
-			"disciplines": [
-				"Free Skating Elite/n1"
-			]
-		},
-		"affiliations": [
-			"Club Des Patineurs De L'ain"
-		],
-		"roles": [
-			"athlete"
-		]
-	},
-	{
-		"name": "Sara Gomes",
-		"uid": "SARAGOMES",
-		"sports_informations": {
-			"category": "Cadet",
-			"disciplines": [
-				"Inline N1"
-			]
-		},
-		"affiliations": [
-			"Club Patinage Artistique St Sulpicien"
-		],
-		"roles": [
-			"athlete"
-		]
-	},
-	{
-		"name": "Sophie Vignoles",
-		"uid": "SOPHIEVIGNOLES",
-		"sports_informations": {
-			"category": "Mini",
-			"disciplines": [
-				"Inline N1"
-			]
-		},
-		"affiliations": [
-			"Club Patinage Artistique St Sulpicien"
-		],
-		"roles": [
-			"athlete"
-		]
-	},
-	{
-		"name": "Charline Papin",
-		"uid": "CHARLINEPAPIN",
-		"sports_informations": {
-			"category": "Senior",
-			"disciplines": [
-				"Free Skating Elite/n1"
-			]
-		},
-		"affiliations": [
-			"Club Sportif Noisy Le Grand Roller Skating"
-		],
-		"roles": [
-			"athlete"
-		]
-	},
-	{
-		"name": "Juliette Garnier",
-		"uid": "JULIETTEGARNIER",
-		"sports_informations": {
-			"category": "Senior",
-			"disciplines": [
-				"Free Skating Elite/n1"
-			]
-		},
-		"affiliations": [
-			"Club Sportif Noisy Le Grand Roller Skating"
-		],
-		"roles": [
-			"athlete"
-		]
-	},
-	{
-		"name": "Elena Bartolini",
-		"uid": "ELENABARTOLINI",
-		"sports_informations": {
-			"category": "Senior",
-			"disciplines": [
-				"Free Skating Elite/n1"
-			]
-		},
-		"affiliations": [
-			"Club Sportif Noisy Le Grand Roller Skating"
-		],
-		"roles": [
-			"athlete"
-		]
-	},
-	{
-		"name": "Anais Benoist",
-		"uid": "ANAISBENOIST",
-		"sports_informations": {
-			"category": "Jeunesse",
-			"disciplines": [
-				"Free Skating Elite/n1"
-			]
-		},
-		"affiliations": [
-			"Club Sportif Noisy Le Grand Roller Skating"
-		],
-		"roles": [
-			"athlete"
-		]
-	},
-	{
-		"name": "Sirine Ben Chouaieb",
-		"uid": "SIRINEBENCHOUAIEB",
-		"sports_informations": {
-			"category": "Cadet",
-			"disciplines": [
-				"Free Skating Elite/n1"
-			]
-		},
-		"affiliations": [
-			"Club Sportif Noisy Le Grand Roller Skating"
-		],
-		"roles": [
-			"athlete"
-		]
-	},
-	{
-		"name": "Jouri Mahfooz",
-		"uid": "JOURIMAHFOOZ",
-		"sports_informations": {
-			"category": "Espoir",
-			"disciplines": [
-				"Free Skating Elite/n1"
-			]
-		},
-		"affiliations": [
-			"Club Sportif Noisy Le Grand Roller Skating"
-		],
-		"roles": [
-			"athlete"
-		]
-	},
-	{
-		"name": "Nina Follot",
-		"uid": "NINAFOLLOT",
-		"sports_informations": {
-			"category": "Espoir",
-			"disciplines": [
-				"Free Skating Elite/n1"
-			]
-		},
-		"affiliations": [
-			"Club Sportif Noisy Le Grand Roller Skating"
-		],
-		"roles": [
-			"athlete"
-		]
-	},
-	{
-		"name": "Elise Exertier Dor",
-		"uid": "ELISEEXERTIERDOR",
-		"sports_informations": {
-			"category": "Espoir",
-			"disciplines": [
-				"Free Skating Elite/n1"
-			]
-		},
-		"affiliations": [
-			"Club Sportif Noisy Le Grand Roller Skating"
-		],
-		"roles": [
-			"athlete"
-		]
-	},
-	{
-		"name": "Oumy Fall",
-		"uid": "OUMYFALL",
-		"sports_informations": {
-			"category": "Poussin",
-			"disciplines": [
-				"Free Skating Elite/n1"
-			]
-		},
-		"affiliations": [
-			"Club Sportif Noisy Le Grand Roller Skating"
-		],
-		"roles": [
-			"athlete"
-		]
-	},
-	{
-		"name": "Clea Lhadi",
-		"uid": "CLEALHADI",
-		"sports_informations": {
-			"category": "Senior",
-			"disciplines": [
-				"Free Skating Elite/n1"
-			]
-		},
-		"affiliations": [
-			"Cpb Belleville"
-		],
-		"roles": [
-			"athlete"
-		]
-	},
-	{
-		"name": "Pauline Roques",
-		"uid": "PAULINEROQUES",
-		"sports_informations": {
-			"category": "Senior",
-			"disciplines": [
-				"Inline N1"
-			]
-		},
-		"affiliations": [
-			"Foyer Rural Maurin"
-		],
-		"roles": [
-			"athlete"
-		]
-	},
-	{
-		"name": "Joana Bernardi",
-		"uid": "JOANABERNARDI",
-		"sports_informations": {
-			"category": "Mini",
-			"disciplines": [
-				"Inline N1"
-			]
-		},
-		"affiliations": [
-			"In Line Roller Ice Skating"
-		],
-		"roles": [
-			"athlete"
-		]
-	},
-	{
-		"name": "May-line Boutet",
-		"uid": "MAY-LINEBOUTET",
-		"sports_informations": {
-			"category": "Junior",
-			"disciplines": [
-				"Inline N1"
-			]
-		},
-		"affiliations": [
-			"In Line Roller Ice Skating"
-		],
-		"roles": [
-			"athlete"
-		]
-	},
-	{
-		"name": "Anouk Gauzere",
-		"uid": "ANOUKGAUZERE",
-		"sports_informations": {
-			"category": "Cadet",
-			"disciplines": [
-				"Inline N1"
-			]
-		},
-		"affiliations": [
-			"In Line Roller Ice Skating"
-		],
-		"roles": [
-			"athlete"
-		]
-	},
-	{
-		"name": "Tess Morissot-vincent",
-		"uid": "TESSMORISSOT-VINCENT",
-		"sports_informations": {
-			"category": "Cadet",
-			"disciplines": [
-				"Inline N1"
-			]
-		},
-		"affiliations": [
-			"In Line Roller Ice Skating"
-		],
-		"roles": [
-			"athlete"
-		]
-	},
-	{
-		"name": "Agathe Lesiak",
-		"uid": "AGATHELESIAK",
-		"sports_informations": {
-			"category": "Espoir",
-			"disciplines": [
-				"Inline N1"
-			]
-		},
-		"affiliations": [
-			"In Line Roller Ice Skating"
-		],
-		"roles": [
-			"athlete"
-		]
-	},
-	{
-		"name": "Olivia Poirier",
-		"uid": "OLIVIAPOIRIER",
-		"sports_informations": {
-			"category": "Mini",
-			"disciplines": [
-				"Inline N1"
-			]
-		},
-		"affiliations": [
-			"In Line Roller Ice Skating"
-		],
-		"roles": [
-			"athlete"
-		]
-	},
-	{
-		"name": "Segolene Wursching",
-		"uid": "SEGOLENEWURSCHING",
-		"sports_informations": {
-			"category": "Cadet",
-			"disciplines": [
-				"Free Skating Elite/n1"
-			]
-		},
-		"affiliations": [
-			"Les Patineurs De Tournefeuille"
-		],
-		"roles": [
-			"athlete"
-		]
-	},
-	{
-		"name": "Mayli Boyer",
-		"uid": "MAYLIBOYER",
-		"sports_informations": {
-			"category": "Espoir",
-			"disciplines": [
-				"Free Skating Elite/n1"
-			]
-		},
-		"affiliations": [
-			"Les Patineurs De Tournefeuille"
-		],
-		"roles": [
-			"athlete"
-		]
-	},
-	{
-		"name": "Azeline Brisson",
-		"uid": "AZELINEBRISSON",
-		"sports_informations": {
-			"category": "Cadet",
-			"disciplines": [
-				"Free Skating Elite/n1"
-			]
-		},
-		"affiliations": [
-			"Millenium Patinage"
-		],
-		"roles": [
-			"athlete"
-		]
-	},
-	{
-		"name": "Mona Morvan",
-		"uid": "MONAMORVAN",
-		"sports_informations": {
-			"category": "Cadet",
-			"disciplines": [
-				"Free Skating Elite/n1"
-			]
-		},
-		"affiliations": [
-			"Patin Club Lesnevien"
-		],
-		"roles": [
-			"athlete"
-		]
-	},
-	{
-		"name": "Alexandre Le Guen",
-		"uid": "ALEXANDRELEGUEN",
-		"sports_informations": {
-			"category": "Junior",
-			"disciplines": [
-				"Couple Artistique N1",
-				"Free Skating Elite/n1"
-			]
-		},
-		"affiliations": [
-			"Patiner A Plouguin"
-		],
-		"roles": [
-			"athlete"
-		]
-	},
-	{
-		"name": "Eloise Bouchair",
-		"uid": "ELOISEBOUCHAIR",
-		"sports_informations": {
-			"category": "Junior",
-			"disciplines": [
-				"Free Skating Elite/n1"
-			]
-		},
-		"affiliations": [
-			"Roller Artistique Hautes-pyrenees"
-		],
-		"roles": [
-			"athlete"
-		]
-	},
-	{
-		"name": "Louna Roumiguier",
-		"uid": "LOUNAROUMIGUIER",
-		"sports_informations": {
-			"category": "Cadet",
-			"disciplines": [
-				"Free Skating Elite/n1"
-			]
-		},
-		"affiliations": [
-			"Roller Artistique Hautes-pyrenees"
-		],
-		"roles": [
-			"athlete"
-		]
-	},
-	{
-		"name": "Gabriele Sanchez",
-		"uid": "GABRIELESANCHEZ",
-		"sports_informations": {
-			"category": "Junior",
-			"disciplines": [
-				"Free Skating Elite/n1",
-				"Couple Artistique N1"
-			]
-		},
-		"affiliations": [
-			"Roller Artistique Ille Et Vilaine"
-		],
-		"roles": [
-			"athlete"
-		]
-	},
-	{
-		"name": "Aliya Drici",
-		"uid": "ALIYADRICI",
-		"sports_informations": {
-			"category": "Espoir",
-			"disciplines": [
-				"Inline N1"
-			]
-		},
-		"affiliations": [
-			"Roller Artistique Ille Et Vilaine"
-		],
-		"roles": [
-			"athlete"
-		]
-	},
-	{
-		"name": "Matt Benard",
-		"uid": "MATTBENARD",
-		"sports_informations": {
-			"category": "Junior",
-			"disciplines": [
-				"Free Skating Elite/n1"
-			]
-		},
-		"affiliations": [
-			"Roller Artistique Ille Et Vilaine"
-		],
-		"roles": [
-			"athlete"
-		]
-	},
-	{
-		"name": "Lucie James",
-		"uid": "LUCIEJAMES",
-		"sports_informations": {
-			"category": "Espoir",
-			"disciplines": [
-				"Free Skating Elite/n1"
-			]
-		},
-		"affiliations": [
-			"Roller Artistique Ille Et Vilaine"
-		],
-		"roles": [
-			"athlete"
-		]
-	},
-	{
-		"name": "Cloe Beddiar",
-		"uid": "CLOEBEDDIAR",
-		"sports_informations": {
-			"category": "Senior",
-			"disciplines": [
-				"Free Skating Elite/n1"
-			]
-		},
-		"affiliations": [
-			"Roller Artistique Ille Et Vilaine"
-		],
-		"roles": [
-			"athlete"
-		]
-	},
-	{
-		"name": "Justine Lirot",
-		"uid": "JUSTINELIROT",
-		"sports_informations": {
-			"category": "Senior",
-			"disciplines": [
-				"Free Skating Elite/n1"
-			]
-		},
-		"affiliations": [
-			"Roller Artistique Ille Et Vilaine"
-		],
-		"roles": [
-			"athlete"
-		]
-	},
-	{
-		"name": "Enora Edon",
-		"uid": "ENORAEDON",
-		"sports_informations": {
-			"category": "Jeunesse",
-			"disciplines": [
-				"Free Skating Elite/n1"
-			]
-		},
-		"affiliations": [
-			"Roller Club Artistique Montalbanais"
-		],
-		"roles": [
-			"athlete"
-		]
-	},
-	{
-		"name": "Margaux Patin",
-		"uid": "MARGAUXPATIN",
-		"sports_informations": {
-			"category": "Cadet",
-			"disciplines": [
-				"Free Skating Elite/n1"
-			]
-		},
-		"affiliations": [
-			"Roller Club Dolois"
-		],
-		"roles": [
-			"athlete"
-		]
-	},
-	{
-		"name": "Kim Le Roch",
-		"uid": "KIMLEROCH",
-		"sports_informations": {
-			"category": "Cadet",
-			"disciplines": [
-				"Inline N1"
-			]
-		},
-		"affiliations": [
-			"Roller Skating Club D'antibes"
-		],
-		"roles": [
-			"athlete"
-		]
-	},
-	{
-		"name": "Adama Djola Marna",
-		"uid": "ADAMADJOLAMARNA",
-		"sports_informations": {
-			"category": "Jeunesse",
-			"disciplines": [
-				"Free Skating Elite/n1"
-			]
-		},
-		"affiliations": [
-			"Roller Skating Nemours St Pierre"
-		],
-		"roles": [
-			"athlete"
-		]
-	},
-	{
-		"name": "Camille Gobiet",
-		"uid": "CAMILLEGOBIET",
-		"sports_informations": {
-			"category": "Mini",
-			"disciplines": [
-				"Free Skating Elite/n1"
-			]
-		},
-		"affiliations": [
-			"Roller Skating Nemours St Pierre"
-		],
-		"roles": [
-			"athlete"
-		]
-	},
-	{
-		"name": "Anais Roques",
-		"uid": "ANAISROQUES",
-		"sports_informations": {
-			"category": "Cadet",
-			"disciplines": [
-				"Free Skating Elite/n1"
-			]
-		},
-		"affiliations": [
-			"Roller Skating Saint Orens"
-		],
-		"roles": [
-			"athlete"
-		]
-	},
-	{
-		"name": "Lucia Miral",
-		"uid": "LUCIAMIRAL",
-		"sports_informations": {
-			"category": "Junior",
-			"disciplines": [
-				"Free Skating Elite/n1"
-			]
-		},
-		"affiliations": [
-			"Roller Skating Saint Orens"
-		],
-		"roles": [
-			"athlete"
-		]
-	},
-	{
-		"name": "Lorena Cron Lima",
-		"uid": "LORENACRONLIMA",
-		"sports_informations": {
-			"category": "Junior",
-			"disciplines": [
-				"Free Skating Elite/n1"
-			]
-		},
-		"affiliations": [
-			"Roller Skating Saint Orens"
-		],
-		"roles": [
-			"athlete"
-		]
-	},
-	{
-		"name": "Stan Derou",
-		"uid": "STANDEROU",
-		"sports_informations": {
-			"category": "Junior",
-			"disciplines": [
-				"Free Skating Elite/n1"
-			]
-		},
-		"affiliations": [
-			"Rollers Dancing Arts"
-		],
-		"roles": [
-			"athlete"
-		]
-	},
-	{
-		"name": "Lise Ecalle",
-		"uid": "LISEECALLE",
-		"sports_informations": {
-			"category": "Cadet",
-			"disciplines": [
-				"Free Skating Elite/n1"
-			]
-		},
-		"affiliations": [
-			"Rollers Dancing Arts"
-		],
-		"roles": [
-			"athlete"
-		]
-	},
-	{
-		"name": "Agathe Jerbillet",
-		"uid": "AGATHEJERBILLET",
-		"sports_informations": {
-			"category": "Jeunesse",
-			"disciplines": [
-				"Free Skating Elite/n1"
-			]
-		},
-		"affiliations": [
-			"Sa Gazinet-cestas"
-		],
-		"roles": [
-			"athlete"
-		]
-	},
-	{
-		"name": "Zoe Cazcarra",
-		"uid": "ZOECAZCARRA",
-		"sports_informations": {
-			"category": "Espoir",
-			"disciplines": [
-				"Free Skating Elite/n1"
-			]
-		},
-		"affiliations": [
-			"Sa Gazinet-cestas"
-		],
-		"roles": [
-			"athlete"
-		]
-	},
-	{
-		"name": "Thalia Junca",
-		"uid": "THALIAJUNCA",
-		"sports_informations": {
-			"category": "Senior",
-			"disciplines": [
-				"Free Skating Elite/n1"
-			]
-		},
-		"affiliations": [
-			"Sa Gazinet-cestas"
-		],
-		"roles": [
-			"athlete"
-		]
-	},
-	{
-		"name": "Lylou Juigues",
-		"uid": "LYLOUJUIGUES",
-		"sports_informations": {
-			"category": "Junior",
-			"disciplines": [
-				"Free Skating Elite/n1"
-			]
-		},
-		"affiliations": [
-			"Sa Gazinet-cestas"
-		],
-		"roles": [
-			"athlete"
-		]
-	},
-	{
-		"name": "Esther Gelin",
-		"uid": "ESTHERGELIN",
-		"sports_informations": {
-			"category": "Junior",
-			"disciplines": [
-				"Free Skating Elite/n1"
-			]
-		},
-		"affiliations": [
-			"Sa Gazinet-cestas"
-		],
-		"roles": [
-			"athlete"
-		]
-	},
-	{
-		"name": "Florine Devos",
-		"uid": "FLORINEDEVOS",
-		"sports_informations": {
-			"category": "Jeunesse",
-			"disciplines": [
-				"Free Skating Elite/n1"
-			]
-		},
-		"affiliations": [
-			"Sa Gazinet-cestas"
-		],
-		"roles": [
-			"athlete"
-		]
-	},
-	{
-		"name": "Chloe Favot",
-		"uid": "CHLOEFAVOT",
-		"sports_informations": {
-			"category": "Espoir",
-			"disciplines": [
-				"Free Skating Elite/n1"
-			]
-		},
-		"affiliations": [
-			"Sa Gazinet-cestas"
-		],
-		"roles": [
-			"athlete"
-		]
-	},
-	{
-		"name": "Ana Bourda",
-		"uid": "ANABOURDA",
-		"sports_informations": {
-			"category": "Espoir",
-			"disciplines": [
-				"Free Skating Elite/n1"
-			]
-		},
-		"affiliations": [
-			"Sa Gazinet-cestas"
-		],
-		"roles": [
-			"athlete"
-		]
-	},
-	{
-		"name": "Alicia Poulain",
-		"uid": "ALICIAPOULAIN",
-		"sports_informations": {
-			"category": "Mini",
-			"disciplines": [
-				"Free Skating Elite/n1"
-			]
-		},
-		"affiliations": [
-			"Sa Gazinet-cestas"
-		],
-		"roles": [
-			"athlete"
-		]
-	},
-	{
-		"name": "Jade Cartel",
-		"uid": "JADECARTEL",
-		"sports_informations": {
-			"category": "Mini",
-			"disciplines": [
-				"Free Skating Elite/n1"
-			]
-		},
-		"affiliations": [
-			"Sa Gazinet-cestas"
-		],
-		"roles": [
-			"athlete"
-		]
-	},
-	{
-		"name": "Zelie Jamoneau",
-		"uid": "ZELIEJAMONEAU",
-		"sports_informations": {
-			"category": "Mini",
-			"disciplines": [
-				"Free Skating Elite/n1"
-			]
-		},
-		"affiliations": [
-			"Sa Gazinet-cestas"
-		],
-		"roles": [
-			"athlete"
-		]
-	},
-	{
-		"name": "Maelie Lopez",
-		"uid": "MAELIELOPEZ",
-		"sports_informations": {
-			"category": "Mini",
-			"disciplines": [
-				"Free Skating Elite/n1"
-			]
-		},
-		"affiliations": [
-			"Sa Gazinet-cestas"
-		],
-		"roles": [
-			"athlete"
-		]
-	},
-	{
-		"name": "Elaia Favot",
-		"uid": "ELAIAFAVOT",
-		"sports_informations": {
-			"category": "Mini",
-			"disciplines": [
-				"Free Skating Elite/n1"
-			]
-		},
-		"affiliations": [
-			"Sa Gazinet-cestas"
-		],
-		"roles": [
-			"athlete"
-		]
-	},
-	{
-		"name": "Lily Jade Berbiale Dubus",
-		"uid": "LILYJADEBERBIALEDUBUS",
-		"sports_informations": {
-			"category": "Mini",
-			"disciplines": [
-				"Free Skating Elite/n1"
-			]
-		},
-		"affiliations": [
-			"Sa Gazinet-cestas"
-		],
-		"roles": [
-			"athlete"
-		]
-	},
-	{
-		"name": "Anelya Kochtaev",
-		"uid": "ANELYAKOCHTAEV",
-		"sports_informations": {
-			"category": "Mini",
-			"disciplines": [
-				"Inline N1"
-			]
-		},
-		"affiliations": [
-			"Spuc Pessac"
-		],
-		"roles": [
-			"athlete"
-		]
-	},
-	{
-		"name": "Viktoriia Karimova",
-		"uid": "VIKTORIIAKARIMOVA",
-		"sports_informations": {
-			"category": "Mini",
-			"disciplines": [
-				"Inline N1"
-			]
-		},
-		"affiliations": [
-			"Spuc Pessac"
-		],
-		"roles": [
-			"athlete"
-		]
-	},
-	{
-		"name": "Regina Kaminskaya",
-		"uid": "REGINAKAMINSKAYA",
-		"sports_informations": {
-			"category": "Mini",
-			"disciplines": [
-				"Inline N1"
-			]
-		},
-		"affiliations": [
-			"Spuc Pessac"
-		],
-		"roles": [
-			"athlete"
-		]
-	},
-	{
-		"name": "Matt Brisset",
-		"uid": "MATTBRISSET",
-		"sports_informations": {
-			"category": "Junior",
-			"disciplines": [
-				"Free Skating Elite/n1"
-			]
-		},
-		"affiliations": [
-			"Spuc Pessac"
-		],
-		"roles": [
-			"athlete"
-		]
-	},
-	{
-		"name": "Clemence Fossat - Belaud",
-		"uid": "CLEMENCEFOSSAT-BELAUD",
-		"sports_informations": {
-			"category": "Jeunesse",
-			"disciplines": [
-				"Free Skating Elite/n1"
-			]
-		},
-		"affiliations": [
-			"Spuc Pessac"
-		],
-		"roles": [
-			"athlete"
-		]
-	},
-	{
-		"name": "Lili Loiseau",
-		"uid": "LILILOISEAU",
-		"sports_informations": {
-			"category": "Junior",
-			"disciplines": [
-				"Inline N1"
-			]
-		},
-		"affiliations": [
-			"Tarbes Club Patinage Artistique"
-		],
-		"roles": [
-			"athlete"
-		]
-	},
-	{
-		"name": "Emmy Loiseau",
-		"uid": "EMMYLOISEAU",
-		"sports_informations": {
-			"category": "Espoir",
-			"disciplines": [
-				"Inline N1"
-			]
-		},
-		"affiliations": [
-			"Tarbes Club Patinage Artistique"
-		],
-		"roles": [
-			"athlete"
-		]
-	},
-	{
-		"name": "Susie Loiseau",
-		"uid": "SUSIELOISEAU",
-		"sports_informations": {
-			"category": "Mini",
-			"disciplines": [
-				"Inline N1"
-			]
-		},
-		"affiliations": [
-			"Tarbes Club Patinage Artistique"
-		],
-		"roles": [
-			"athlete"
-		]
-	},
-	{
-		"name": "Luz Mila Riviere Cabrera",
-		"uid": "LUZMILARIVIERECABRERA",
-		"sports_informations": {
-			"category": "Jeunesse",
-			"disciplines": [
-				"Free Skating Elite/n1"
-			]
-		},
-		"affiliations": [
-			"Tarbes Club Patinage Artistique"
-		],
-		"roles": [
-			"athlete"
-		]
-	},
-	{
-		"name": "Lana Bruyere",
-		"uid": "LANABRUYERE",
-		"sports_informations": {
-			"category": "Senior",
-			"disciplines": [
-				"Free Skating Elite/n1"
-			]
-		},
-		"affiliations": [
-			"Union Athletique Gujan Mestras"
-		],
-		"roles": [
-			"athlete"
-		]
-	},
-	{
-		"name": "Josephine Nguyen",
-		"uid": "JOSEPHINENGUYEN",
-		"sports_informations": {
-			"category": "Espoir",
-			"disciplines": [
-				"Free Skating Elite/n1"
-			]
-		},
-		"affiliations": [
-			"Union Sportive Fontenaysienne"
-		],
-		"roles": [
-			"athlete"
-		]
-	},
-	{
-		"name": "Lou Vanesse",
-		"uid": "LOUVANESSE",
-		"sports_informations": {
-			"category": "Poussin",
-			"disciplines": [
-				"Free Skating Elite/n1"
-			]
-		},
-		"affiliations": [
-			"Unora School"
-		],
-		"roles": [
-			"athlete"
-		]
-	},
-	{
-		"name": "Lea Colin",
-		"uid": "LEACOLIN",
-		"sports_informations": {
-			"category": "Poussin",
-			"disciplines": [
-				"Free Skating Elite/n1"
-			]
-		},
-		"affiliations": [
-			"Unora School"
-		],
-		"roles": [
-			"athlete"
-		]
-	},
-	{
-		"name": "Maiana Bosc",
-		"uid": "MAIANABOSC",
-		"sports_informations": {
-			"category": "Junior",
-			"disciplines": [
-				"Free Skating Elite/n1"
-			]
-		},
-		"affiliations": [
-			"Us Mazeres"
-		],
-		"roles": [
-			"athlete"
-		]
-	},
-	{
-		"name": "Charlotte Ceyrac-prim",
-		"uid": "CHARLOTTECEYRAC-PRIM",
-		"sports_informations": {
-			"category": "Cadet",
-			"disciplines": [
-				"Free Skating Elite/n1"
-			]
-		},
-		"affiliations": [
-			"Us Mazeres"
-		],
-		"roles": [
-			"athlete"
-		]
-	},
-	{
-		"name": "Romane Darrigrand",
-		"uid": "ROMANEDARRIGRAND",
-		"sports_informations": {
-			"category": "Espoir",
-			"disciplines": [
-				"Free Skating Elite/n1"
-			]
-		},
-		"affiliations": [
-			"Us Mazeres"
-		],
-		"roles": [
-			"athlete"
-		]
-	},
-	{
-		"name": "Eloise Darrigrand",
-		"uid": "ELOISEDARRIGRAND",
-		"sports_informations": {
-			"category": "Espoir",
-			"disciplines": [
-				"Free Skating Elite/n1"
-			]
-		},
-		"affiliations": [
-			"Us Mazeres"
-		],
-		"roles": [
-			"athlete"
-		]
-	},
-	{
-		"name": "Licia Beguerie",
-		"uid": "LICIABEGUERIE",
-		"sports_informations": {
-			"category": "Espoir",
-			"disciplines": [
-				"Free Skating Elite/n1"
-			]
-		},
-		"affiliations": [
-			"Us Mazeres"
-		],
-		"roles": [
-			"athlete"
-		]
-	},
-	{
-		"name": "Maylis Loubet",
-		"uid": "MAYLISLOUBET",
-		"sports_informations": {
-			"category": "Cadet",
-			"disciplines": [
-				"Free Skating Elite/n1"
-			]
-		},
-		"affiliations": [
-			"Valence Olympique Patinage"
-		],
-		"roles": [
-			"athlete"
-		]
-	}
+    {
+        "name": "Ludivine Malle",
+        "uid": "LUDIVINEMALLE",
+        "sports_informations": {
+            "category": "",
+            "disciplines": []
+        },
+        "affiliations": [
+            "Soloop",
+            "Roller Artistique Ille et Vilaine"
+        ],
+        "roles": [
+            "exhibitor",
+            "trainer"
+        ]
+    },
+    {
+        "name": "Guillaume Modard",
+        "uid": "GUILLAUMEMODARD",
+        "sports_informations": {
+            "category": "",
+            "disciplines": []
+        },
+        "affiliations": [
+            "Fédération Française de Roller & Skateboard",
+            "Patiner à Plouguin",
+            "Roller Artistique Ille et Vilaine"
+        ],
+        "roles": [
+            "federation",
+            "trainer"
+        ]
+    },
+    {
+        "name": "Thomas Picard",
+        "uid": "THOMASPICARD",
+        "sports_informations": {
+            "category": "",
+            "disciplines": []
+        },
+        "affiliations": [
+            "Fédération Française de Roller & Skateboard",
+            "Club Sportif Noisy le Grand Roller Skating"
+        ],
+        "roles": [
+            "federation",
+            "trainer"
+        ]
+    },
+    {
+        "name": "Hanaé Devos",
+        "uid": "HANAÉDEVOS",
+        "sports_informations": {
+            "category": "",
+            "disciplines": []
+        },
+        "affiliations": [
+            "Fédération Française de Roller & Skateboard"
+        ],
+        "roles": [
+            "federation"
+        ]
+    },
+    {
+        "name": "François Cattoire",
+        "uid": "FRANÇOISCATTOIRE",
+        "sports_informations": {
+            "category": "",
+            "disciplines": []
+        },
+        "affiliations": [
+            "Fédération Française de Roller & Skateboard"
+        ],
+        "roles": [
+            "federation"
+        ]
+    },
+    {
+        "name": "Isabelle Garnier",
+        "uid": "ISABELLEGARNIER",
+        "sports_informations": {
+            "category": "",
+            "disciplines": []
+        },
+        "affiliations": [
+            "Fédération Française de Roller & Skateboard",
+            "Club Sportif Noisy le Grand Roller Skating"
+        ],
+        "roles": [
+            "federation",
+            "delegate"
+        ]
+    },
+    {
+        "name": "Léa Burban",
+        "uid": "LÉABURBAN",
+        "sports_informations": {
+            "category": "",
+            "disciplines": []
+        },
+        "affiliations": [
+            "Fédération Française de Roller & Skateboard"
+        ],
+        "roles": [
+            "federation"
+        ]
+    },
+    {
+        "name": "Sébastien Heligon",
+        "uid": "SÉBASTIENHELIGON",
+        "sports_informations": {
+            "category": "",
+            "disciplines": []
+        },
+        "affiliations": [
+            "Roller Artistique Ille et Vilaine"
+        ],
+        "roles": [
+            "oc"
+        ]
+    },
+    {
+        "name": "Marie-claire Le Rallec",
+        "uid": "MARIE-CLAIRELERALLEC",
+        "sports_informations": {
+            "category": "",
+            "disciplines": []
+        },
+        "affiliations": [
+            "Fédération Française de Roller & Skateboard"
+        ],
+        "roles": [
+            "federation"
+        ]
+    },
+    {
+        "name": "Najete Kada",
+        "uid": "NAJETEKADA",
+        "sports_informations": {
+            "category": "",
+            "disciplines": []
+        },
+        "affiliations": [
+            "Fédération Française de Roller & Skateboard"
+        ],
+        "roles": [
+            "federation"
+        ]
+    },
+    {
+        "name": "Micol Zangoli",
+        "uid": "MICOLZANGOLI",
+        "sports_informations": {
+            "category": "",
+            "disciplines": []
+        },
+        "affiliations": [
+            "My Body Creations"
+        ],
+        "roles": [
+            "exhibitor"
+        ]
+    },
+    {
+        "name": "Graziella Carnoli",
+        "uid": "GRAZIELLACARNOLI",
+        "sports_informations": {
+            "category": "",
+            "disciplines": []
+        },
+        "affiliations": [
+            "My Body Creations"
+        ],
+        "roles": [
+            "exhibitor"
+        ]
+    },
+    {
+        "name": "Delphine Loubet",
+        "uid": "DELPHINELOUBET",
+        "sports_informations": {
+            "category": "",
+            "disciplines": []
+        },
+        "affiliations": [
+            "Valence Olympique Patinage"
+        ],
+        "roles": [
+            "delegate"
+        ]
+    },
+    {
+        "name": "Justine Fernandes",
+        "uid": "JUSTINEFERNANDES",
+        "sports_informations": {
+            "category": "",
+            "disciplines": []
+        },
+        "affiliations": [
+            "Valence Olympique Patinage"
+        ],
+        "roles": [
+            "trainer"
+        ]
+    },
+    {
+        "name": "Carole Savy",
+        "uid": "CAROLESAVY",
+        "sports_informations": {
+            "category": "",
+            "disciplines": []
+        },
+        "affiliations": [
+            "Valence Olympique Patinage"
+        ],
+        "roles": [
+            "trainer"
+        ]
+    },
+    {
+        "name": "Jean Pierre Rimbault",
+        "uid": "JEANPIERRERIMBAULT",
+        "sports_informations": {
+            "category": "",
+            "disciplines": []
+        },
+        "affiliations": [
+            "Roller Skating Nemours St Pierre"
+        ],
+        "roles": [
+            "delegate",
+            "trainer"
+        ]
+    },
+    {
+        "name": "Susanna Dilliott",
+        "uid": "SUSANNADILLIOTT",
+        "sports_informations": {
+            "category": "",
+            "disciplines": []
+        },
+        "affiliations": [
+            "Roller Skating Nemours St Pierre"
+        ],
+        "roles": [
+            "trainer"
+        ]
+    },
+    {
+        "name": "Monique Mazain",
+        "uid": "MONIQUEMAZAIN",
+        "sports_informations": {
+            "category": "",
+            "disciplines": []
+        },
+        "affiliations": [
+            "Tarbes Club Patinage Artistique"
+        ],
+        "roles": [
+            "delegate"
+        ]
+    },
+    {
+        "name": "Nicolas Batac",
+        "uid": "NICOLASBATAC",
+        "sports_informations": {
+            "category": "",
+            "disciplines": []
+        },
+        "affiliations": [
+            "Tarbes Club Patinage Artistique"
+        ],
+        "roles": [
+            "trainer"
+        ]
+    },
+    {
+        "name": "Violeta Riviere",
+        "uid": "VIOLETARIVIERE",
+        "sports_informations": {
+            "category": "",
+            "disciplines": []
+        },
+        "affiliations": [
+            "Tarbes Club Patinage Artistique"
+        ],
+        "roles": [
+            "trainer"
+        ]
+    },
+    {
+        "name": "Soazig Brisson",
+        "uid": "SOAZIGBRISSON",
+        "sports_informations": {
+            "category": "",
+            "disciplines": []
+        },
+        "affiliations": [
+            "Millenium Patinage"
+        ],
+        "roles": [
+            "delegate"
+        ]
+    },
+    {
+        "name": "Elodie Perraud",
+        "uid": "ELODIEPERRAUD",
+        "sports_informations": {
+            "category": "",
+            "disciplines": []
+        },
+        "affiliations": [
+            "Millenium Patinage",
+            "Athletic Nantes Roller"
+        ],
+        "roles": [
+            "trainer"
+        ]
+    },
+    {
+        "name": "Morgane Morvan",
+        "uid": "MORGANEMORVAN",
+        "sports_informations": {
+            "category": "",
+            "disciplines": []
+        },
+        "affiliations": [
+            "Patin Club Lesnevien"
+        ],
+        "roles": [
+            "delegate"
+        ]
+    },
+    {
+        "name": "Gaelle Kerouanton",
+        "uid": "GAELLEKEROUANTON",
+        "sports_informations": {
+            "category": "",
+            "disciplines": []
+        },
+        "affiliations": [
+            "Patin Club Lesnevien"
+        ],
+        "roles": [
+            "trainer"
+        ]
+    },
+    {
+        "name": "Helene Cann",
+        "uid": "HELENECANN",
+        "sports_informations": {
+            "category": "",
+            "disciplines": []
+        },
+        "affiliations": [
+            "Patin Club Lesnevien"
+        ],
+        "roles": [
+            "trainer"
+        ]
+    },
+    {
+        "name": "Josette Etchart",
+        "uid": "JOSETTEETCHART",
+        "sports_informations": {
+            "category": "",
+            "disciplines": []
+        },
+        "affiliations": [
+            "US Mazeres"
+        ],
+        "roles": [
+            "delegate"
+        ]
+    },
+    {
+        "name": "Celine Prim",
+        "uid": "CELINEPRIM",
+        "sports_informations": {
+            "category": "",
+            "disciplines": []
+        },
+        "affiliations": [
+            "US Mazeres"
+        ],
+        "roles": [
+            "trainer"
+        ]
+    },
+    {
+        "name": "Delphine Le Guen",
+        "uid": "DELPHINELEGUEN",
+        "sports_informations": {
+            "category": "",
+            "disciplines": []
+        },
+        "affiliations": [
+            "Patiner à Plouguin"
+        ],
+        "roles": [
+            "delegate"
+        ]
+    },
+    {
+        "name": "Pauline Eozenou",
+        "uid": "PAULINEEOZENOU",
+        "sports_informations": {
+            "category": "",
+            "disciplines": []
+        },
+        "affiliations": [
+            "Patiner à Plouguin",
+            "La Beaumanoir"
+        ],
+        "roles": [
+            "trainer"
+        ]
+    },
+    {
+        "name": "Sébastien Schwenter",
+        "uid": "SÉBASTIENSCHWENTER",
+        "sports_informations": {
+            "category": "",
+            "disciplines": []
+        },
+        "affiliations": [
+            "Club des Patineurs de l'Ain"
+        ],
+        "roles": [
+            "delegate"
+        ]
+    },
+    {
+        "name": "Didier Piveteau",
+        "uid": "DIDIERPIVETEAU",
+        "sports_informations": {
+            "category": "",
+            "disciplines": []
+        },
+        "affiliations": [
+            "Club des Patineurs de l'Ain"
+        ],
+        "roles": [
+            "trainer"
+        ]
+    },
+    {
+        "name": "Isabelle Piveteau",
+        "uid": "ISABELLEPIVETEAU",
+        "sports_informations": {
+            "category": "",
+            "disciplines": []
+        },
+        "affiliations": [
+            "Club des Patineurs de l'Ain"
+        ],
+        "roles": [
+            "trainer"
+        ]
+    },
+    {
+        "name": "Amelie Dulac",
+        "uid": "AMELIEDULAC",
+        "sports_informations": {
+            "category": "",
+            "disciplines": []
+        },
+        "affiliations": [
+            "CPB Belleville"
+        ],
+        "roles": [
+            "delegate",
+            "trainer"
+        ]
+    },
+    {
+        "name": "Florie Brochard",
+        "uid": "FLORIEBROCHARD",
+        "sports_informations": {
+            "category": "",
+            "disciplines": []
+        },
+        "affiliations": [
+            "Athletic Nantes Roller"
+        ],
+        "roles": [
+            "delegate"
+        ]
+    },
+    {
+        "name": "Noellie Glotin",
+        "uid": "NOELLIEGLOTIN",
+        "sports_informations": {
+            "category": "",
+            "disciplines": []
+        },
+        "affiliations": [
+            "SPUC Pessac"
+        ],
+        "roles": [
+            "delegate"
+        ]
+    },
+    {
+        "name": "Marie-claude Martinez",
+        "uid": "MARIE-CLAUDEMARTINEZ",
+        "sports_informations": {
+            "category": "",
+            "disciplines": []
+        },
+        "affiliations": [
+            "SPUC Pessac"
+        ],
+        "roles": [
+            "trainer"
+        ]
+    },
+    {
+        "name": "Elena Osminina",
+        "uid": "ELENAOSMININA",
+        "sports_informations": {
+            "category": "",
+            "disciplines": []
+        },
+        "affiliations": [
+            "SPUC Pessac"
+        ],
+        "roles": [
+            "trainer"
+        ]
+    },
+    {
+        "name": "Marie-france Pierson",
+        "uid": "MARIE-FRANCEPIERSON",
+        "sports_informations": {
+            "category": "",
+            "disciplines": []
+        },
+        "affiliations": [
+            "Artistic Skating Ballainvilliers Montlhery"
+        ],
+        "roles": [
+            "delegate"
+        ]
+    },
+    {
+        "name": "Camille Champion",
+        "uid": "CAMILLECHAMPION",
+        "sports_informations": {
+            "category": "",
+            "disciplines": []
+        },
+        "affiliations": [
+            "Artistic Skating Ballainvilliers Montlhery",
+            "Roller Artistique Hautes-Pyrenees"
+        ],
+        "roles": [
+            "trainer"
+        ]
+    },
+    {
+        "name": "Maixent Desserprit",
+        "uid": "MAIXENTDESSERPRIT",
+        "sports_informations": {
+            "category": "",
+            "disciplines": []
+        },
+        "affiliations": [
+            "Artistic Skating Ballainvilliers Montlhery"
+        ],
+        "roles": [
+            "trainer"
+        ]
+    },
+    {
+        "name": "Emmanuelle Bouchair",
+        "uid": "EMMANUELLEBOUCHAIR",
+        "sports_informations": {
+            "category": "",
+            "disciplines": []
+        },
+        "affiliations": [
+            "Roller Artistique Hautes-Pyrenees"
+        ],
+        "roles": [
+            "delegate"
+        ]
+    },
+    {
+        "name": "Emilie Nguyen",
+        "uid": "EMILIENGUYEN",
+        "sports_informations": {
+            "category": "",
+            "disciplines": []
+        },
+        "affiliations": [
+            "Union Sportive Fontenaysienne"
+        ],
+        "roles": [
+            "delegate"
+        ]
+    },
+    {
+        "name": "Callahan Busvelle",
+        "uid": "CALLAHANBUSVELLE",
+        "sports_informations": {
+            "category": "",
+            "disciplines": []
+        },
+        "affiliations": [
+            "Union Sportive Fontenaysienne"
+        ],
+        "roles": [
+            "trainer"
+        ]
+    },
+    {
+        "name": "Carine Fabre",
+        "uid": "CARINEFABRE",
+        "sports_informations": {
+            "category": "",
+            "disciplines": []
+        },
+        "affiliations": [
+            "Roller Skating Saint Orens"
+        ],
+        "roles": [
+            "delegate"
+        ]
+    },
+    {
+        "name": "Sebastien Charron",
+        "uid": "SEBASTIENCHARRON",
+        "sports_informations": {
+            "category": "",
+            "disciplines": []
+        },
+        "affiliations": [
+            "Roller Skating Saint Orens",
+            "Les Patineurs de Tournefeuille"
+        ],
+        "roles": [
+            "trainer"
+        ]
+    },
+    {
+        "name": "David Siksik",
+        "uid": "DAVIDSIKSIK",
+        "sports_informations": {
+            "category": "",
+            "disciplines": []
+        },
+        "affiliations": [
+            "Boussy Roller Club"
+        ],
+        "roles": [
+            "trainer"
+        ]
+    },
+    {
+        "name": "Sandra Castaing",
+        "uid": "SANDRACASTAING",
+        "sports_informations": {
+            "category": "",
+            "disciplines": []
+        },
+        "affiliations": [
+            "Boussy Roller Club"
+        ],
+        "roles": [
+            "delegate"
+        ]
+    },
+    {
+        "name": "Evelyse Guitton",
+        "uid": "EVELYSEGUITTON",
+        "sports_informations": {
+            "category": "",
+            "disciplines": []
+        },
+        "affiliations": [
+            "Union Athletique Gujan Mestras"
+        ],
+        "roles": [
+            "delegate"
+        ]
+    },
+    {
+        "name": "Angélique Descoustey",
+        "uid": "ANGÉLIQUEDESCOUSTEY",
+        "sports_informations": {
+            "category": "",
+            "disciplines": []
+        },
+        "affiliations": [
+            "Union Athletique Gujan Mestras"
+        ],
+        "roles": [
+            "trainer"
+        ]
+    },
+    {
+        "name": "Laurence Vignau",
+        "uid": "LAURENCEVIGNAU",
+        "sports_informations": {
+            "category": "",
+            "disciplines": []
+        },
+        "affiliations": [
+            "SA Gazinet-Cestas"
+        ],
+        "roles": [
+            "delegate"
+        ]
+    },
+    {
+        "name": "Lily-marie Lamou",
+        "uid": "LILY-MARIELAMOU",
+        "sports_informations": {
+            "category": "",
+            "disciplines": []
+        },
+        "affiliations": [
+            "SA Gazinet-Cestas"
+        ],
+        "roles": [
+            "trainer"
+        ]
+    },
+    {
+        "name": "Nicolas Jerbillet",
+        "uid": "NICOLASJERBILLET",
+        "sports_informations": {
+            "category": "",
+            "disciplines": []
+        },
+        "affiliations": [
+            "SA Gazinet-Cestas"
+        ],
+        "roles": [
+            "trainer"
+        ]
+    },
+    {
+        "name": "Nathalie Gauthie",
+        "uid": "NATHALIEGAUTHIE",
+        "sports_informations": {
+            "category": "",
+            "disciplines": []
+        },
+        "affiliations": [
+            "Les Patineurs de Tournefeuille"
+        ],
+        "roles": [
+            "delegate"
+        ]
+    },
+    {
+        "name": "Amandine Portet",
+        "uid": "AMANDINEPORTET",
+        "sports_informations": {
+            "category": "",
+            "disciplines": []
+        },
+        "affiliations": [
+            "Les Patineurs de Tournefeuille"
+        ],
+        "roles": [
+            "trainer"
+        ]
+    },
+    {
+        "name": "Stefanie Salamone",
+        "uid": "STEFANIESALAMONE",
+        "sports_informations": {
+            "category": "",
+            "disciplines": []
+        },
+        "affiliations": [
+            "Foyer Rural Maurin"
+        ],
+        "roles": [
+            "delegate"
+        ]
+    },
+    {
+        "name": "Laurie Vidal",
+        "uid": "LAURIEVIDAL",
+        "sports_informations": {
+            "category": "",
+            "disciplines": []
+        },
+        "affiliations": [
+            "Foyer Rural Maurin"
+        ],
+        "roles": [
+            "trainer"
+        ]
+    },
+    {
+        "name": "Sophie Urvoas",
+        "uid": "SOPHIEURVOAS",
+        "sports_informations": {
+            "category": "",
+            "disciplines": []
+        },
+        "affiliations": [
+            "Roller Artistique Ille et Vilaine"
+        ],
+        "roles": [
+            "delegate"
+        ]
+    },
+    {
+        "name": "Laure Aubry",
+        "uid": "LAUREAUBRY",
+        "sports_informations": {
+            "category": "",
+            "disciplines": []
+        },
+        "affiliations": [
+            "Roller Club Artistique Montalbanais"
+        ],
+        "roles": [
+            "delegate"
+        ]
+    },
+    {
+        "name": "Viviane Sicard",
+        "uid": "VIVIANESICARD",
+        "sports_informations": {
+            "category": "",
+            "disciplines": []
+        },
+        "affiliations": [
+            "Roller Club Artistique Montalbanais"
+        ],
+        "roles": [
+            "trainer"
+        ]
+    },
+    {
+        "name": "Jahiry Mosquera Lopez",
+        "uid": "JAHIRYMOSQUERALOPEZ",
+        "sports_informations": {
+            "category": "",
+            "disciplines": []
+        },
+        "affiliations": [
+            "Rollers Dancing Arts"
+        ],
+        "roles": [
+            "delegate"
+        ]
+    },
+    {
+        "name": "Tiphaine Allorge",
+        "uid": "TIPHAINEALLORGE",
+        "sports_informations": {
+            "category": "",
+            "disciplines": []
+        },
+        "affiliations": [
+            "Roller Club Dolois"
+        ],
+        "roles": [
+            "delegate"
+        ]
+    },
+    {
+        "name": "Gwendal Bachelot",
+        "uid": "GWENDALBACHELOT",
+        "sports_informations": {
+            "category": "",
+            "disciplines": []
+        },
+        "affiliations": [
+            "Roller Club Dolois"
+        ],
+        "roles": [
+            "trainer"
+        ]
+    },
+    {
+        "name": "Arwen Chasselin",
+        "uid": "ARWENCHASSELIN",
+        "sports_informations": {
+            "category": "",
+            "disciplines": []
+        },
+        "affiliations": [
+            "Roller Club Dolois"
+        ],
+        "roles": [
+            "trainer"
+        ]
+    },
+    {
+        "name": "Morgane Brochard",
+        "uid": "MORGANEBROCHARD",
+        "sports_informations": {
+            "category": "",
+            "disciplines": []
+        },
+        "affiliations": [
+            "Roller Skating Club d'Antibes"
+        ],
+        "roles": [
+            "delegate"
+        ]
+    },
+    {
+        "name": "Perrine Barale",
+        "uid": "PERRINEBARALE",
+        "sports_informations": {
+            "category": "",
+            "disciplines": []
+        },
+        "affiliations": [
+            "Roller Skating Club d'Antibes"
+        ],
+        "roles": [
+            "trainer"
+        ]
+    },
+    {
+        "name": "Laurent Cavalier",
+        "uid": "LAURENTCAVALIER",
+        "sports_informations": {
+            "category": "",
+            "disciplines": []
+        },
+        "affiliations": [
+            "Roller Skating Club d'Antibes"
+        ],
+        "roles": [
+            "trainer"
+        ]
+    },
+    {
+        "name": "Cynthia Leloir Plisson",
+        "uid": "CYNTHIALELOIRPLISSON",
+        "sports_informations": {
+            "category": "",
+            "disciplines": []
+        },
+        "affiliations": [
+            "In Line Roller Ice Skating"
+        ],
+        "roles": [
+            "delegate"
+        ]
+    },
+    {
+        "name": "Christine Leloir Plisson",
+        "uid": "CHRISTINELELOIRPLISSON",
+        "sports_informations": {
+            "category": "",
+            "disciplines": []
+        },
+        "affiliations": [
+            "In Line Roller Ice Skating"
+        ],
+        "roles": [
+            "trainer"
+        ]
+    },
+    {
+        "name": "Vickie Leloir Plisson",
+        "uid": "VICKIELELOIRPLISSON",
+        "sports_informations": {
+            "category": "",
+            "disciplines": []
+        },
+        "affiliations": [
+            "In Line Roller Ice Skating"
+        ],
+        "roles": [
+            "trainer"
+        ]
+    },
+    {
+        "name": "Aurélie Sampeur",
+        "uid": "AURÉLIESAMPEUR",
+        "sports_informations": {
+            "category": "",
+            "disciplines": []
+        },
+        "affiliations": [
+            "La Beaumanoir"
+        ],
+        "roles": [
+            "delegate"
+        ]
+    },
+    {
+        "name": "Margaux Sampeur",
+        "uid": "MARGAUXSAMPEUR",
+        "sports_informations": {
+            "category": "",
+            "disciplines": []
+        },
+        "affiliations": [
+            "La Beaumanoir"
+        ],
+        "roles": [
+            "trainer"
+        ]
+    },
+    {
+        "name": "Aurelie Dechaume",
+        "uid": "AURELIEDECHAUME",
+        "sports_informations": {
+            "category": "",
+            "disciplines": []
+        },
+        "affiliations": [
+            "Unora School"
+        ],
+        "roles": [
+            "delegate"
+        ]
+    },
+    {
+        "name": "Francois Cattoire",
+        "uid": "FRANCOISCATTOIRE",
+        "sports_informations": {
+            "category": "",
+            "disciplines": []
+        },
+        "affiliations": [
+            "Unora School"
+        ],
+        "roles": [
+            "trainer"
+        ]
+    },
+    {
+        "name": "Sophie Akrivos",
+        "uid": "SOPHIEAKRIVOS",
+        "sports_informations": {
+            "category": "",
+            "disciplines": [
+                "Free skating"
+            ]
+        },
+        "affiliations": [
+            "Unora School"
+        ],
+        "roles": [
+            "trainer",
+            "athlete"
+        ]
+    },
+    {
+        "name": "Annabelle Castillon",
+        "uid": "ANNABELLECASTILLON",
+        "sports_informations": {
+            "category": "",
+            "disciplines": []
+        },
+        "affiliations": [
+            "Club Patinage Artistique St Sulpicien"
+        ],
+        "roles": [
+            "delegate"
+        ]
+    },
+    {
+        "name": "Alexis Tejedor",
+        "uid": "ALEXISTEJEDOR",
+        "sports_informations": {
+            "category": "",
+            "disciplines": []
+        },
+        "affiliations": [
+            "Club Patinage Artistique St Sulpicien"
+        ],
+        "roles": [
+            "trainer"
+        ]
+    },
+    {
+        "name": "Delphine Arbousset",
+        "uid": "DELPHINEARBOUSSET",
+        "sports_informations": {
+            "category": "",
+            "disciplines": []
+        },
+        "affiliations": [
+            "Ales CP"
+        ],
+        "roles": [
+            "delegate",
+            "trainer"
+        ]
+    },
+    {
+        "name": "Manon Arbousset",
+        "uid": "MANONARBOUSSET",
+        "sports_informations": {
+            "category": "",
+            "disciplines": []
+        },
+        "affiliations": [
+            "Ales CP"
+        ],
+        "roles": [
+            "trainer"
+        ]
+    },
+    {
+        "name": "Alisson Decobecq",
+        "uid": "ALISSONDECOBECQ",
+        "sports_informations": {
+            "category": "",
+            "disciplines": []
+        },
+        "affiliations": [
+            "Club de Patinage Artistique Tourcoing"
+        ],
+        "roles": [
+            "delegate",
+            "trainer"
+        ]
+    },
+    {
+        "name": "Audrey Le Peron",
+        "uid": "AUDREYLEPERON",
+        "sports_informations": {
+            "category": "",
+            "disciplines": []
+        },
+        "affiliations": [
+            "Club Sportif Noisy le Grand Roller Skating"
+        ],
+        "roles": [
+            "trainer"
+        ]
+    },
+    {
+        "name": "Marion Defabiani",
+        "uid": "MARIONDEFABIANI",
+        "sports_informations": {
+            "category": "",
+            "disciplines": []
+        },
+        "affiliations": [
+            "Club Sportif Noisy le Grand Roller Skating"
+        ],
+        "roles": [
+            "trainer"
+        ]
+    },
+    {
+        "name": "Joannie Schneider",
+        "uid": "JOANNIESCHNEIDER",
+        "sports_informations": {
+            "category": "",
+            "disciplines": []
+        },
+        "affiliations": [
+            "Club Sportif Noisy le Grand Roller Skating"
+        ],
+        "roles": [
+            "trainer"
+        ]
+    },
+    {
+        "name": "Joseph Vrillacq",
+        "uid": "JOSEPHVRILLACQ",
+        "sports_informations": {
+            "category": "",
+            "disciplines": []
+        },
+        "affiliations": [
+            "ADRS Draguignan"
+        ],
+        "roles": [
+            "trainer"
+        ]
+    },
+    {
+        "name": "Claudine Vrillacq",
+        "uid": "CLAUDINEVRILLACQ",
+        "sports_informations": {
+            "category": "",
+            "disciplines": []
+        },
+        "affiliations": [
+            "ADRS Draguignan"
+        ],
+        "roles": [
+            "delegate"
+        ]
+    },
+    {
+        "name": "Elana Peltier",
+        "uid": "ELANAPELTIER",
+        "sports_informations": {
+            "category": "Senior",
+            "disciplines": [
+                "Inline N1"
+            ]
+        },
+        "affiliations": [
+            "ADRS Draguignan"
+        ],
+        "roles": [
+            "athlete"
+        ]
+    },
+    {
+        "name": "Lea Ceysson",
+        "uid": "LEACEYSSON",
+        "sports_informations": {
+            "category": "Cadet",
+            "disciplines": [
+                "Inline N1"
+            ]
+        },
+        "affiliations": [
+            "Ales CP"
+        ],
+        "roles": [
+            "athlete"
+        ]
+    },
+    {
+        "name": "Eowyn Simon",
+        "uid": "EOWYNSIMON",
+        "sports_informations": {
+            "category": "Mini",
+            "disciplines": [
+                "Free skating"
+            ]
+        },
+        "affiliations": [
+            "Ales CP"
+        ],
+        "roles": [
+            "athlete"
+        ]
+    },
+    {
+        "name": "Elisa Brunel",
+        "uid": "ELISABRUNEL",
+        "sports_informations": {
+            "category": "Mini",
+            "disciplines": [
+                "Free skating"
+            ]
+        },
+        "affiliations": [
+            "Club Patinage Artistique St Sulpicien"
+        ],
+        "roles": [
+            "athlete"
+        ]
+    },
+    {
+        "name": "Loanne Desmons",
+        "uid": "LOANNEDESMONS",
+        "sports_informations": {
+            "category": "Jeunesse",
+            "disciplines": [
+                "Free skating"
+            ]
+        },
+        "affiliations": [
+            "Unora School"
+        ],
+        "roles": [
+            "athlete"
+        ]
+    },
+    {
+        "name": "Chloe Bourasseau",
+        "uid": "CHLOEBOURASSEAU",
+        "sports_informations": {
+            "category": "Cadet",
+            "disciplines": [
+                "Free skating"
+            ]
+        },
+        "affiliations": [
+            "Unora School"
+        ],
+        "roles": [
+            "athlete"
+        ]
+    },
+    {
+        "name": "Selena Obara",
+        "uid": "SELENAOBARA",
+        "sports_informations": {
+            "category": "Mini",
+            "disciplines": [
+                "Free skating"
+            ]
+        },
+        "affiliations": [
+            "Unora School"
+        ],
+        "roles": [
+            "athlete"
+        ]
+    },
+    {
+        "name": "Marius Sampeur",
+        "uid": "MARIUSSAMPEUR",
+        "sports_informations": {
+            "category": "Espoir",
+            "disciplines": [
+                "Free skating"
+            ]
+        },
+        "affiliations": [
+            "La Beaumanoir"
+        ],
+        "roles": [
+            "athlete"
+        ]
+    },
+    {
+        "name": "Kim Le Roch",
+        "uid": "KIMLEROCH",
+        "sports_informations": {
+            "category": "Cadet",
+            "disciplines": [
+                "Inline N1"
+            ]
+        },
+        "affiliations": [
+            "Roller Skating Club d'Antibes"
+        ],
+        "roles": [
+            "athlete"
+        ]
+    },
+    {
+        "name": "Margaux Patin",
+        "uid": "MARGAUXPATIN",
+        "sports_informations": {
+            "category": "Cadet",
+            "disciplines": [
+                "Free skating"
+            ]
+        },
+        "affiliations": [
+            "Roller Club Dolois"
+        ],
+        "roles": [
+            "athlete"
+        ]
+    },
+    {
+        "name": "Agathe Jerbillet",
+        "uid": "AGATHEJERBILLET",
+        "sports_informations": {
+            "category": "Jeunesse",
+            "disciplines": [
+                "Free skating"
+            ]
+        },
+        "affiliations": [
+            "SA Gazinet-Cestas"
+        ],
+        "roles": [
+            "athlete"
+        ]
+    },
+    {
+        "name": "Zoe Cazcarra",
+        "uid": "ZOECAZCARRA",
+        "sports_informations": {
+            "category": "Espoir",
+            "disciplines": [
+                "Free skating"
+            ]
+        },
+        "affiliations": [
+            "SA Gazinet-Cestas"
+        ],
+        "roles": [
+            "athlete"
+        ]
+    },
+    {
+        "name": "Stan Derou",
+        "uid": "STANDEROU",
+        "sports_informations": {
+            "category": "Junior",
+            "disciplines": [
+                "Free skating"
+            ]
+        },
+        "affiliations": [
+            "Rollers Dancing Arts"
+        ],
+        "roles": [
+            "athlete"
+        ]
+    },
+    {
+        "name": "Lise Ecalle",
+        "uid": "LISEECALLE",
+        "sports_informations": {
+            "category": "Cadet",
+            "disciplines": [
+                "Free skating"
+            ]
+        },
+        "affiliations": [
+            "Rollers Dancing Arts"
+        ],
+        "roles": [
+            "athlete"
+        ]
+    },
+    {
+        "name": "Enora Edon",
+        "uid": "ENORAEDON",
+        "sports_informations": {
+            "category": "Jeunesse",
+            "disciplines": [
+                "Free skating"
+            ]
+        },
+        "affiliations": [
+            "Roller Club Artistique Montalbanais"
+        ],
+        "roles": [
+            "athlete"
+        ]
+    },
+    {
+        "name": "Lou Vanesse",
+        "uid": "LOUVANESSE",
+        "sports_informations": {
+            "category": "Poussin",
+            "disciplines": [
+                "Free skating"
+            ]
+        },
+        "affiliations": [
+            "Unora School"
+        ],
+        "roles": [
+            "athlete"
+        ]
+    },
+    {
+        "name": "Lea Colin",
+        "uid": "LEACOLIN",
+        "sports_informations": {
+            "category": "Poussin",
+            "disciplines": [
+                "Free skating"
+            ]
+        },
+        "affiliations": [
+            "Unora School"
+        ],
+        "roles": [
+            "athlete"
+        ]
+    },
+    {
+        "name": "Gabriele Sanchez",
+        "uid": "GABRIELESANCHEZ",
+        "sports_informations": {
+            "category": "Junior",
+            "disciplines": [
+                "Free skating",
+                "Pairs"
+            ]
+        },
+        "affiliations": [
+            "Roller Artistique Ille et Vilaine"
+        ],
+        "roles": [
+            "athlete"
+        ]
+    },
+    {
+        "name": "Alexandre Le Guen",
+        "uid": "ALEXANDRELEGUEN",
+        "sports_informations": {
+            "category": "Junior",
+            "disciplines": [
+                "Pairs",
+                "Free skating"
+            ]
+        },
+        "affiliations": [
+            "Patiner à Plouguin"
+        ],
+        "roles": [
+            "athlete"
+        ]
+    },
+    {
+        "name": "Aliya Drici",
+        "uid": "ALIYADRICI",
+        "sports_informations": {
+            "category": "Espoir",
+            "disciplines": [
+                "Inline N1"
+            ]
+        },
+        "affiliations": [
+            "Roller Artistique Ille et Vilaine"
+        ],
+        "roles": [
+            "athlete"
+        ]
+    },
+    {
+        "name": "Matt Benard",
+        "uid": "MATTBENARD",
+        "sports_informations": {
+            "category": "Junior",
+            "disciplines": [
+                "Free skating"
+            ]
+        },
+        "affiliations": [
+            "Roller Artistique Ille et Vilaine"
+        ],
+        "roles": [
+            "athlete"
+        ]
+    },
+    {
+        "name": "Lucie James",
+        "uid": "LUCIEJAMES",
+        "sports_informations": {
+            "category": "Espoir",
+            "disciplines": [
+                "Free skating"
+            ]
+        },
+        "affiliations": [
+            "Roller Artistique Ille et Vilaine"
+        ],
+        "roles": [
+            "athlete"
+        ]
+    },
+    {
+        "name": "Cloe Beddiar",
+        "uid": "CLOEBEDDIAR",
+        "sports_informations": {
+            "category": "Senior",
+            "disciplines": [
+                "Free skating"
+            ]
+        },
+        "affiliations": [
+            "Roller Artistique Ille et Vilaine"
+        ],
+        "roles": [
+            "athlete"
+        ]
+    },
+    {
+        "name": "Justine Lirot",
+        "uid": "JUSTINELIROT",
+        "sports_informations": {
+            "category": "Senior",
+            "disciplines": [
+                "Free skating"
+            ]
+        },
+        "affiliations": [
+            "Roller Artistique Ille et Vilaine"
+        ],
+        "roles": [
+            "athlete"
+        ]
+    },
+    {
+        "name": "Pauline Roques",
+        "uid": "PAULINEROQUES",
+        "sports_informations": {
+            "category": "Senior",
+            "disciplines": [
+                "Inline N1"
+            ]
+        },
+        "affiliations": [
+            "Foyer Rural Maurin"
+        ],
+        "roles": [
+            "athlete"
+        ]
+    },
+    {
+        "name": "Segolene Wursching",
+        "uid": "SEGOLENEWURSCHING",
+        "sports_informations": {
+            "category": "Cadet",
+            "disciplines": [
+                "Free skating"
+            ]
+        },
+        "affiliations": [
+            "Les Patineurs de Tournefeuille"
+        ],
+        "roles": [
+            "athlete"
+        ]
+    },
+    {
+        "name": "Mayli Boyer",
+        "uid": "MAYLIBOYER",
+        "sports_informations": {
+            "category": "Espoir",
+            "disciplines": [
+                "Free skating"
+            ]
+        },
+        "affiliations": [
+            "Les Patineurs de Tournefeuille"
+        ],
+        "roles": [
+            "athlete"
+        ]
+    },
+    {
+        "name": "Thalia Junca",
+        "uid": "THALIAJUNCA",
+        "sports_informations": {
+            "category": "Senior",
+            "disciplines": [
+                "Free skating"
+            ]
+        },
+        "affiliations": [
+            "SA Gazinet-Cestas"
+        ],
+        "roles": [
+            "athlete"
+        ]
+    },
+    {
+        "name": "Lylou Juigues",
+        "uid": "LYLOUJUIGUES",
+        "sports_informations": {
+            "category": "Junior",
+            "disciplines": [
+                "Free skating"
+            ]
+        },
+        "affiliations": [
+            "SA Gazinet-Cestas"
+        ],
+        "roles": [
+            "athlete"
+        ]
+    },
+    {
+        "name": "Esther Gelin",
+        "uid": "ESTHERGELIN",
+        "sports_informations": {
+            "category": "Junior",
+            "disciplines": [
+                "Free skating"
+            ]
+        },
+        "affiliations": [
+            "SA Gazinet-Cestas"
+        ],
+        "roles": [
+            "athlete"
+        ]
+    },
+    {
+        "name": "Florine Devos",
+        "uid": "FLORINEDEVOS",
+        "sports_informations": {
+            "category": "Jeunesse",
+            "disciplines": [
+                "Free skating"
+            ]
+        },
+        "affiliations": [
+            "SA Gazinet-Cestas"
+        ],
+        "roles": [
+            "athlete"
+        ]
+    },
+    {
+        "name": "Chloe Favot",
+        "uid": "CHLOEFAVOT",
+        "sports_informations": {
+            "category": "Espoir",
+            "disciplines": [
+                "Free skating"
+            ]
+        },
+        "affiliations": [
+            "SA Gazinet-Cestas"
+        ],
+        "roles": [
+            "athlete"
+        ]
+    },
+    {
+        "name": "Ana Bourda",
+        "uid": "ANABOURDA",
+        "sports_informations": {
+            "category": "Espoir",
+            "disciplines": [
+                "Free skating"
+            ]
+        },
+        "affiliations": [
+            "SA Gazinet-Cestas"
+        ],
+        "roles": [
+            "athlete"
+        ]
+    },
+    {
+        "name": "Alicia Poulain",
+        "uid": "ALICIAPOULAIN",
+        "sports_informations": {
+            "category": "Mini",
+            "disciplines": [
+                "Free skating"
+            ]
+        },
+        "affiliations": [
+            "SA Gazinet-Cestas"
+        ],
+        "roles": [
+            "athlete"
+        ]
+    },
+    {
+        "name": "Jade Cartel",
+        "uid": "JADECARTEL",
+        "sports_informations": {
+            "category": "Mini",
+            "disciplines": [
+                "Free skating"
+            ]
+        },
+        "affiliations": [
+            "SA Gazinet-Cestas"
+        ],
+        "roles": [
+            "athlete"
+        ]
+    },
+    {
+        "name": "Zelie Jamoneau",
+        "uid": "ZELIEJAMONEAU",
+        "sports_informations": {
+            "category": "Mini",
+            "disciplines": [
+                "Free skating"
+            ]
+        },
+        "affiliations": [
+            "SA Gazinet-Cestas"
+        ],
+        "roles": [
+            "athlete"
+        ]
+    },
+    {
+        "name": "Maelie Lopez",
+        "uid": "MAELIELOPEZ",
+        "sports_informations": {
+            "category": "Mini",
+            "disciplines": [
+                "Free skating"
+            ]
+        },
+        "affiliations": [
+            "SA Gazinet-Cestas"
+        ],
+        "roles": [
+            "athlete"
+        ]
+    },
+    {
+        "name": "Elaia Favot",
+        "uid": "ELAIAFAVOT",
+        "sports_informations": {
+            "category": "Mini",
+            "disciplines": [
+                "Free skating"
+            ]
+        },
+        "affiliations": [
+            "SA Gazinet-Cestas"
+        ],
+        "roles": [
+            "athlete"
+        ]
+    },
+    {
+        "name": "Lily Jade Berbiale Dubus",
+        "uid": "LILYJADEBERBIALEDUBUS",
+        "sports_informations": {
+            "category": "Mini",
+            "disciplines": [
+                "Free skating"
+            ]
+        },
+        "affiliations": [
+            "SA Gazinet-Cestas"
+        ],
+        "roles": [
+            "athlete"
+        ]
+    },
+    {
+        "name": "Lana Bruyere",
+        "uid": "LANABRUYERE",
+        "sports_informations": {
+            "category": "Senior",
+            "disciplines": [
+                "Free skating"
+            ]
+        },
+        "affiliations": [
+            "Union Athletique Gujan Mestras"
+        ],
+        "roles": [
+            "athlete"
+        ]
+    },
+    {
+        "name": "Charline Papin",
+        "uid": "CHARLINEPAPIN",
+        "sports_informations": {
+            "category": "Senior",
+            "disciplines": [
+                "Free skating"
+            ]
+        },
+        "affiliations": [
+            "Club Sportif Noisy le Grand Roller Skating"
+        ],
+        "roles": [
+            "athlete"
+        ]
+    },
+    {
+        "name": "Juliette Garnier",
+        "uid": "JULIETTEGARNIER",
+        "sports_informations": {
+            "category": "Senior",
+            "disciplines": [
+                "Free skating"
+            ]
+        },
+        "affiliations": [
+            "Club Sportif Noisy le Grand Roller Skating"
+        ],
+        "roles": [
+            "athlete"
+        ]
+    },
+    {
+        "name": "Elena Bartolini",
+        "uid": "ELENABARTOLINI",
+        "sports_informations": {
+            "category": "Senior",
+            "disciplines": [
+                "Free skating"
+            ]
+        },
+        "affiliations": [
+            "Club Sportif Noisy le Grand Roller Skating"
+        ],
+        "roles": [
+            "athlete"
+        ]
+    },
+    {
+        "name": "Anais Benoist",
+        "uid": "ANAISBENOIST",
+        "sports_informations": {
+            "category": "Jeunesse",
+            "disciplines": [
+                "Free skating"
+            ]
+        },
+        "affiliations": [
+            "Club Sportif Noisy le Grand Roller Skating"
+        ],
+        "roles": [
+            "athlete"
+        ]
+    },
+    {
+        "name": "Sirine Ben Chouaieb",
+        "uid": "SIRINEBENCHOUAIEB",
+        "sports_informations": {
+            "category": "Cadet",
+            "disciplines": [
+                "Free skating"
+            ]
+        },
+        "affiliations": [
+            "Club Sportif Noisy le Grand Roller Skating"
+        ],
+        "roles": [
+            "athlete"
+        ]
+    },
+    {
+        "name": "Jouri Mahfooz",
+        "uid": "JOURIMAHFOOZ",
+        "sports_informations": {
+            "category": "Espoir",
+            "disciplines": [
+                "Free skating"
+            ]
+        },
+        "affiliations": [
+            "Club Sportif Noisy le Grand Roller Skating"
+        ],
+        "roles": [
+            "athlete"
+        ]
+    },
+    {
+        "name": "Nina Follot",
+        "uid": "NINAFOLLOT",
+        "sports_informations": {
+            "category": "Espoir",
+            "disciplines": [
+                "Free skating"
+            ]
+        },
+        "affiliations": [
+            "Club Sportif Noisy le Grand Roller Skating"
+        ],
+        "roles": [
+            "athlete"
+        ]
+    },
+    {
+        "name": "Elise Exertier Dor",
+        "uid": "ELISEEXERTIERDOR",
+        "sports_informations": {
+            "category": "Espoir",
+            "disciplines": [
+                "Free skating"
+            ]
+        },
+        "affiliations": [
+            "Club Sportif Noisy le Grand Roller Skating"
+        ],
+        "roles": [
+            "athlete"
+        ]
+    },
+    {
+        "name": "Oumy Fall",
+        "uid": "OUMYFALL",
+        "sports_informations": {
+            "category": "Poussin",
+            "disciplines": [
+                "Free skating"
+            ]
+        },
+        "affiliations": [
+            "Club Sportif Noisy le Grand Roller Skating"
+        ],
+        "roles": [
+            "athlete"
+        ]
+    },
+    {
+        "name": "Abigael Patre",
+        "uid": "ABIGAELPATRE",
+        "sports_informations": {
+            "category": "Senior",
+            "disciplines": [
+                "Free skating"
+            ]
+        },
+        "affiliations": [
+            "Boussy Roller Club"
+        ],
+        "roles": [
+            "athlete"
+        ]
+    },
+    {
+        "name": "Mallaury Gain",
+        "uid": "MALLAURYGAIN",
+        "sports_informations": {
+            "category": "Senior",
+            "disciplines": [
+                "Free skating"
+            ]
+        },
+        "affiliations": [
+            "Boussy Roller Club"
+        ],
+        "roles": [
+            "athlete"
+        ]
+    },
+    {
+        "name": "Lorena Castaing",
+        "uid": "LORENACASTAING",
+        "sports_informations": {
+            "category": "Senior",
+            "disciplines": [
+                "Free skating"
+            ]
+        },
+        "affiliations": [
+            "Boussy Roller Club"
+        ],
+        "roles": [
+            "athlete"
+        ]
+    },
+    {
+        "name": "Anais Roques",
+        "uid": "ANAISROQUES",
+        "sports_informations": {
+            "category": "Cadet",
+            "disciplines": [
+                "Free skating"
+            ]
+        },
+        "affiliations": [
+            "Roller Skating Saint Orens"
+        ],
+        "roles": [
+            "athlete"
+        ]
+    },
+    {
+        "name": "Lucia Miral",
+        "uid": "LUCIAMIRAL",
+        "sports_informations": {
+            "category": "Junior",
+            "disciplines": [
+                "Free skating"
+            ]
+        },
+        "affiliations": [
+            "Roller Skating Saint Orens"
+        ],
+        "roles": [
+            "athlete"
+        ]
+    },
+    {
+        "name": "Lorena Cron Lima",
+        "uid": "LORENACRONLIMA",
+        "sports_informations": {
+            "category": "Junior",
+            "disciplines": [
+                "Free skating"
+            ]
+        },
+        "affiliations": [
+            "Roller Skating Saint Orens"
+        ],
+        "roles": [
+            "athlete"
+        ]
+    },
+    {
+        "name": "Josephine Nguyen",
+        "uid": "JOSEPHINENGUYEN",
+        "sports_informations": {
+            "category": "Espoir",
+            "disciplines": [
+                "Free skating"
+            ]
+        },
+        "affiliations": [
+            "Union Sportive Fontenaysienne"
+        ],
+        "roles": [
+            "athlete"
+        ]
+    },
+    {
+        "name": "Eloise Bouchair",
+        "uid": "ELOISEBOUCHAIR",
+        "sports_informations": {
+            "category": "Junior",
+            "disciplines": [
+                "Free skating"
+            ]
+        },
+        "affiliations": [
+            "Roller Artistique Hautes-Pyrenees"
+        ],
+        "roles": [
+            "athlete"
+        ]
+    },
+    {
+        "name": "Louna Roumiguier",
+        "uid": "LOUNAROUMIGUIER",
+        "sports_informations": {
+            "category": "Cadet",
+            "disciplines": [
+                "Free skating"
+            ]
+        },
+        "affiliations": [
+            "Roller Artistique Hautes-Pyrenees"
+        ],
+        "roles": [
+            "athlete"
+        ]
+    },
+    {
+        "name": "Sheryne Smail",
+        "uid": "SHERYNESMAIL",
+        "sports_informations": {
+            "category": "Cadet",
+            "disciplines": [
+                "Free skating"
+            ]
+        },
+        "affiliations": [
+            "Artistic Skating Ballainvilliers Montlhery"
+        ],
+        "roles": [
+            "athlete"
+        ]
+    },
+    {
+        "name": "Agatha Guillon",
+        "uid": "AGATHAGUILLON",
+        "sports_informations": {
+            "category": "Espoir",
+            "disciplines": [
+                "Free skating"
+            ]
+        },
+        "affiliations": [
+            "Artistic Skating Ballainvilliers Montlhery"
+        ],
+        "roles": [
+            "athlete"
+        ]
+    },
+    {
+        "name": "Jude Guillon",
+        "uid": "JUDEGUILLON",
+        "sports_informations": {
+            "category": "Poussin",
+            "disciplines": [
+                "Free skating"
+            ]
+        },
+        "affiliations": [
+            "Artistic Skating Ballainvilliers Montlhery"
+        ],
+        "roles": [
+            "athlete"
+        ]
+    },
+    {
+        "name": "Neela Rousset",
+        "uid": "NEELAROUSSET",
+        "sports_informations": {
+            "category": "Senior",
+            "disciplines": [
+                "Free skating"
+            ]
+        },
+        "affiliations": [
+            "Athletic Nantes Roller"
+        ],
+        "roles": [
+            "athlete"
+        ]
+    },
+    {
+        "name": "Cali Guillomet Surget",
+        "uid": "CALIGUILLOMETSURGET",
+        "sports_informations": {
+            "category": "Junior",
+            "disciplines": [
+                "Free skating"
+            ]
+        },
+        "affiliations": [
+            "Athletic Nantes Roller"
+        ],
+        "roles": [
+            "athlete"
+        ]
+    },
+    {
+        "name": "Violette Lalaude",
+        "uid": "VIOLETTELALAUDE",
+        "sports_informations": {
+            "category": "Junior",
+            "disciplines": [
+                "Free skating"
+            ]
+        },
+        "affiliations": [
+            "Athletic Nantes Roller"
+        ],
+        "roles": [
+            "athlete"
+        ]
+    },
+    {
+        "name": "Ines Goulay",
+        "uid": "INESGOULAY",
+        "sports_informations": {
+            "category": "Espoir",
+            "disciplines": [
+                "Free skating"
+            ]
+        },
+        "affiliations": [
+            "Athletic Nantes Roller"
+        ],
+        "roles": [
+            "athlete"
+        ]
+    },
+    {
+        "name": "Anelya Kochtaev",
+        "uid": "ANELYAKOCHTAEV",
+        "sports_informations": {
+            "category": "Mini",
+            "disciplines": [
+                "Inline N1"
+            ]
+        },
+        "affiliations": [
+            "SPUC Pessac"
+        ],
+        "roles": [
+            "athlete"
+        ]
+    },
+    {
+        "name": "Viktoriia Karimova",
+        "uid": "VIKTORIIAKARIMOVA",
+        "sports_informations": {
+            "category": "Mini",
+            "disciplines": [
+                "Inline N1"
+            ]
+        },
+        "affiliations": [
+            "SPUC Pessac"
+        ],
+        "roles": [
+            "athlete"
+        ]
+    },
+    {
+        "name": "Regina Kaminskaya",
+        "uid": "REGINAKAMINSKAYA",
+        "sports_informations": {
+            "category": "Mini",
+            "disciplines": [
+                "Inline N1"
+            ]
+        },
+        "affiliations": [
+            "SPUC Pessac"
+        ],
+        "roles": [
+            "athlete"
+        ]
+    },
+    {
+        "name": "Matt Brisset",
+        "uid": "MATTBRISSET",
+        "sports_informations": {
+            "category": "Junior",
+            "disciplines": [
+                "Free skating"
+            ]
+        },
+        "affiliations": [
+            "SPUC Pessac"
+        ],
+        "roles": [
+            "athlete"
+        ]
+    },
+    {
+        "name": "Clemence Fossat - Belaud",
+        "uid": "CLEMENCEFOSSAT-BELAUD",
+        "sports_informations": {
+            "category": "Jeunesse",
+            "disciplines": [
+                "Free skating"
+            ]
+        },
+        "affiliations": [
+            "SPUC Pessac"
+        ],
+        "roles": [
+            "athlete"
+        ]
+    },
+    {
+        "name": "Clea Lhadi",
+        "uid": "CLEALHADI",
+        "sports_informations": {
+            "category": "Senior",
+            "disciplines": [
+                "Free skating"
+            ]
+        },
+        "affiliations": [
+            "CPB Belleville"
+        ],
+        "roles": [
+            "athlete"
+        ]
+    },
+    {
+        "name": "Lola Schwenter",
+        "uid": "LOLASCHWENTER",
+        "sports_informations": {
+            "category": "Cadet",
+            "disciplines": [
+                "Free skating"
+            ]
+        },
+        "affiliations": [
+            "Club des Patineurs de l'Ain"
+        ],
+        "roles": [
+            "athlete"
+        ]
+    },
+    {
+        "name": "Sophie Salamon",
+        "uid": "SOPHIESALAMON",
+        "sports_informations": {
+            "category": "Cadet",
+            "disciplines": [
+                "Free skating"
+            ]
+        },
+        "affiliations": [
+            "Club des Patineurs de l'Ain"
+        ],
+        "roles": [
+            "athlete"
+        ]
+    },
+    {
+        "name": "Lili Loiseau",
+        "uid": "LILILOISEAU",
+        "sports_informations": {
+            "category": "Junior",
+            "disciplines": [
+                "Inline N1"
+            ]
+        },
+        "affiliations": [
+            "Tarbes Club Patinage Artistique"
+        ],
+        "roles": [
+            "athlete"
+        ]
+    },
+    {
+        "name": "Emmy Loiseau",
+        "uid": "EMMYLOISEAU",
+        "sports_informations": {
+            "category": "Espoir",
+            "disciplines": [
+                "Inline N1"
+            ]
+        },
+        "affiliations": [
+            "Tarbes Club Patinage Artistique"
+        ],
+        "roles": [
+            "athlete"
+        ]
+    },
+    {
+        "name": "Susie Loiseau",
+        "uid": "SUSIELOISEAU",
+        "sports_informations": {
+            "category": "Mini",
+            "disciplines": [
+                "Inline N1"
+            ]
+        },
+        "affiliations": [
+            "Tarbes Club Patinage Artistique"
+        ],
+        "roles": [
+            "athlete"
+        ]
+    },
+    {
+        "name": "Maiana Bosc",
+        "uid": "MAIANABOSC",
+        "sports_informations": {
+            "category": "Junior",
+            "disciplines": [
+                "Free skating"
+            ]
+        },
+        "affiliations": [
+            "US Mazeres"
+        ],
+        "roles": [
+            "athlete"
+        ]
+    },
+    {
+        "name": "Charlotte Ceyrac-prim",
+        "uid": "CHARLOTTECEYRAC-PRIM",
+        "sports_informations": {
+            "category": "Cadet",
+            "disciplines": [
+                "Free skating"
+            ]
+        },
+        "affiliations": [
+            "US Mazeres"
+        ],
+        "roles": [
+            "athlete"
+        ]
+    },
+    {
+        "name": "Romane Darrigrand",
+        "uid": "ROMANEDARRIGRAND",
+        "sports_informations": {
+            "category": "Espoir",
+            "disciplines": [
+                "Free skating"
+            ]
+        },
+        "affiliations": [
+            "US Mazeres"
+        ],
+        "roles": [
+            "athlete"
+        ]
+    },
+    {
+        "name": "Eloise Darrigrand",
+        "uid": "ELOISEDARRIGRAND",
+        "sports_informations": {
+            "category": "Espoir",
+            "disciplines": [
+                "Free skating"
+            ]
+        },
+        "affiliations": [
+            "US Mazeres"
+        ],
+        "roles": [
+            "athlete"
+        ]
+    },
+    {
+        "name": "Licia Beguerie",
+        "uid": "LICIABEGUERIE",
+        "sports_informations": {
+            "category": "Espoir",
+            "disciplines": [
+                "Free skating"
+            ]
+        },
+        "affiliations": [
+            "US Mazeres"
+        ],
+        "roles": [
+            "athlete"
+        ]
+    },
+    {
+        "name": "Mona Morvan",
+        "uid": "MONAMORVAN",
+        "sports_informations": {
+            "category": "Cadet",
+            "disciplines": [
+                "Free skating"
+            ]
+        },
+        "affiliations": [
+            "Patin Club Lesnevien"
+        ],
+        "roles": [
+            "athlete"
+        ]
+    },
+    {
+        "name": "Azeline Brisson",
+        "uid": "AZELINEBRISSON",
+        "sports_informations": {
+            "category": "Cadet",
+            "disciplines": [
+                "Free skating"
+            ]
+        },
+        "affiliations": [
+            "Millenium Patinage"
+        ],
+        "roles": [
+            "athlete"
+        ]
+    },
+    {
+        "name": "Luz Mila Riviere Cabrera",
+        "uid": "LUZMILARIVIERECABRERA",
+        "sports_informations": {
+            "category": "Jeunesse",
+            "disciplines": [
+                "Free skating"
+            ]
+        },
+        "affiliations": [
+            "Tarbes Club Patinage Artistique"
+        ],
+        "roles": [
+            "athlete"
+        ]
+    },
+    {
+        "name": "Joana Bernardi",
+        "uid": "JOANABERNARDI",
+        "sports_informations": {
+            "category": "Mini",
+            "disciplines": [
+                "Inline N1"
+            ]
+        },
+        "affiliations": [
+            "In Line Roller Ice Skating"
+        ],
+        "roles": [
+            "athlete"
+        ]
+    },
+    {
+        "name": "Sara Gomes",
+        "uid": "SARAGOMES",
+        "sports_informations": {
+            "category": "Cadet",
+            "disciplines": [
+                "Inline N1"
+            ]
+        },
+        "affiliations": [
+            "Club Patinage Artistique St Sulpicien"
+        ],
+        "roles": [
+            "athlete"
+        ]
+    },
+    {
+        "name": "Sophie Vignoles",
+        "uid": "SOPHIEVIGNOLES",
+        "sports_informations": {
+            "category": "Mini",
+            "disciplines": [
+                "Inline N1"
+            ]
+        },
+        "affiliations": [
+            "Club Patinage Artistique St Sulpicien"
+        ],
+        "roles": [
+            "athlete"
+        ]
+    },
+    {
+        "name": "Eloise Castillon",
+        "uid": "ELOISECASTILLON",
+        "sports_informations": {
+            "category": "Senior",
+            "disciplines": [
+                "Free skating"
+            ]
+        },
+        "affiliations": [
+            "Club Patinage Artistique St Sulpicien"
+        ],
+        "roles": [
+            "athlete"
+        ]
+    },
+    {
+        "name": "Maylis Loubet",
+        "uid": "MAYLISLOUBET",
+        "sports_informations": {
+            "category": "Cadet",
+            "disciplines": [
+                "Free skating"
+            ]
+        },
+        "affiliations": [
+            "Valence Olympique Patinage"
+        ],
+        "roles": [
+            "athlete"
+        ]
+    },
+    {
+        "name": "Inaya Kaidi",
+        "uid": "INAYAKAIDI",
+        "sports_informations": {
+            "category": "Jeunesse",
+            "disciplines": [
+                "Free skating"
+            ]
+        },
+        "affiliations": [
+            "Club de Patinage Artistique Tourcoing"
+        ],
+        "roles": [
+            "athlete"
+        ]
+    },
+    {
+        "name": "Clemence Cossement",
+        "uid": "CLEMENCECOSSEMENT",
+        "sports_informations": {
+            "category": "Espoir",
+            "disciplines": [
+                "Free skating"
+            ]
+        },
+        "affiliations": [
+            "Club de Patinage Artistique Tourcoing"
+        ],
+        "roles": [
+            "athlete"
+        ]
+    },
+    {
+        "name": "Adama Djola Marna",
+        "uid": "ADAMADJOLAMARNA",
+        "sports_informations": {
+            "category": "Jeunesse",
+            "disciplines": [
+                "Free skating"
+            ]
+        },
+        "affiliations": [
+            "Roller Skating Nemours St Pierre"
+        ],
+        "roles": [
+            "athlete"
+        ]
+    },
+    {
+        "name": "Camille Gobiet",
+        "uid": "CAMILLEGOBIET",
+        "sports_informations": {
+            "category": "Mini",
+            "disciplines": [
+                "Free skating"
+            ]
+        },
+        "affiliations": [
+            "Roller Skating Nemours St Pierre"
+        ],
+        "roles": [
+            "athlete"
+        ]
+    },
+    {
+        "name": "May-line Boutet",
+        "uid": "MAY-LINEBOUTET",
+        "sports_informations": {
+            "category": "Junior",
+            "disciplines": [
+                "Inline N1"
+            ]
+        },
+        "affiliations": [
+            "In Line Roller Ice Skating"
+        ],
+        "roles": [
+            "athlete"
+        ]
+    },
+    {
+        "name": "Anouk Gauzere",
+        "uid": "ANOUKGAUZERE",
+        "sports_informations": {
+            "category": "Cadet",
+            "disciplines": [
+                "Inline N1"
+            ]
+        },
+        "affiliations": [
+            "In Line Roller Ice Skating"
+        ],
+        "roles": [
+            "athlete"
+        ]
+    },
+    {
+        "name": "Tess Morissot-vincent",
+        "uid": "TESSMORISSOT-VINCENT",
+        "sports_informations": {
+            "category": "Cadet",
+            "disciplines": [
+                "Inline N1"
+            ]
+        },
+        "affiliations": [
+            "In Line Roller Ice Skating"
+        ],
+        "roles": [
+            "athlete"
+        ]
+    },
+    {
+        "name": "Agathe Lesiak",
+        "uid": "AGATHELESIAK",
+        "sports_informations": {
+            "category": "Espoir",
+            "disciplines": [
+                "Inline N1"
+            ]
+        },
+        "affiliations": [
+            "In Line Roller Ice Skating"
+        ],
+        "roles": [
+            "athlete"
+        ]
+    },
+    {
+        "name": "Olivia Poirier",
+        "uid": "OLIVIAPOIRIER",
+        "sports_informations": {
+            "category": "Mini",
+            "disciplines": [
+                "Inline N1"
+            ]
+        },
+        "affiliations": [
+            "In Line Roller Ice Skating"
+        ],
+        "roles": [
+            "athlete"
+        ]
+    }
 ]
