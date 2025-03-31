@@ -1,0 +1,48 @@
+.accreditation-role {
+    display: inline-block;
+    padding: 6px;
+    border-radius: 6px;
+    border: 1px solid rgb(216, 216, 216);
+    margin: 6px;
+}
+
+.accreditation-role-trainer {
+    background-color: rgb(241, 172, 122);
+    border-color: rgb(188, 115, 62);
+}
+.accreditation-role-delegate {
+    background-color: white;
+    border-color: rgb(216, 216, 216);
+}
+.accreditation-role-athlete {
+    background-color: rgb(255, 216, 109);
+    border-color: rgb(211, 172, 66);
+}
+.accreditation-role-official {
+    background-color: rgb(143, 232, 121);
+    border-color: rgb(80, 155, 61);
+}
+.accreditation-role-media {
+    background-color: rgb(134, 190, 231);
+    border-color: rgb(73, 130, 171);
+}
+.accreditation-role-federation {
+    background-color: rgb(215, 129, 228);
+    border-color: rgb(167, 86, 180);;
+}
+.accreditation-role-exhibitor {
+    background-color: white;
+    border-color: rgb(216, 216, 216);
+}
+.accreditation-role-oc {
+    background-color: rgb(229, 126, 126);
+    border-color: rgb(188, 80, 80);
+}
+
+.accreditation-zones {
+    display:inline-block;
+    padding: 6px 12px;
+    border: 1px solid rgb(50,50,50);
+    border-radius: 22px;
+    color: rgb(50,50,50);
+}

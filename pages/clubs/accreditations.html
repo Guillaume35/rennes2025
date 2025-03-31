@@ -9,89 +9,381 @@
 
     <p>
         Les responsables de clubs sont invités à retirer les accréditations de leurs athlètes et de leur staff
-        au point accueil.
+        au point accueil. <strong>Utilisez l'outil de recherche pour vérifier vos accréditations en amont.</strong>
     </p>
 
-    <section>
-
-        <h2>Planning du service des accréditations et des engagements</h2>
-
-        <p>
-            L'espace en ligne des accréditations sera disponible prochainement. Voici un planning indicatif.
-        </p>
-
-        <div class="schedule-table-container">
-            <table class="schedule-table">
-                <thead class="schedule-header">
-                    <tr>
-                        <th></th>
-                        <th style="width:100%;">Événement</th>
-                    </tr>
-                </thead>
-    
-                <tbody>
-                    <tr class="text-secondary">
-                        <td>29&nbsp;MARS</td>
-                        <td>
-                            <strong>Clôture des engagements sur Rollskanet</strong>
-                        </td>
-                    </tr>
-
-                    <tr class="text-primary">
-                        <td>1&nbsp;AVRIL</td>
-                        <td>
-                            <strong>Ouverture de l'espace accréditations</strong><br>
-                            L'espace en ligne des accréditations vous permettra de contrôler les listes 
-                            d'athlètes et membres de staff avant votre venue.
-                        </td>
-                    </tr>
-                    <tr class="text-secondary">
-                        <td>10&nbsp;AVRIL</td>
-                        <td>
-                            <strong>Ouverture du desk accréditations à l'accueil de la compétition</strong>
-                        </td>
-                    </tr>
-                </tbody>
-            </table>
+    <div class="row">
+        <div class="col-12 col-md-6">
+            <form method="get" action="/clubs/accreditations/api/accreditations.php" id="affiliation-form">
+                <h2 class="text-center">Recherche par club</h2>
+        
+                <div class="form-row">
+                    <select id="affiliation-input" name="affiliation" class="form-control form-control-lg">
+                        <option value="">Sélectionner un club</option>
+                    </select>
+                    <button type="submit" class="btn-lg btn-primary btn">Afficher</button>
+                </div>
+            </form>
+        
+            <div id="byaffiliation-results" class="modal-wrapper">
+                <div class="container" style="max-width:960px">
+                    <h2 class="text-center mt-5 text-gradient" id="byaffiliation-name"></h2>
+                    <div class="row">
+                        <div class="col-12 col-md-6">
+                            <h3 class="accreditation-role accreditation-role-delegate">Délégué</h3>
+                            <ul id="byaffiliation-delegate"></ul>
+                            <h3 class="accreditation-role accreditation-role-trainer">Entraîneurs</h3>
+                            <ul id="byaffiliation-trainers"></ul>
+                        </div>
+                        <div class="col-12 col-md-6">
+                            <h3 class="accreditation-role accreditation-role-athlete">Athlètes</h3>
+                            <ul id="byaffiliation-athletes"></ul>
+                        </div>
+                    </div>
+                    <div class="my-4 text-center">
+                        <button class="btn btn-xl btn-primary hide-modal" data-modal="byaffiliation-results">Ok !</button>
+                    </div>
+                </div>
+            </div>
         </div>
-    </section>
 
-    <p>
-        Ce planning est prévisionnel et pourra être actualisé en fonction des impératifs d'organisation.
-    </p>
+        <div class="col-12 col-md-6">
+            <form method="get" action="/clubs/accreditations/api/accreditations.php" id="name-form">
+                <h2 class="text-center">Recherche par nom</h2>
+                <div class="form-row">
+                    <input type="text" id="name-input" name="name" placeholder="Saisir un nom complet" class="form-control form-control-lg">
+                    <button type="submit" class="btn btn-lg btn-primary">Rechercher</button>
+                </div>
+            </form>
+        
+            <div id="byname-result" class="modal-wrapper">
+                <div class="container text-center pt-5">
+                    <h2 id="byname-name" class="my-3 mt-5 text-gradient"></h2>
+                    <div class="fs-5 my-3"><em id="byname-affiliations"></em></div>
+                    <div class="fs-5 my-3" id="byname-roles"></div>
+                    <div class="fs-5 my3 accreditation-zones">Zones <span id="byname-zones"></span></div>
+                    <div class="my-4 text-center">
+                        <button class="btn btn-xl btn-primary hide-modal" data-modal="byname-result">Ok !</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="alert alert-danger my-4">
+        <p>
+            Les accréditations sont obligatoires pour accéder à l'ensemble des espaces sportifs.
+            Elles garantissent la sécurité de leurs titulaires et des effets personnels en limitant 
+            les risques d'intrusions extérieures.
+        </p>
+        <p>
+            <strong>En amont,</strong> contrôlez vos listes d'accréditations.<br>
+            <strong>Lors de l'événement,</strong> affichez visiblement votre accréditation sur 
+            vous pour faciliter les contrôles et les passages.
+        </p>
+    </div>
+
+    <div class="card-shadow card-shadow-light my-3">
+        <div class="card-body">
+            <h2 class="text-primary">Horaires accès prioritaire</h2>
+        
+            <p>
+                Un accès prioritaire est réservé aux délégués de clubs pour le retrait des accréditations.
+                En dehors de ces horaires, les délégués de clubs devront emprunter la file spectateurs du 
+                point accueil.
+            </p>
+        
+            <div class="schedule-table-container">
+                <table class="schedule-table">
+                    <thead class="scedule-header text-start">
+                        <tr>
+                            <th>Jour</th>
+                            <th>Horaire d'ouverture</th>
+                        </tr>
+                    </thead>
+        
+                    <tbody>
+                        <tr>
+                            <td>Jeudi 10 Avril</td>
+                            <td>16h30-19h30</td>
+                        </tr>
+        
+                        <tr>
+                            <td>Vendredi 11 Avril</td>
+                            <td>7h30-13h</td>
+                        </tr>
+        
+                        <tr>
+                            <td>Samedi 12 Avril</td>
+                            <td>7h30-13h</td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </div>
 </div>
 
-<!--<div class="my-4">
-    <section>
-        <div class="container">
-            <h2 class="text-primary-blue">Vérification des accréditations</h2>
+<script>
 
-            <select name="accreditation" id="acrred">
-                <option value="">&#45;&#45;Votre club&#45;&#45;</option>
-                <option value="dog">club1</option>
-                <option value="cat">club2</option>
-                <option value="hamster">club3</option>
-                <option value="parrot">club4</option>
-                <option value="spider">club5</option>
-                <option value="goldfish">clube6</option>
-            </select>
-        </div>
-    </section>
-</div>-->
+function empty(element) {
+    while(element.firstElementChild) {
+        element.firstElementChild.remove();
+    }
+}
+
+function modal(id, action) {
+    const modal = document.getElementById(id)
+
+    if (action === "show") {
+        modal.classList.add("visible");
+        document.body.style.overflow = "hidden";
+    }
+    else {
+        modal.classList.remove("visible");
+        document.body.style.overflow = "auto";
+    }
+}
+
+const hideBtns = document.querySelectorAll(".hide-modal");
+hideBtns.forEach((btn) => {
+    btn.addEventListener("click", (event) => {
+        event.preventDefault();
+        modal(btn.dataset.modal, "hide");
+    })
+});
+
+const affiliationInput = document.getElementById("affiliation-input");
+fetch("/api/affiliations.php?type=club").then(response => {
+    if (!response.ok) {
+        throw new Error(`Response status: ${response.status}`)
+    }
+
+    response.json().then(json => {
+
+        json.sort(function(a, b){
+            if(a.name < b.name) { return -1; }
+            if(a.name > b.name) { return 1; }
+            return 0;
+        })
+
+        json.forEach(affiliation => {
+            const option = document.createElement("option")
+            option.setAttribute("value", affiliation.name)
+            const text = document.createTextNode(affiliation.name)
+            option.appendChild(text)
+            affiliationInput.appendChild(option)
+        });
+    })
+}).catch(error => {
+    alert(error.message)
+    console.error(error);
+})
+
+const affiliationForm = document.getElementById("affiliation-form");
+affiliationForm.addEventListener("submit", (event) => {
+    event.preventDefault()
+
+    const affiliationDelegateEl = document.getElementById("byaffiliation-delegate");
+    const affiliationTrainersEl = document.getElementById("byaffiliation-trainers");
+    const affiliationAthletesEl = document.getElementById("byaffiliation-athletes");
+    const affiliationNameEl = document.getElementById("byaffiliation-name");
+    
+    empty(affiliationDelegateEl);
+    empty(affiliationAthletesEl),
+    empty(affiliationTrainersEl);
+    affiliationNameEl.innerHTML = "";
+
+    val = affiliationInput.value
+
+    const params = new URLSearchParams();
+    params.append("affiliation", val);
+
+    fetch(`/api/accreditations.php?${params}`, {
+        method: "GET",
+        headers: {
+            "Content-Type": "application/json",
+        }
+    }).then(response => {
+        if (!response.ok) {
+            throw new Error(`Response status: ${response.status}`)
+        }
+
+        affiliationNameEl.innerHTML = val;
+
+        response.json().then(json => {
+
+            if (!json.length) {
+                throw new Error(`Aucun résultat, sélectionnez un club.`)
+            }
+
+            json.sort(function(a, b){
+                if(a.name < b.name) { return -1; }
+                if(a.name > b.name) { return 1; }
+                return 0;
+            })
+
+            modal("byaffiliation-results", "show");
+
+            let delegate = 0;
+            let trainer = 0;
+            let athlete = 0;
+
+            json.forEach(person => {
+                const li = document.createElement("li");
+                const text = document.createTextNode(person.name);
+                li.appendChild(text);
+
+                if (person.roles.includes("delegate")) {
+                    const clone = li.cloneNode(true)
+                    affiliationDelegateEl.appendChild(clone)
+                    delegate++;
+                }
+                if (person.roles.includes("trainer")) {
+                    const clone = li.cloneNode(true)
+                    affiliationTrainersEl.appendChild(clone)
+                    trainer++;
+                }
+                if (person.roles.includes("athlete")) {
+                    const clone = li.cloneNode(true)
+                    affiliationAthletesEl.appendChild(clone)
+                    athlete++;
+                }
+            })
+
+            const li = document.createElement("li");
+            li.classList.add("text-danger");
+            const text = document.createTextNode("Cette information n'est pas renseignée. Si c'est une erreur, contactez le service compétition de la fédération.");
+            li.appendChild(text);
+
+            if (!delegate) {
+                const clone = li.cloneNode(true)
+                affiliationDelegateEl.appendChild(clone)
+            }
+            if (!trainer) {
+                const clone = li.cloneNode(true)
+                affiliationTrainersEl.appendChild(clone)
+            }
+            if (!athlete) {
+                const clone = li.cloneNode(true)
+                affiliationAthletesEl.appendChild(clone)
+            }
+        }).catch(error => alert(error.message))
+    }).catch(error => {
+        alert(error.message);
+        console.error(error.message);
+    })
+});
+
+const nameForm = document.getElementById("name-form");
+const nameInput = document.getElementById("name-input");
+nameForm.addEventListener("submit", (event) => {
+    event.preventDefault();
+
+    const nameEl = document.getElementById("byname-name");
+    const rolesEl = document.getElementById("byname-roles");
+    const affiliationsEl = document.getElementById("byname-affiliations");
+    const zonesEl = document.getElementById("byname-zones");
+
+    nameEl.innerHTML = "";
+    affiliationsEl.innerHTML = "";
+    empty(rolesEl);
+    empty(zonesEl);
+
+    const name = nameInput.value.trim().replace(/[\s\-]*/g, "");
+
+    const params = new URLSearchParams();
+    params.append("uid", name);
+
+    fetch(`/api/accreditation.php?${params}`, {
+        method: "GET",
+        headers: {
+            "Content-Type": "application/json",
+        }
+    }).then(response => {
+        if (!response.ok) {
+            throw new Error(`Response status: ${response.status}`)
+        }
+
+        modal("byname-result", "show");
+
+        response.json().then(person => {
+            const textName = document.createTextNode(person.name);
+            const textAffiliations = document.createTextNode(person.affiliations.join(", "));
+
+            const roles = {
+                "trainer": {label: "Entraîneur", zones: [1,2]}, 
+                "delegate": {label: "Délégué", zones: [1,4]}, 
+                "athlete": {label: "Athlète", zones: [1,2]}, 
+                "official": {label: "Officiel", zones: [1,3,4]}, 
+                "media": {label: "Média", zones: [1,2,3]}, 
+                "federation": {label: "Fédération", zones: [1,2,3,4]}, 
+                "exhibitor": {label: "Exposant", zones: [1]}, 
+                "oc": {label: "CO", zones: [1,2,3,4]}
+            };
+
+            let zones = [];
+
+            person.roles.forEach((role) => {
+                const el = document.createElement("span");
+                el.classList.add("accreditation-role");
+                el.classList.add("accreditation-role-"+role);
+                const text = document.createTextNode(roles[role].label);
+                el.appendChild(text);
+                rolesEl.appendChild(el);
+
+                roles[role].zones.forEach((zone) => {
+                    if (!zones.includes(zone)) {
+                        zones.push(zone);
+                    } 
+                })
+            })
+
+            zones.forEach((zone) => {
+                const elZone = document.createElement("span");
+                elZone.classList.add("mx-3");
+                const textZone = document.createTextNode(zone);
+                elZone.appendChild(textZone);
+                zonesEl.appendChild(elZone);
+            })
+
+            nameEl.appendChild(textName);
+            affiliationsEl.appendChild(textAffiliations);
+        })
+    }).catch(error => {
+        alert(error.message);
+    })
+})
+
+</script>
 
 <div class="my-4">
     <section class="section-primary">
     
         <div class="container">
-            <h2>Engagements sur Rollskanet</h2>
-            <p>
-                Seule la Commission Technique Sportive de Roller Artistique de la FFRS gère les engagements des athlètes 
-                et du staff en amont de la compétition.
-            </p>
-            <p class="text-center">
-                Pour toute question sur cette procédure, contactez le service compétition :<br>
-                <span class="fs-5">competitions@ffroller-skateboard.com</span>
-            </p>
+            <div class="row">
+                <div class="col-12 col-md-6">
+                    <h2>Engagements sur Rollskanet</h2>
+                    <p>
+                        Seule la Commission Technique Sportive de Roller Artistique de la FFRS gère les engagements des athlètes 
+                        et du staff en amont de la compétition.
+                    </p>
+                    <p>
+                        Pour toute question sur cette procédure, contactez le service compétition :<br>
+                        <span class="fs-5">competitions@ffroller-skateboard.com</span>
+                    </p>
+                </div>
+                <div class="col-12 col-md-6">
+                    <h2>Signaler une erreur</h2>
+                    <p>
+                        Le comité d'organisation peut corriger des erreurs de saisis et d'enregistrement. En 
+                        cas de nouvel engagement, contactez le service compétitions de la fédération.
+                    </p>
+                    <p class="fs-5">
+                        rennes2025@raiv.fr
+                    </p>
+                </div>
+            </div>
         </div>
     
     </section>
