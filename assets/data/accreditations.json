@@ -59,6 +59,7 @@
             "Fédération Française de Roller & Skateboard"
         ],
         "roles": [
+            "Officiel",
             "federation"
         ]
     },
@@ -119,12 +120,13 @@
             "Roller Artistique Ille et Vilaine"
         ],
         "roles": [
-            "oc"
+            "Média",
+            "CO (Comité d'organisation)"
         ]
     },
     {
         "name": "Marie-claire Le Rallec",
-        "uid": "MARIE-CLAIRELERALLEC",
+        "uid": "MARIECLAIRELERALLEC",
         "sports_informations": {
             "category": "",
             "disciplines": []
@@ -176,6 +178,406 @@
         ],
         "roles": [
             "exhibitor"
+        ]
+    },
+    {
+        "name": "Illi Bettal",
+        "uid": "ILLIBETTAL",
+        "sports_informations": {
+            "category": "",
+            "disciplines": []
+        },
+        "affiliations": [
+            "Fédération Française de Roller & Skateboard"
+        ],
+        "roles": [
+            "Officiel"
+        ]
+    },
+    {
+        "name": "Magali Champion",
+        "uid": "MAGALICHAMPION",
+        "sports_informations": {
+            "category": "",
+            "disciplines": []
+        },
+        "affiliations": [
+            "Fédération Française de Roller & Skateboard"
+        ],
+        "roles": [
+            "Officiel"
+        ]
+    },
+    {
+        "name": "Sophie Drouet",
+        "uid": "SOPHIEDROUET",
+        "sports_informations": {
+            "category": "",
+            "disciplines": []
+        },
+        "affiliations": [
+            "Fédération Française de Roller & Skateboard"
+        ],
+        "roles": [
+            "Officiel"
+        ]
+    },
+    {
+        "name": "Anne-sophie Moisan",
+        "uid": "ANNESOPHIEMOISAN",
+        "sports_informations": {
+            "category": "",
+            "disciplines": []
+        },
+        "affiliations": [
+            "Fédération Française de Roller & Skateboard"
+        ],
+        "roles": [
+            "Officiel"
+        ]
+    },
+    {
+        "name": "Laurène Gorin",
+        "uid": "LAURENEGORIN",
+        "sports_informations": {
+            "category": "",
+            "disciplines": []
+        },
+        "affiliations": [
+            "Fédération Française de Roller & Skateboard"
+        ],
+        "roles": [
+            "Officiel"
+        ]
+    },
+    {
+        "name": "Pierre Meriel",
+        "uid": "PIERREMERIEL",
+        "sports_informations": {
+            "category": "",
+            "disciplines": []
+        },
+        "affiliations": [
+            "Fédération Française de Roller & Skateboard"
+        ],
+        "roles": [
+            "Officiel"
+        ]
+    },
+    {
+        "name": "Magalie Pezoula",
+        "uid": "MAGALIEPEZOULA",
+        "sports_informations": {
+            "category": "",
+            "disciplines": []
+        },
+        "affiliations": [
+            "Fédération Française de Roller & Skateboard"
+        ],
+        "roles": [
+            "Officiel"
+        ]
+    },
+    {
+        "name": "Viviane Sicard",
+        "uid": "VIVIANESICARD",
+        "sports_informations": {
+            "category": "",
+            "disciplines": []
+        },
+        "affiliations": [
+            "Fédération Française de Roller & Skateboard",
+            "Roller Club Artistique Montalbanais"
+        ],
+        "roles": [
+            "Officiel",
+            "trainer"
+        ]
+    },
+    {
+        "name": "Quentin Rigaudeau",
+        "uid": "QUENTINRIGAUDEAU",
+        "sports_informations": {
+            "category": "",
+            "disciplines": []
+        },
+        "affiliations": [
+            "Ligue De Bretagne De Roller & Skateboard"
+        ],
+        "roles": [
+            "Officiel"
+        ]
+    },
+    {
+        "name": "Léane Oulhen",
+        "uid": "LEANEOULHEN",
+        "sports_informations": {
+            "category": "",
+            "disciplines": []
+        },
+        "affiliations": [
+            "Ligue De Bretagne De Roller & Skateboard"
+        ],
+        "roles": [
+            "Officiel"
+        ]
+    },
+    {
+        "name": "Enora Evrard",
+        "uid": "ENORAEVRARD",
+        "sports_informations": {
+            "category": "",
+            "disciplines": []
+        },
+        "affiliations": [
+            "Ligue De Bretagne De Roller & Skateboard"
+        ],
+        "roles": [
+            "Officiel"
+        ]
+    },
+    {
+        "name": "Maëlle Lebreton",
+        "uid": "MAELLELEBRETON",
+        "sports_informations": {
+            "category": "",
+            "disciplines": []
+        },
+        "affiliations": [
+            "Ligue De Bretagne De Roller & Skateboard"
+        ],
+        "roles": [
+            "Officiel"
+        ]
+    },
+    {
+        "name": "Maïwenn Thomas-thang",
+        "uid": "MAIWENNTHOMASTHANG",
+        "sports_informations": {
+            "category": "",
+            "disciplines": []
+        },
+        "affiliations": [
+            "Ligue De Bretagne De Roller & Skateboard"
+        ],
+        "roles": [
+            "Officiel"
+        ]
+    },
+    {
+        "name": "Camille Le Guen",
+        "uid": "CAMILLELEGUEN",
+        "sports_informations": {
+            "category": "",
+            "disciplines": []
+        },
+        "affiliations": [
+            "Ligue De Bretagne De Roller & Skateboard"
+        ],
+        "roles": [
+            "Officiel"
+        ]
+    },
+    {
+        "name": "Myriam Chasselin",
+        "uid": "MYRIAMCHASSELIN",
+        "sports_informations": {
+            "category": "",
+            "disciplines": []
+        },
+        "affiliations": [
+            "Ligue De Bretagne De Roller & Skateboard"
+        ],
+        "roles": [
+            "Officiel"
+        ]
+    },
+    {
+        "name": "Monique Keribin",
+        "uid": "MONIQUEKERIBIN",
+        "sports_informations": {
+            "category": "",
+            "disciplines": []
+        },
+        "affiliations": [
+            "Ligue De Bretagne De Roller & Skateboard",
+            "Fédération Française de Roller & Skateboard"
+        ],
+        "roles": [
+            "Officiel",
+            "federation"
+        ]
+    },
+    {
+        "name": "Sophie Urvoas",
+        "uid": "SOPHIEURVOAS",
+        "sports_informations": {
+            "category": "",
+            "disciplines": []
+        },
+        "affiliations": [
+            "Ligue De Bretagne De Roller & Skateboard",
+            "Roller Artistique Ille-et-vilaine",
+            "Roller Artistique Ille et Vilaine"
+        ],
+        "roles": [
+            "Officiel",
+            "CO (Comité d'organisation)",
+            "delegate"
+        ]
+    },
+    {
+        "name": "Mickaël Perol",
+        "uid": "MICKAELPEROL",
+        "sports_informations": {
+            "category": "",
+            "disciplines": []
+        },
+        "affiliations": [
+            "Valuena Creations"
+        ],
+        "roles": [
+            "exhibitor"
+        ]
+    },
+    {
+        "name": "Eva Perol",
+        "uid": "EVAPEROL",
+        "sports_informations": {
+            "category": "",
+            "disciplines": []
+        },
+        "affiliations": [
+            "Valuena Creations"
+        ],
+        "roles": [
+            "exhibitor"
+        ]
+    },
+    {
+        "name": "Luna Perol",
+        "uid": "LUNAPEROL",
+        "sports_informations": {
+            "category": "",
+            "disciplines": []
+        },
+        "affiliations": [
+            "Valuena Créations "
+        ],
+        "roles": [
+            "exhibitor"
+        ]
+    },
+    {
+        "name": "Katia Mabon",
+        "uid": "KATIAMABON",
+        "sports_informations": {
+            "category": "",
+            "disciplines": []
+        },
+        "affiliations": [
+            "Valuena Créations "
+        ],
+        "roles": [
+            "exhibitor"
+        ]
+    },
+    {
+        "name": "Joël Pigeon",
+        "uid": "JOELPIGEON",
+        "sports_informations": {
+            "category": "",
+            "disciplines": []
+        },
+        "affiliations": [
+            "Fédération Française de Roller & Skateboard"
+        ],
+        "roles": [
+            "federation"
+        ]
+    },
+    {
+        "name": "Ashley Jeuland",
+        "uid": "ASHLEYJEULAND",
+        "sports_informations": {
+            "category": "",
+            "disciplines": []
+        },
+        "affiliations": [
+            "Roller Artistique Ille et Vilaine"
+        ],
+        "roles": [
+            "CO (Comité d'organisation)"
+        ]
+    },
+    {
+        "name": "Amandine Devaux",
+        "uid": "AMANDINEDEVAUX",
+        "sports_informations": {
+            "category": "",
+            "disciplines": []
+        },
+        "affiliations": [
+            "Roller Artistique Ille et Vilaine"
+        ],
+        "roles": [
+            "CO (Comité d'organisation)"
+        ]
+    },
+    {
+        "name": "Fabian James",
+        "uid": "FABIANJAMES",
+        "sports_informations": {
+            "category": "",
+            "disciplines": []
+        },
+        "affiliations": [
+            "Roller Artistique Ille et Vilaine"
+        ],
+        "roles": [
+            "CO (Comité d'organisation)"
+        ]
+    },
+    {
+        "name": "Alix Joffroy",
+        "uid": "ALIXJOFFROY",
+        "sports_informations": {
+            "category": "",
+            "disciplines": []
+        },
+        "affiliations": [
+            "Roller Artistique Ille et Vilaine"
+        ],
+        "roles": [
+            "CO (Comité d'organisation)"
+        ]
+    },
+    {
+        "name": "Malicia Grossin",
+        "uid": "MALICIAGROSSIN",
+        "sports_informations": {
+            "category": "",
+            "disciplines": []
+        },
+        "affiliations": [
+            "Roller Artistique Ille et Vilaine"
+        ],
+        "roles": [
+            "CO (Comité d'organisation)"
+        ]
+    },
+    {
+        "name": "Ines Drici",
+        "uid": "INESDRICI",
+        "sports_informations": {
+            "category": "",
+            "disciplines": []
+        },
+        "affiliations": [
+            "Roller Artistique Ille et Vilaine"
+        ],
+        "roles": [
+            "CO (Comité d'organisation)"
         ]
     },
     {
@@ -421,7 +823,7 @@
     },
     {
         "name": "Sébastien Schwenter",
-        "uid": "SÉBASTIENSCHWENTER",
+        "uid": "SEBASTIENSCHWENTER",
         "sports_informations": {
             "category": "",
             "disciplines": []
@@ -506,7 +908,7 @@
     },
     {
         "name": "Marie-claude Martinez",
-        "uid": "MARIE-CLAUDEMARTINEZ",
+        "uid": "MARIECLAUDEMARTINEZ",
         "sports_informations": {
             "category": "",
             "disciplines": []
@@ -534,7 +936,7 @@
     },
     {
         "name": "Marie-france Pierson",
-        "uid": "MARIE-FRANCEPIERSON",
+        "uid": "MARIEFRANCEPIERSON",
         "sports_informations": {
             "category": "",
             "disciplines": []
@@ -690,7 +1092,7 @@
     },
     {
         "name": "Angélique Descoustey",
-        "uid": "ANGÉLIQUEDESCOUSTEY",
+        "uid": "ANGELIQUEDESCOUSTEY",
         "sports_informations": {
             "category": "",
             "disciplines": []
@@ -718,7 +1120,7 @@
     },
     {
         "name": "Lily-marie Lamou",
-        "uid": "LILY-MARIELAMOU",
+        "uid": "LILYMARIELAMOU",
         "sports_informations": {
             "category": "",
             "disciplines": []
@@ -801,20 +1203,6 @@
         ]
     },
     {
-        "name": "Sophie Urvoas",
-        "uid": "SOPHIEURVOAS",
-        "sports_informations": {
-            "category": "",
-            "disciplines": []
-        },
-        "affiliations": [
-            "Roller Artistique Ille et Vilaine"
-        ],
-        "roles": [
-            "delegate"
-        ]
-    },
-    {
         "name": "Laure Aubry",
         "uid": "LAUREAUBRY",
         "sports_informations": {
@@ -826,20 +1214,6 @@
         ],
         "roles": [
             "delegate"
-        ]
-    },
-    {
-        "name": "Viviane Sicard",
-        "uid": "VIVIANESICARD",
-        "sports_informations": {
-            "category": "",
-            "disciplines": []
-        },
-        "affiliations": [
-            "Roller Club Artistique Montalbanais"
-        ],
-        "roles": [
-            "trainer"
         ]
     },
     {
@@ -984,7 +1358,7 @@
     },
     {
         "name": "Aurélie Sampeur",
-        "uid": "AURÉLIESAMPEUR",
+        "uid": "AURELIESAMPEUR",
         "sports_informations": {
             "category": "",
             "disciplines": []
@@ -2291,7 +2665,7 @@
     },
     {
         "name": "Clemence Fossat - Belaud",
-        "uid": "CLEMENCEFOSSAT-BELAUD",
+        "uid": "CLEMENCEFOSSATBELAUD",
         "sports_informations": {
             "category": "Jeunesse",
             "disciplines": [
@@ -2419,7 +2793,7 @@
     },
     {
         "name": "Charlotte Ceyrac-prim",
-        "uid": "CHARLOTTECEYRAC-PRIM",
+        "uid": "CHARLOTTECEYRACPRIM",
         "sports_informations": {
             "category": "Cadet",
             "disciplines": [
@@ -2675,7 +3049,7 @@
     },
     {
         "name": "May-line Boutet",
-        "uid": "MAY-LINEBOUTET",
+        "uid": "MAYLINEBOUTET",
         "sports_informations": {
             "category": "Junior",
             "disciplines": [
@@ -2707,7 +3081,7 @@
     },
     {
         "name": "Tess Morissot-vincent",
-        "uid": "TESSMORISSOT-VINCENT",
+        "uid": "TESSMORISSOTVINCENT",
         "sports_informations": {
             "category": "Cadet",
             "disciplines": [
