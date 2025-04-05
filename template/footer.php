@@ -59,6 +59,12 @@
                         <img src="/assets/partners/martiniault-blanc.svg" alt="Martiniault" class="partner-image partner-martiniault-im">
                     </a>
                 </li>
+
+                <li class="partner-item">
+                    <a href="https://www.kercadelac.fr/" target="_blank">
+                        <img src="/assets/partners/logo-kercadelac-white.svg" alt="Martiniault" class="partner-image partner-martiniault-im">
+                    </a>
+                </li>
             </ul>
         </div>
     </div>
