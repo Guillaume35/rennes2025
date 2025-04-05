@@ -62,7 +62,7 @@
 
                 <li class="partner-item">
                     <a href="https://www.kercadelac.fr/" target="_blank">
-                        <img src="/assets/partners/logo-kercadelac-white.svg" alt="Martiniault" class="partner-image partner-martiniault-im">
+                        <img src="/assets/partners/logo-kercadelac-white.svg" alt="Ker Cadélac" class="partner-image partner-kercadelac-im">
                     </a>
                 </li>
             </ul>
