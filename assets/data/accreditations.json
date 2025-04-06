@@ -1198,10 +1198,26 @@
             "disciplines": []
         },
         "affiliations": [
-            "Yohann"
+            "Fédération Française de Roller & Skateboard"
         ],
         "roles": [
-            "FFRS"
+            "official"
+        ]
+    },
+    {
+        "name": "Gwendal Bachelot",
+        "uid": "GWENDALBACHELOT",
+        "sports_informations": {
+            "category": "",
+            "disciplines": []
+        },
+        "affiliations": [
+            "Raiv Rennes2025",
+            "Roller Club Dolois"
+        ],
+        "roles": [
+            "oc",
+            "trainer"
         ]
     },
     {
@@ -1866,20 +1882,6 @@
         ],
         "roles": [
             "delegate"
-        ]
-    },
-    {
-        "name": "Gwendal Bachelot",
-        "uid": "GWENDALBACHELOT",
-        "sports_informations": {
-            "category": "",
-            "disciplines": []
-        },
-        "affiliations": [
-            "Roller Club Dolois"
-        ],
-        "roles": [
-            "trainer"
         ]
     },
     {
