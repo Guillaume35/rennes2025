@@ -65,6 +65,12 @@
                         <img src="/assets/partners/logo-kercadelac-white.svg" alt="Ker Cadélac" class="partner-image partner-kercadelac-im">
                     </a>
                 </li>
+                
+                <li class="partner-item">
+                    <a href="https://www.bois-expo.com/" target="_blank">
+                        <img src="/assets/partners/bois-expo.png" alt="Bois Expo" class="partner-image partner-bois-im">
+                    </a>
+                </li>
             </ul>
         </div>
     </div>

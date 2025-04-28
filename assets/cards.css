@@ -15,15 +15,23 @@
     box-shadow: 8px 8px #bc1742;
 }
 
-.card-shadow-dark {
+.card-shadow-dark,
+.card-dark {
     background-color: rgb(50, 50, 50);
     color:white;
+}
+
+.card-shadow-dark {
     box-shadow: 8px 8px #bc1742;
 }
 
-.card-shadow-link {
+.card-shadow-link,
+.card-link {
     text-decoration: none;
     color:rgb(50,50,50);
+}
+
+.card-shadow-link {
     transition: box-shadow .3s;
 }
 
@@ -50,7 +58,8 @@
 
 .card-shadow-dark.card-shadow-link,
 .card-shadow-primary.card-shadow-link,
-.card-shadow-raiv.card-shadow-link {
+.card-shadow-raiv.card-shadow-link,
+.card-dark.card-link {
     color:white;
 }
 

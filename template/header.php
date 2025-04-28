@@ -25,6 +25,9 @@
                             <a href="/competition/programme" class="menu-link">Programme</a>
                         </li>
                         <li class="menu-item">
+                            <a href="/live" class="menu-link">En direct</a>
+                        </li>
+                        <li class="menu-item">
                             <a href="/competition/piste" class="menu-link">La piste</a>
                         </li>
                         <li class="menu-item">

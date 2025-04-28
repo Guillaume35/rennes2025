@@ -699,3 +699,11 @@ input[name="carousel-radio"] {
 .carousel-control:hover {
     background-color: rgba(0, 0, 0, 0.7);
 }
+
+.badge-live {
+    background-color: red;
+    padding: 5px 10px;
+    color: white;
+    font-weight: bold;
+    border-radius: 4px;
+}
